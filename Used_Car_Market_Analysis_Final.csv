@@ -1,0 +1,1527 @@
+,brand,model,variant,year,price,fuel_type,transmission,km_driven,ownership,body_type,city_id,car_age,price_segment
+0,Tata,TIGOR,XT PETROL,2017,330000,Petrol,Manual,98038,1,Sedan,3686,9,Mid-Range
+1,Tata,TIAGO NRG,PETROL,2019,432960,Petrol,Manual,28954,1,Hatchback,3686,7,Mid-Range
+2,Tata,PUNCH,ADVENTURE MT,2022,575758,Petrol,Manual,13004,1,SUV,3686,4,Mid-Range
+3,Tata,NEXON,XZA PLUS PETROL DARK EDITION,2023,845000,Petrol,Automatic,69004,1,SUV,3686,3,Premium
+5,Tata,ALTROZ,XT PETROL,2020,499000,Petrol,Manual,28199,1,Hatchback,3686,6,Mid-Range
+6,Tata,NEXON,XZA PLUS PETROL DUAL TONE,2019,496000,Petrol,Automatic,84719,3,SUV,3686,7,Mid-Range
+7,Tata,Tiago,XZ PETROL,2017,315484,Petrol,Manual,92679,2,Hatchback,3686,9,Mid-Range
+8,Tata,Tiago,XE DIESEL,2016,252000,Diesel,Manual,98516,1,Hatchback,3686,10,Budget
+9,Tata,ALTROZ,XZ DIESEL,2021,572500,Diesel,Manual,75871,2,Hatchback,3686,5,Mid-Range
+10,Tata,NEXON,XZ PLUS DIESEL DUAL TONE,2018,551250,Diesel,Manual,78169,1,SUV,3686,8,Mid-Range
+11,Tata,Tiago,XZ PETROL,2019,387818,Petrol,Manual,88689,2,Hatchback,3686,7,Mid-Range
+12,Tata,NEXON,XZ PLUS PETROL,2019,551225,Petrol,Manual,35054,3,SUV,3686,7,Mid-Range
+13,Tata,Tiago,XT PETROL,2024,490000,Petrol,Manual,57214,1,Hatchback,3686,2,Mid-Range
+14,Tata,Safari,XZ PLUS,2021,1140000,Diesel,Manual,120384,1,SUV,3686,5,Premium
+15,Tata,NEXON,XZA PLUS (HS) PETROL,2022,800000,Petrol,Automatic,25843,2,SUV,3686,4,Premium
+16,Tata,Tiago,XZ PLUS PETROL,2019,444000,Petrol,Manual,27915,1,Hatchback,3686,7,Mid-Range
+17,Tata,Zest,XT PETROL,2015,280000,Petrol,Manual,47942,1,Sedan,3686,11,Budget
+18,Tata,ALTROZ,XZA PLUS DARK EDTION,2023,712000,Petrol,Automatic,43481,1,Hatchback,3686,3,Premium
+19,Tata,NEXON,XZ PLUS PETROL KAZIRANGA,2022,793000,Petrol,Manual,51223,1,SUV,3686,4,Premium
+20,Tata,NEXON,XMA PLUS SUNROOF PETROL,2023,799000,Petrol,Automatic,40242,1,SUV,3686,3,Premium
+21,Tata,NEXON,XZ PLUS (O) PETROL,2022,715000,Petrol,Manual,70049,2,SUV,3686,4,Premium
+22,Tata,NEXON,XZA PLUS PETROL DUAL TONE,2019,688000,Petrol,Automatic,61833,1,SUV,3686,7,Mid-Range
+23,Tata,ALTROZ,XM PLUS CNG,2025,764000,CNG,Manual,40018,1,Hatchback,3686,1,Premium
+24,Tata,NEXON,XZ PLUS (O) PETROL,2021,744085,Petrol,Manual,72884,2,SUV,3686,5,Premium
+25,Tata,PUNCH,ADVENTURE AMT,2025,770000,Petrol,Automatic,13085,1,SUV,3686,1,Premium
+26,Tata,PUNCH,ADVENTURE MT,2022,594000,Petrol,Manual,44667,1,SUV,3686,4,Mid-Range
+27,Tata,PUNCH,PURE MT,2022,490000,Petrol,Manual,23838,1,SUV,3686,4,Mid-Range
+28,Tata,TIGOR,XZA PLUS PETROL,2023,688000,Petrol,Automatic,22069,2,Sedan,3686,3,Mid-Range
+29,Tata,Tiago,XT (O) PETROL,2021,494000,Petrol,Manual,109347,2,Hatchback,3686,5,Mid-Range
+30,Tata,NEXON,CREATIVE + 1.2 PETROL,2024,970417,Petrol,Manual,8120,1,SUV,3686,2,Premium
+32,Tata,NEXON,XZA PLUS LUXURY SUNROOF PETROL,2023,1115000,Petrol,Automatic,38205,1,SUV,3686,3,Premium
+33,Tata,Tiago,XZ PETROL,2018,293000,Petrol,Manual,43621,1,Hatchback,3686,8,Budget
+34,Tata,NEXON,Creative Plus 1.5 Revotorq 6MT Dark Edition,2024,1094000,Diesel,Manual,19846,1,SUV,3686,2,Premium
+35,Tata,NEXON,XM PETROL,2023,700000,Petrol,Manual,41747,1,SUV,3686,3,Mid-Range
+36,Tata,Zest,XT PETROL,2015,260000,Petrol,Manual,47562,1,Sedan,3686,11,Budget
+37,Tata,Tiago,XE DIESEL,2019,310000,Diesel,Manual,95730,2,Hatchback,3686,7,Mid-Range
+38,Tata,Tiago,XZ PETROL,2018,315000,CNG,Manual,70624,1,Hatchback,3686,8,Mid-Range
+39,Tata,Indigo ECS,VX CR4,2012,96000,Diesel,Manual,77205,1,Sedan,3686,14,Budget
+40,Tata,NEXON,PURE 1.5 DIESEL,2024,891000,Diesel,Manual,22026,1,SUV,3686,2,Premium
+41,Tata,Bolt,XE QUADRAJET,2017,182000,Diesel,Manual,191980,1,Hatchback,3686,9,Budget
+42,Tata,Indica Vista,LS TDI,2012,67000,Diesel,Manual,184813,2,Hatchback,3686,14,Budget
+43,Tata,NEXON,XZ PLUS DIESEL,2020,633000,Diesel,Manual,76817,1,SUV,3686,6,Mid-Range
+44,Tata,NEXON,SMART PLUS S 1.2 REVOTRON,2024,806000,Petrol,Manual,22877,1,SUV,3686,2,Premium
+45,Tata,Nano,LX,2011,53000,Petrol,Manual,60766,2,Hatchback,3686,15,Budget
+46,Tata,TIGOR,XT PETROL,2017,322000,Petrol,Manual,165248,1,Sedan,3686,9,Mid-Range
+47,Tata,Harrier,XT PLUS 2.0L KRYOTEC DARK EDITON,2021,1341000,Diesel,Manual,30436,1,SUV,3686,5,Premium
+49,Tata,Tiago,XZ PETROL,2017,371000,Petrol,Manual,87724,1,Hatchback,3686,9,Mid-Range
+50,Tata,Tiago,XZA PETROL,2018,375000,Petrol,Automatic,67507,2,Hatchback,3686,8,Mid-Range
+51,Tata,PUNCH,ADVENTURE MT,2023,590000,Petrol,Manual,66990,1,SUV,3686,3,Mid-Range
+52,Tata,Indica EV2,LX,2011,127000,Diesel,Manual,131497,3,Hatchback,3686,15,Budget
+53,Tata,NEXON,XM PLUS SUNROOF PETROL,2023,740000,Petrol,Manual,23635,2,SUV,3686,3,Premium
+54,Tata,Zest,XE 75PS DIESEL,2018,250000,Diesel,Manual,129490,3,Sedan,3686,8,Budget
+55,Tata,NEXON,CREATIVE+ AMT 1.2 PETROL,2023,795000,Petrol,Automatic,46802,1,SUV,3686,3,Premium
+56,Tata,NEXON,XM PETROL,2019,538000,Petrol,Manual,66646,1,SUV,3686,7,Mid-Range
+57,Tata,Zest,XMS PETROL,2014,160000,Petrol,Manual,105712,1,Sedan,3686,12,Budget
+58,Tata,Zest,XM PETROL,2016,220000,Petrol,Manual,109000,1,Sedan,3686,10,Budget
+59,Tata,Tiago,XZA PETROL,2017,340000,Petrol,Automatic,51321,2,Hatchback,3686,9,Mid-Range
+60,Tata,Tiago,XZ DIESEL,2016,287000,Diesel,Manual,133092,2,Hatchback,3686,10,Budget
+61,Tata,NEXON,XMA SUNROOF PETROL,2021,683000,Petrol,Automatic,58484,2,SUV,3686,5,Mid-Range
+62,Tata,NEXON EV,MAX XZ PLUS FAST CHARGER,2022,1200000,Electric,Automatic,72430,1,SUV,3686,4,Premium
+63,Tata,NEXON,XZ PLUS PETROL,2021,785000,Petrol,Manual,14106,1,SUV,3686,5,Premium
+64,Tata,ALTROZ,XZ PETROL,2021,559000,Petrol,Manual,67988,2,Hatchback,3686,5,Mid-Range
+66,Tata,Hexa,XM 4X2 7 STR,2018,783999,Diesel,Manual,88323,2,SUV,3686,8,Premium
+67,Tata,NEXON,XMA PETROL,2019,650000,Petrol,Automatic,94372,1,SUV,3686,7,Mid-Range
+68,Tata,TIAGO NRG,XZ MT,2022,450000,Petrol,Manual,71638,2,Hatchback,3686,4,Mid-Range
+69,Tata,Tiago,XZA PETROL,2018,436000,Petrol,Automatic,25238,1,Hatchback,3686,8,Mid-Range
+70,Tata,PUNCH,CREATIVE 1.2 MT KAZIRANGA EDITION ,2022,583000,Petrol,Manual,42213,1,SUV,3686,4,Mid-Range
+71,Tata,NEXON,XMA PETROL,2019,650000,Petrol,Automatic,64212,2,SUV,3686,7,Mid-Range
+72,Tata,NEXON,XZA PLUS PETROL,2021,756000,Petrol,Automatic,49724,1,SUV,3686,5,Premium
+73,Tata,Indica Vista,LS QUADRAJET,2015,105000,Diesel,Manual,247056,2,Hatchback,3686,11,Budget
+74,Tata,Indigo ECS,LX TDI,2013,130000,Diesel,Manual,244990,1,Sedan,3686,13,Budget
+75,Tata,NEXON,XZA PLUS (O) PETROL,2020,741000,Petrol,Automatic,47882,1,SUV,3686,6,Premium
+76,Tata,Indica Vista,LS QUADRAJET,2015,122000,Diesel,Manual,172395,2,Hatchback,3686,11,Budget
+77,Tata,Tiago,XE PETROL,2018,323000,Petrol,Manual,39300,1,Hatchback,3686,8,Mid-Range
+78,Tata,ALTROZ,XZA PLUS DARK EDTION,2023,744000,Petrol,Automatic,16126,1,Hatchback,3686,3,Premium
+79,Tata,NEXON,XMA SUNROOF PETROL,2022,760000,Petrol,Automatic,50064,1,SUV,3686,4,Premium
+80,Tata,Zest,XE 75PS DIESEL,2018,301000,Diesel,Manual,101526,1,Sedan,3686,8,Mid-Range
+81,Tata,NEXON,XZA PLUS PETROL,2018,615000,Petrol,Automatic,59814,2,SUV,3686,8,Mid-Range
+82,Tata,NEXON,XM SUNROOF DIESEL,2021,750000,Diesel,Manual,95070,1,SUV,3686,5,Premium
+83,Tata,Indica EV2,LS,2016,65000,Diesel,Manual,147591,2,Hatchback,3686,10,Budget
+84,Tata,Tiago,XTA PETROL,2023,609000,Petrol,Automatic,6949,1,Hatchback,3686,3,Mid-Range
+86,Tata,Indica Vista,LS TDI,2011,103000,Diesel,Manual,78991,2,Hatchback,3686,15,Budget
+87,Tata,NEXON,XMA PETROL,2022,850000,Petrol,Automatic,40400,1,SUV,3686,4,Premium
+88,Tata,NEXON,XZA PLUS DIESEL,2018,670000,Diesel,Automatic,112098,2,SUV,3686,8,Mid-Range
+89,Tata,NEXON,XM PETROL,2023,891000,Petrol,Manual,10844,1,SUV,3686,3,Premium
+90,Tata,Indica EV2,LS,2014,110000,Diesel,Manual,87416,3,Hatchback,3686,12,Budget
+91,Tata,TIGOR,XZA Plus iCNG ,2024,690000,CNG,Automatic,41095,1,Sedan,3686,2,Mid-Range
+92,Tata,Indica V2,LS DIESEL,2016,112000,Diesel,Manual,192700,2,Hatchback,3686,10,Budget
+93,Tata,NEXON,XZ PLUS PETROL,2022,789000,Petrol,Manual,24554,1,SUV,3686,4,Premium
+94,Tata,Tiago,XZA PETROL,2018,360000,Petrol,Automatic,123872,1,Hatchback,3686,8,Mid-Range
+95,Tata,Harrier,XZ 2.0L,2021,1233000,Diesel,Manual,48531,1,SUV,3686,5,Premium
+96,Tata,NEXON,XZA PLUS (PREMIUM) PETROL DARK EDITION,2022,819000,Petrol,Automatic,48166,1,SUV,3686,4,Premium
+97,Tata,Tiago,XTA PETROL,2025,617000,Petrol,Automatic,14594,1,Hatchback,3686,1,Mid-Range
+98,Tata,PUNCH,Creative Plus,2025,854000,Petrol,Manual,293,1,SUV,3686,1,Premium
+99,Tata,Tiago,XZ PLUS PETROL,2022,537000,Petrol,Manual,73375,1,Hatchback,3686,4,Mid-Range
+100,Tata,Tiago,XZ PLUS PETROL,2022,500000,Petrol,Manual,25782,2,Hatchback,3686,4,Mid-Range
+102,Tata,ALTROZ,XT PETROL,2023,663000,Petrol,Manual,19827,1,Hatchback,3686,3,Mid-Range
+103,Tata,NEXON,XZA PLUS PETROL,2018,635000,Petrol,Automatic,63092,1,SUV,3686,8,Mid-Range
+104,Tata,NEXON,XZA PLUS LUXURY SUNROOF PETROL,2023,1080000,Petrol,Automatic,40964,6,SUV,3686,3,Premium
+105,Tata,NEXON,XZ PETROL,2021,695000,Petrol,Manual,47302,2,SUV,3686,5,Mid-Range
+106,Tata,NEXON,XZ PLUS PETROL SUNROOF,2022,760000,Petrol,Manual,77413,2,SUV,3686,4,Premium
+107,Tata,NEXON,XZ PLUS PETROL,2022,830000,Petrol,Manual,3186,1,SUV,3686,4,Premium
+108,Tata,Tiago,XZA PETROL,2019,430000,Petrol,Automatic,91490,1,Hatchback,3686,7,Mid-Range
+109,Tata,PUNCH,CREATIVE AMT 1.2 RTN DUAL TONE,2021,650000,Petrol,Automatic,34972,1,SUV,3686,5,Mid-Range
+110,Tata,NEXON,XZA PLUS PETROL,2021,700000,Petrol,Automatic,87704,1,SUV,3686,5,Mid-Range
+111,Tata,ALTROZ,XZ PLUS DIESEL,2023,736000,Diesel,Manual,57213,1,Hatchback,3686,3,Premium
+112,Tata,NEXON,CREATIVE 1.2 REVOTRON 6 AMT DT,2025,1099000,Petrol,Automatic,8221,1,SUV,3686,1,Premium
+113,Tata,Tiago,XZ PETROL,2017,316000,Petrol,Manual,92836,2,Hatchback,3686,9,Mid-Range
+114,Tata,NEXON,XZ PLUS PETROL,2017,573000,Petrol,Manual,72777,1,SUV,3686,9,Mid-Range
+115,Tata,NEXON,XZA PLUS DIESEL,2018,699000,Diesel,Automatic,69300,1,SUV,3686,8,Mid-Range
+116,Tata,PUNCH,Creative Plus (S) AMT,2025,879000,Petrol,Automatic,11202,1,SUV,3686,1,Premium
+117,Tata,Safari,4X2 VX DICOR,2012,298000,Diesel,Manual,219756,1,SUV,3686,14,Budget
+118,Tata,TIAGO NRG,XZ MT,2023,560000,Petrol,Manual,20322,1,Hatchback,3686,3,Mid-Range
+119,Tata,ALTROZ,XT PETROL,2020,608000,Petrol,Manual,72603,1,Hatchback,3686,6,Mid-Range
+120,Tata,Tiago,XZA PLUS PETROL,2021,525000,Petrol,Automatic,79504,2,Hatchback,3686,5,Mid-Range
+121,Tata,NEXON,CREATIVE AMT 1.5 DIESEL,2025,1191000,Diesel,Automatic,29514,1,SUV,3686,1,Premium
+122,Tata,NEXON,XZ PLUS DIESEL,2017,525000,Diesel,Manual,182882,1,SUV,3686,9,Mid-Range
+123,Tata,Aria,PURE 4X2,2011,277000,Diesel,Manual,150000,2,SUV,3686,15,Budget
+128,Tata,NEXON,CREATIVE+ SUNROOF DCA 1.2 PETROL,2024,1230000,Petrol,Automatic,7873,1,SUV,3686,2,Premium
+129,Tata,NEXON,CREATIVE+ AMT 1.2 PETROL,2024,1183000,Petrol,Automatic,16056,1,SUV,3686,2,Premium
+130,Tata,ALTROZ,XZ PETROL,2022,612000,Petrol,Manual,59865,2,Hatchback,3686,4,Mid-Range
+132,Tata,NEXON,XZ PLUS PETROL SUNROOF,2021,774000,Petrol,Manual,52682,1,SUV,3686,5,Premium
+133,Tata,ALTROZ,XZ PLUS PETROL DARK EDITION,2022,711000,Petrol,Manual,26222,2,Hatchback,3686,4,Premium
+136,Tata,Hexa,XE 4X2 7 STR,2018,674000,Diesel,Manual,182899,2,SUV,3686,8,Mid-Range
+137,Tata,NEXON,XZ PLUS (HS) DIESEL,2022,850000,Diesel,Manual,137015,1,SUV,3686,4,Premium
+138,Tata,ALTROZ,XZA + SUNROOF,2024,787000,Petrol,Automatic,25762,1,Hatchback,3686,2,Premium
+139,Tata,Aria,PLEASURE 4X4,2013,300000,Diesel,Manual,105666,2,SUV,3686,13,Budget
+140,Tata,ALTROZ,XZA PLUS,2022,720000,Petrol,Automatic,40433,1,Hatchback,3686,4,Premium
+141,Tata,Harrier,XZ 2.0L,2019,899000,Diesel,Manual,139672,2,SUV,3686,7,Premium
+142,Tata,Tiago,XTA PETROL,2021,484000,Petrol,Automatic,57841,1,Hatchback,3686,5,Mid-Range
+143,Tata,Harrier,XZA PLUS 2.0L DUAL TONE,2020,1210000,Diesel,Automatic,188332,1,SUV,3686,6,Premium
+144,Tata,Harrier,XZ 2.0L,2019,968000,Diesel,Manual,111708,1,SUV,3686,7,Premium
+145,Tata,NEXON EV,MAX XZ PLUS LUX,2022,875000,Electric,Automatic,17122,1,SUV,3686,4,Premium
+146,Tata,Tiago,XZA PLUS PETROL,2021,575000,Petrol,Automatic,35870,1,Hatchback,3686,5,Mid-Range
+148,Tata,Tiago,XT (O) PETROL,2021,463000,Petrol,Manual,111625,1,Hatchback,3686,5,Mid-Range
+150,Tata,NEXON EV,MAX XZ PLUS,2022,1311000,Electric,Automatic,78625,1,SUV,3686,4,Premium
+151,Tata,NEXON EV,MAX XZ PLUS,2022,1226000,Electric,Automatic,91582,1,SUV,3686,4,Premium
+152,Tata,TIAGO EV,XZ PLUS TECH LUX LONG RANGE,2025,970000,Electric,Automatic,20090,1,Hatchback,3686,1,Premium
+155,Tata,TIGOR EV,XZ PLUS,2023,969000,Electric,Automatic,43862,1,Sedan,3686,3,Premium
+156,Tata,Harrier,XZ 2.0L,2019,941000,Diesel,Manual,123885,1,SUV,3686,7,Premium
+157,Tata,NEXON EV,XZ PLUS,2022,950000,Electric,Automatic,152000,1,SUV,3686,4,Premium
+158,Tata,NEXON EV,XZ PLUS LUX,2021,950000,Electric,Automatic,142511,1,SUV,3686,5,Premium
+159,Tata,Tiago,XZ PETROL,2017,350000,Petrol,Manual,42140,1,Hatchback,3686,9,Mid-Range
+160,Tata,NEXON,XMA PETROL,2019,715000,Petrol,Automatic,40845,1,SUV,3686,7,Premium
+161,Tata,ALTROZ,Accomplished S Petrol 5 MT,2025,856000,Petrol,Manual,4208,1,Hatchback,3686,1,Premium
+163,Tata,Nano,TWIST XTA,2015,135000,Petrol,Automatic,46327,3,Hatchback,3686,11,Budget
+164,Tata,Indigo ECS,LX TDI,2016,145000,Diesel,Manual,124748,2,Sedan,3686,10,Budget
+165,Tata,NEXON,XZA PLUS PETROL DARK EDITION,2021,742658,Petrol,Automatic,27633,1,SUV,3686,5,Premium
+166,Tata,Tiago,XZ PETROL,2018,385948,Petrol,Manual,60113,1,Hatchback,3686,8,Mid-Range
+167,Tata,NEXON,XE PETROL,2019,499000,Petrol,Manual,30670,1,SUV,3686,7,Mid-Range
+168,Tata,Zest,XE PETROL,2015,247500,Petrol,Manual,55191,2,Sedan,3686,11,Budget
+169,Tata,NEXON,XM SUNROOF DIESEL,2022,680000,Diesel,Manual,99167,1,SUV,3686,4,Mid-Range
+170,Maruti,Alto 800,LXI,2017,221000,Petrol,Manual,77425,1,Hatchback,3686,9,Budget
+171,Maruti,Wagon R 1.0,VXI AMT,2017,347418,Petrol,Automatic,58211,2,Hatchback,3686,9,Mid-Range
+172,Maruti,Swift,VXI AMT,2019,435000,Petrol,Automatic,100922,1,Hatchback,3686,7,Mid-Range
+173,Maruti,New Wagon-R,ZXI 1.2,2019,390481,Petrol,Manual,85776,1,Hatchback,3686,7,Mid-Range
+174,Maruti,Swift,VDI AMT,2019,545000,Diesel,Automatic,75971,2,Hatchback,3686,7,Mid-Range
+175,Maruti,IGNIS,ZETA 1.2,2019,420375,Petrol,Manual,74491,1,Hatchback,3686,7,Mid-Range
+176,Maruti,Alto 800,LXI,2015,209482,Petrol,Manual,52260,2,Hatchback,3686,11,Budget
+177,Maruti,Zen Estilo,VXI,2012,160000,Petrol,Manual,64294,1,Hatchback,3686,14,Budget
+178,Maruti,Alto K10,VXI,2016,233000,Petrol,Manual,72104,1,Hatchback,3686,10,Budget
+179,Maruti,Alto K10,VXI AMT,2016,268874,Petrol,Automatic,43107,1,Hatchback,3686,10,Budget
+180,Maruti,Alto 800,LXI,2019,258185,Petrol,Manual,38255,2,Hatchback,3686,7,Budget
+181,Maruti,Alto 800,LXI,2015,155000,Petrol,Manual,37684,1,Hatchback,3686,11,Budget
+182,Maruti,New Wagon-R,VXI 1.0,2024,524830,Petrol,Manual,11885,1,Hatchback,3686,2,Mid-Range
+183,Maruti,Alto K10,VXI,2014,192000,Petrol,Manual,69152,2,Hatchback,3686,12,Budget
+184,Maruti,Alto 800,LXI,2013,132000,Petrol,Manual,60434,2,Hatchback,3686,13,Budget
+185,Maruti,Swift Dzire,VXI (O),2016,362000,Petrol,Manual,68892,1,Sedan,3686,10,Mid-Range
+186,Maruti,IGNIS,ZETA 1.2,2018,332000,Petrol,Manual,98726,2,Hatchback,3686,8,Mid-Range
+187,Maruti,Swift,VXI AMT,2019,382000,Petrol,Automatic,112552,1,Hatchback,3686,7,Mid-Range
+188,Maruti,Baleno,DELTA PETROL 1.2,2019,455000,Petrol,Manual,55801,1,Hatchback,3686,7,Mid-Range
+189,Maruti,Celerio,VXI AMT,2016,301000,Petrol,Automatic,82469,2,Hatchback,3686,10,Mid-Range
+190,Maruti,Vitara Brezza,ZDI,2019,674500,Diesel,Manual,82795,1,SUV,3686,7,Mid-Range
+191,Maruti,Ertiga,ZXI+ SHVS,2021,984534,Petrol,Manual,21303,2,SUV,3686,5,Premium
+192,Maruti,Dzire,VXI AMT,2020,470500,Petrol,Automatic,77670,1,Sedan,3686,6,Mid-Range
+193,Maruti,Celerio X,VXI,2018,315000,Petrol,Manual,77215,1,Hatchback,3686,8,Mid-Range
+194,Maruti,Celerio,VDI,2016,256500,Diesel,Manual,83692,1,Hatchback,3686,10,Budget
+195,Maruti,Swift Dzire,LXI,2013,223785,Petrol,Manual,83282,2,Sedan,3686,13,Budget
+196,Maruti,Swift Dzire,VDI,2017,460000,Diesel,Manual,76206,1,Sedan,3686,9,Mid-Range
+197,Maruti,Baleno,DELTA PETROL 1.2,2018,397500,Petrol,Manual,89549,1,Hatchback,3686,8,Mid-Range
+198,Maruti,Celerio,VXI,2015,229775,Petrol,Manual,79902,1,Hatchback,3686,11,Budget
+199,Maruti,Vitara Brezza,VDI (O),2016,571505,Diesel,Manual,97573,1,SUV,3686,10,Mid-Range
+200,Maruti,Swift Dzire,VDI,2013,352500,Diesel,Manual,15375,1,Sedan,3686,13,Mid-Range
+201,Maruti,Swift,VXI AMT,2019,427500,Petrol,Automatic,72491,1,Hatchback,3686,7,Mid-Range
+202,Maruti,Alto K10,VXI,2013,178175,Petrol,Manual,37850,2,Hatchback,3686,13,Budget
+203,Maruti,Ritz,LXI,2013,207000,Petrol,Manual,66166,1,Hatchback,3686,13,Budget
+204,Maruti,Wagon R Stingray,VXI,2014,268000,Petrol,Manual,31428,1,Hatchback,3686,12,Budget
+205,Maruti,Swift,LXI,2020,388425,Petrol,Manual,121832,1,Hatchback,3686,6,Mid-Range
+206,Maruti,Baleno,DELTA PETROL 1.2,2020,470500,Petrol,Manual,62862,1,Hatchback,3686,6,Mid-Range
+207,Maruti,Baleno,DELTA PETROL 1.2,2017,387000,Petrol,Manual,65605,2,Hatchback,3686,9,Mid-Range
+208,Maruti,Ertiga,VXI,2014,449708,Petrol,Manual,64565,1,SUV,3686,12,Mid-Range
+209,Maruti,A Star,VXI,2013,148000,Petrol,Manual,93459,2,Hatchback,3686,13,Budget
+210,Maruti,Swift Dzire,ZDI,2014,339000,Diesel,Manual,111274,1,Sedan,3686,12,Mid-Range
+211,Maruti,Alto K10,VXI,2017,215965,Petrol,Manual,59857,2,Hatchback,3686,9,Budget
+212,Maruti,Dzire,VXI,2019,474000,Petrol,Manual,46580,1,Sedan,3686,7,Mid-Range
+213,Maruti,BREZZA,ZXI AT SMART HYBRID,2022,853000,Petrol,Automatic,35924,1,SUV,3686,4,Premium
+214,Maruti,Vitara Brezza,VDI AMT,2019,598349,Diesel,Automatic,86421,2,SUV,3686,7,Mid-Range
+215,Maruti,Baleno,DELTA PETROL 1.2,2021,501901,Petrol,Manual,88189,1,Hatchback,3686,5,Mid-Range
+216,Maruti,Baleno,DELTA PETROL 1.2,2020,435000,Petrol,Manual,134813,2,Hatchback,3686,6,Mid-Range
+217,Maruti,S Cross,ZETA 1.3,2018,648000,Diesel,Manual,82106,1,SUV,3686,8,Mid-Range
+218,Maruti,Celerio,ZXI AMT,2020,397500,Petrol,Automatic,35898,2,Hatchback,3686,6,Mid-Range
+219,Maruti,Celerio,VXI,2017,279500,Petrol,Manual,60393,1,Hatchback,3686,9,Budget
+220,Maruti,Alto 800,LXI,2016,162215,Petrol,Manual,78326,1,Hatchback,3686,10,Budget
+221,Maruti,Swift,ZXI AMT,2020,557000,Petrol,Automatic,39057,1,Hatchback,3686,6,Mid-Range
+222,Maruti,Vitara Brezza,ZDI PLUS,2017,621000,Diesel,Manual,82816,2,SUV,3686,9,Mid-Range
+223,Maruti,New Wagon-R,VXI 1.2,2019,375315,Petrol,Manual,49036,1,Hatchback,3686,7,Mid-Range
+224,Maruti,S PRESSO,VXI+,2020,293000,Petrol,Manual,72005,2,Hatchback,3686,6,Budget
+225,Maruti,Dzire,VDI AMT,2019,552500,Diesel,Automatic,45504,1,Sedan,3686,7,Mid-Range
+226,Maruti,Alto 800,VXI,2017,188000,Petrol,Manual,100241,1,Hatchback,3686,9,Budget
+227,Maruti,Alto 800,LXI O,2017,162500,Petrol,Manual,39657,2,Hatchback,3686,9,Budget
+228,Maruti,Swift,ZDI,2016,339000,Diesel,Manual,138155,1,Hatchback,3686,10,Mid-Range
+229,Maruti,Ertiga,ZXI AT SHVS,2019,726000,Petrol,Automatic,73966,1,SUV,3686,7,Premium
+230,Maruti,Wagon R 1.0,VXI,2015,233000,Petrol,Manual,75885,1,Hatchback,3686,11,Budget
+231,Maruti,Alto K10,VXI,2019,242500,Petrol,Manual,61332,1,Hatchback,3686,7,Budget
+232,Maruti,XL6,ZETA MT,2021,765474,Petrol,Manual,102876,1,SUV,3686,5,Premium
+233,Maruti,New Wagon-R,VXI 1.0,2019,378000,Petrol,Manual,34056,1,Hatchback,3686,7,Mid-Range
+234,Maruti,Baleno,ALPHA PETROL 1.2,2018,428500,Petrol,Manual,105276,1,Hatchback,3686,8,Mid-Range
+235,Maruti,IGNIS,ZETA 1.2 DUAL TONE,2018,381935,Petrol,Manual,86255,1,Hatchback,3686,8,Mid-Range
+236,Maruti,Swift,VXI AMT,2019,442000,Petrol,Automatic,84483,1,Hatchback,3686,7,Mid-Range
+237,Maruti,Alto 800,LXI,2015,216000,Petrol,Manual,56457,2,Hatchback,3686,11,Budget
+238,Maruti,Ciaz,DELTA 1.4 MT PETROL,2018,444000,Petrol,Manual,79242,1,Sedan,3686,8,Mid-Range
+239,Maruti,Wagon R 1.0,VXI OPT,2018,353225,Petrol,Manual,10070,1,Hatchback,3686,8,Mid-Range
+240,Maruti,New Wagon-R,ZXI PLUS 1.2 AMT,2022,516000,Petrol,Automatic,31822,1,Hatchback,3686,4,Mid-Range
+241,Maruti,Alto K10,VXI,2019,230000,Petrol,Manual,91234,1,Hatchback,3686,7,Budget
+242,Maruti,Dzire,VDI AMT,2018,559000,Diesel,Automatic,41581,1,Sedan,3686,8,Mid-Range
+243,Maruti,Celerio,VXI CNG,2022,478000,CNG,Manual,31269,1,Hatchback,3686,4,Mid-Range
+244,Maruti,Swift Dzire,ZXI,2016,428000,Petrol,Manual,86221,1,Sedan,3686,10,Mid-Range
+245,Maruti,Alto K10,VXI,2016,238000,Petrol,Manual,69833,1,Hatchback,3686,10,Budget
+246,Maruti,Alto 800,VXI,2018,257000,Petrol,Manual,4119,2,Hatchback,3686,8,Budget
+247,Maruti,Swift,ZXI PLUS AMT,2019,470000,Petrol,Automatic,148473,1,Hatchback,3686,7,Mid-Range
+248,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2019,539500,Petrol,Manual,67257,1,Sedan,3686,7,Mid-Range
+249,Maruti,Ciaz,DELTA 1.4 AT PETROL,2018,531000,Petrol,Automatic,127750,1,Sedan,3686,8,Mid-Range
+250,Maruti,IGNIS,SIGMA 1.2,2017,332000,Petrol,Manual,68854,1,Hatchback,3686,9,Mid-Range
+251,Maruti,Swift,VDI,2015,374000,Diesel,Manual,92139,2,Hatchback,3686,11,Mid-Range
+252,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2022,608000,Petrol,Manual,56658,2,Sedan,3686,4,Mid-Range
+253,Maruti,Vitara Brezza,ZDI PLUS AMT,2019,652500,Diesel,Automatic,108414,1,SUV,3686,7,Mid-Range
+254,Maruti,Celerio,ZXI AMT,2017,360000,Petrol,Automatic,39401,1,Hatchback,3686,9,Mid-Range
+255,Maruti,Baleno,ALPHA CVT PETROL 1.2,2018,412000,Petrol,Automatic,120838,2,Hatchback,3686,8,Mid-Range
+256,Maruti,Vitara Brezza,VXI,2022,696000,Petrol,Manual,51828,1,SUV,3686,4,Mid-Range
+257,Maruti,Alto 800,LXI,2019,215000,Petrol,Manual,93065,1,Hatchback,3686,7,Budget
+258,Maruti,Swift,ZDI AMT,2019,559000,Diesel,Automatic,61442,1,Hatchback,3686,7,Mid-Range
+259,Maruti,Alto K10,VXI,2017,227000,Petrol,Manual,59977,1,Hatchback,3686,9,Budget
+260,Maruti,Dzire,ZXI AMT,2019,570380,Petrol,Automatic,71424,1,Sedan,3686,7,Mid-Range
+261,Maruti,New Wagon-R,VXI 1.2,2021,440000,Petrol,Manual,32332,1,Hatchback,3686,5,Mid-Range
+262,Maruti,Wagon R 1.0,VXI,2015,266613,Petrol,Manual,52852,2,Hatchback,3686,11,Budget
+263,Maruti,Swift,VDI ABS,2017,490000,Diesel,Manual,84342,1,Hatchback,3686,9,Mid-Range
+264,Maruti,Vitara Brezza,ZXI PLUS AT DUAL TONE SHVS,2020,759000,Petrol,Automatic,61463,2,SUV,3686,6,Premium
+265,Maruti,Celerio,ZXI (O),2017,317000,Petrol,Manual,75516,2,Hatchback,3686,9,Mid-Range
+266,Maruti,Eeco,7 STR STD(O),2022,392000,Petrol,Manual,32848,1,SUV,3686,4,Mid-Range
+267,Maruti,IGNIS,DELTA 1.2 AMT,2019,451371,Petrol,Automatic,14627,2,Hatchback,3686,7,Mid-Range
+268,Maruti,Alto 800,LXI,2018,246000,Petrol,Manual,15125,1,Hatchback,3686,8,Budget
+269,Maruti,Ciaz,ALPHA  AT 1.4  PETROL,2018,582742,Petrol,Automatic,83019,1,Sedan,3686,8,Mid-Range
+270,Maruti,XL6,ALPHA AT,2021,929000,Petrol,Automatic,35322,1,SUV,3686,5,Premium
+271,Maruti,Vitara Brezza,ZDI,2018,640000,Diesel,Manual,85198,1,SUV,3686,8,Mid-Range
+272,Maruti,New Wagon-R,VXI (O) 1.0,2021,410000,Petrol,Manual,40746,1,Hatchback,3686,5,Mid-Range
+273,Maruti,Wagon R 1.0,VXI (O) AMT,2018,294500,Petrol,Automatic,89199,1,Hatchback,3686,8,Budget
+274,Maruti,Alto 800,VXI O,2018,243735,Petrol,Manual,22521,1,Hatchback,3686,8,Budget
+275,Maruti,Eeco,5 STR WITH A/C+HTR,2019,366000,Petrol,Manual,78668,1,SUV,3686,7,Mid-Range
+276,Maruti,Wagon R 1.0,VXI AMT,2017,314000,Petrol,Automatic,78443,1,Hatchback,3686,9,Mid-Range
+277,Maruti,Baleno,ZETA CVT PETROL 1.2,2018,532000,Petrol,Automatic,24422,1,Hatchback,3686,8,Mid-Range
+278,Maruti,S PRESSO,LXI S-CNG,2024,398000,CNG,Manual,23158,1,Hatchback,3686,2,Mid-Range
+279,Maruti,New Wagon-R,VXI 1.0,2021,414000,Petrol,Manual,46758,1,Hatchback,3686,5,Mid-Range
+280,Maruti,IGNIS,DELTA 1.2 AMT,2018,347000,Petrol,Automatic,110580,2,Hatchback,3686,8,Mid-Range
+281,Maruti,New Wagon-R,VXI 1.0,2021,428000,Petrol,Manual,35961,1,Hatchback,3686,5,Mid-Range
+282,Maruti,S PRESSO,VXI+,2021,350549,Petrol,Manual,32907,1,Hatchback,3686,5,Mid-Range
+283,Maruti,Alto K10,VXi Plus (O),2025,496000,Petrol,Manual,553,1,Hatchback,3686,1,Mid-Range
+284,Maruti,Celerio,ZXI AMT,2016,293000,Petrol,Automatic,88899,2,Hatchback,3686,10,Budget
+285,Maruti,S Cross,ZETA AT 1.5,2022,731500,Petrol,Automatic,71082,1,SUV,3686,4,Premium
+286,Maruti,Alto K10,VXI,2018,217000,Petrol,Manual,113273,1,Hatchback,3686,8,Budget
+287,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2021,652000,Petrol,Manual,49264,1,Sedan,3686,5,Mid-Range
+288,Maruti,Baleno,ALPHA CVT PETROL 1.2,2018,541000,Petrol,Automatic,44653,1,Hatchback,3686,8,Mid-Range
+289,Maruti,Vitara Brezza,ZXI AT SHVS,2020,751000,Petrol,Automatic,83488,2,SUV,3686,6,Premium
+290,Maruti,New Wagon-R,LXI CNG 1.0,2022,393000,CNG,Manual,112763,1,Hatchback,3686,4,Mid-Range
+291,Maruti,BREZZA,ZXI + SMART HYBRID,2023,869000,Petrol,Manual,96221,1,SUV,3686,3,Premium
+292,Maruti,Dzire,ZXI PLUS AMT,2018,590000,Petrol,Automatic,53504,1,Sedan,3686,8,Mid-Range
+293,Maruti,New Wagon-R,ZXI 1.2 AMT,2020,416000,Petrol,Automatic,83783,1,Hatchback,3686,6,Mid-Range
+294,Maruti,Baleno,ALPHA CVT PETROL 1.2,2018,526175,Petrol,Automatic,62927,1,Hatchback,3686,8,Mid-Range
+295,Maruti,Vitara Brezza,ZDI PLUS AMT,2019,751000,Diesel,Automatic,72378,2,SUV,3686,7,Premium
+296,Maruti,Baleno,ZETA CVT PETROL 1.2,2017,442000,Petrol,Automatic,97116,1,Hatchback,3686,9,Mid-Range
+297,Maruti,Celerio,VXI (O),2020,418297,Petrol,Manual,11667,1,Hatchback,3686,6,Mid-Range
+298,Maruti,S PRESSO,VXI PLUS AMT,2021,367236,Petrol,Automatic,48989,1,Hatchback,3686,5,Mid-Range
+299,Maruti,Baleno,DELTA PETROL 1.2,2018,475575,Petrol,Manual,28912,2,Hatchback,3686,8,Mid-Range
+300,Maruti,S Cross,ZETA 1.3,2018,701446,Diesel,Manual,71752,1,SUV,3686,8,Premium
+301,Maruti,Swift,VDI,2013,268000,Diesel,Manual,196671,2,Hatchback,3686,13,Budget
+302,Maruti,Swift,VDI,2013,289000,Diesel,Manual,197758,2,Hatchback,3686,13,Budget
+303,Maruti,Swift,VXI,2012,264000,Petrol,Manual,21683,1,Hatchback,3686,14,Budget
+304,Maruti,Dzire,VXI CNG,2023,594000,CNG,Manual,82324,2,Sedan,3686,3,Mid-Range
+305,Maruti,Dzire,VDI,2019,480000,Diesel,Manual,245628,3,Sedan,3686,7,Mid-Range
+306,Maruti,Swift,ZXI,2019,611000,Petrol,Manual,78751,1,Hatchback,3686,7,Mid-Range
+307,Maruti,Swift,VXI,2023,607000,Petrol,Manual,54985,1,Hatchback,3686,3,Mid-Range
+308,Maruti,Ciaz,ZDI SHVS,2016,551000,Diesel,Manual,118820,1,Sedan,3686,10,Mid-Range
+309,Maruti,Celerio,VXI AMT,2014,312000,Petrol,Automatic,55357,1,Hatchback,3686,12,Mid-Range
+310,Maruti,Baleno,ZETA CVT PETROL 1.2,2018,514000,Petrol,Automatic,38241,1,Hatchback,3686,8,Mid-Range
+311,Maruti,Baleno,DELTA PETROL 1.2,2020,455000,Petrol,Manual,44757,2,Hatchback,3686,6,Mid-Range
+312,Maruti,Dzire,ZXI PLUS AMT,2018,545000,Petrol,Automatic,126500,1,Sedan,3686,8,Mid-Range
+313,Maruti,Wagon R 1.0,VXI,2015,333000,Petrol,Manual,29627,3,Hatchback,3686,11,Mid-Range
+314,Maruti,New Wagon-R,ZXI PLUS 1.2 AMT,2024,573000,Petrol,Automatic,40926,1,Hatchback,3686,2,Mid-Range
+315,Maruti,Baleno,SIGMA PETROL 1.2,2020,429000,Petrol,Manual,46000,1,Hatchback,3686,6,Mid-Range
+316,Maruti,Ritz,VXI,2011,187000,Petrol,Manual,83810,2,Hatchback,3686,15,Budget
+317,Maruti,Swift,ZXI PLUS,2022,650000,Petrol,Manual,87754,1,Hatchback,3686,4,Mid-Range
+318,Maruti,Vitara Brezza,ZDI,2019,627000,Diesel,Manual,94199,1,SUV,3686,7,Mid-Range
+319,Maruti,IGNIS,ZETA 1.2,2022,547000,Petrol,Manual,54868,1,Hatchback,3686,4,Mid-Range
+320,Maruti,FRONX,DELTA 1.2 AGS,2023,549000,Petrol,Automatic,148528,1,Hatchback,3686,3,Mid-Range
+321,Maruti,S Cross,ZETA 1.5,2020,707000,Petrol,Manual,115266,1,SUV,3686,6,Premium
+322,Maruti,Vitara Brezza,ZXI AT SHVS,2020,828000,Petrol,Automatic,21757,1,SUV,3686,6,Premium
+323,Maruti,Alto 800,VXI,2018,267000,Petrol,Manual,69536,2,Hatchback,3686,8,Budget
+324,Maruti,Swift,VDI,2014,270000,Diesel,Manual,135607,1,Hatchback,3686,12,Budget
+325,Maruti,Baleno,ALPHA PETROL 1.2,2023,775000,Petrol,Manual,44610,2,Hatchback,3686,3,Premium
+326,Maruti,Alto 800,LXI,2017,245000,Petrol,Manual,49700,2,Hatchback,3686,9,Budget
+327,Maruti,Vitara Brezza,VXI AT SHVS,2020,800000,Petrol,Automatic,81419,1,SUV,3686,6,Premium
+328,Maruti,Dzire,VXI,2019,432000,Petrol,Manual,95482,2,Sedan,3686,7,Mid-Range
+329,Maruti,IGNIS,ALPHA 1.2,2021,520000,Petrol,Manual,12824,1,Hatchback,3686,5,Mid-Range
+330,Maruti,Wagon R 1.0,VXI,2013,215000,Petrol,Manual,136216,2,Hatchback,3686,13,Budget
+331,Maruti,Alto 800,LXI O,2017,225000,Petrol,Manual,42288,2,Hatchback,3686,9,Budget
+332,Maruti,Ertiga,VXI,2017,584000,Petrol,Manual,45320,2,SUV,3686,9,Mid-Range
+333,Maruti,Swift Dzire,TOUR DIESEL,2016,240000,Diesel,Manual,182167,3,Sedan,3686,10,Budget
+334,Maruti,Swift Dzire,TOUR S DIESEL,2019,357000,Diesel,Manual,76392,2,Sedan,3686,7,Mid-Range
+335,Maruti,OMNI E,8 STR,2018,211000,Petrol,Manual,66696,2,SUV,3686,8,Budget
+336,Maruti,Alto K10,VXI AMT,2016,184000,Petrol,Automatic,54886,1,Hatchback,3686,10,Budget
+337,Maruti,Swift,VXI,2018,508000,Petrol,Manual,15536,1,Hatchback,3686,8,Mid-Range
+338,Maruti,Alto 800,LXI,2014,220000,Petrol,Manual,94453,3,Hatchback,3686,12,Budget
+339,Maruti,Celerio,VXI,2016,334000,Petrol,Manual,98900,1,Hatchback,3686,10,Mid-Range
+340,Maruti,S PRESSO,VXI+,2020,360000,Petrol,Manual,31837,1,Hatchback,3686,6,Mid-Range
+341,Maruti,Eeco,5 STR WITH A/C+HTR,2020,380000,Petrol,Manual,28351,2,SUV,3686,6,Mid-Range
+342,Maruti,Alto K10,VXI,2014,176000,Petrol,Manual,87350,1,Hatchback,3686,12,Budget
+343,Maruti,Wagon R 1.0,VXI,2017,272000,CNG,Manual,161332,2,Hatchback,3686,9,Budget
+344,Maruti,Alto 800,LXI,2013,153000,Petrol,Manual,115202,1,Hatchback,3686,13,Budget
+345,Maruti,Ciaz,DELTA DIESEL 1.3,2017,486000,Diesel,Manual,67256,1,Sedan,3686,9,Mid-Range
+346,Maruti,Ritz,VXI,2013,215000,Petrol,Manual,87584,6,Hatchback,3686,13,Budget
+347,Maruti,Swift Dzire,VDI,2014,459000,Diesel,Manual,149858,2,Sedan,3686,12,Mid-Range
+348,Maruti,Swift Dzire,VXI,2013,217000,Petrol,Manual,111810,2,Sedan,3686,13,Budget
+349,Maruti,Alto K10,VXI,2014,215000,Petrol,Manual,24000,1,Hatchback,3686,12,Budget
+350,Maruti,Alto 800,LXI,2012,162000,Petrol,Manual,9630,1,Hatchback,3686,14,Budget
+351,Maruti,Wagon R 1.0,VXI (O) AMT,2016,209000,Petrol,Automatic,85302,1,Hatchback,3686,10,Budget
+352,Maruti,Alto 800,LXI,2014,172000,Petrol,Manual,81906,2,Hatchback,3686,12,Budget
+353,Maruti,Alto 800,LXI,2014,154000,Petrol,Manual,33487,1,Hatchback,3686,12,Budget
+354,Maruti,Swift Dzire,TOUR DIESEL,2016,246000,Diesel,Manual,95027,5,Sedan,3686,10,Budget
+355,Maruti,Alto 800,LXI,2014,178000,Petrol,Manual,83724,2,Hatchback,3686,12,Budget
+356,Maruti,IGNIS,DELTA 1.2,2017,320000,Petrol,Manual,75064,4,Hatchback,3686,9,Mid-Range
+357,Maruti,Swift Dzire,TOUR DIESEL,2017,333000,Diesel,Manual,178576,2,Sedan,3686,9,Mid-Range
+358,Maruti,Alto 800,VXI,2015,200000,Petrol,Manual,32957,2,Hatchback,3686,11,Budget
+359,Maruti,Baleno,ALPHA 1.2 AGS,2024,788000,Petrol,Automatic,10888,1,Hatchback,3686,2,Premium
+360,Maruti,Alto 800,VXI,2016,183000,Petrol,Manual,87072,1,Hatchback,3686,10,Budget
+361,Maruti,Swift,VXI,2019,380000,Petrol,Manual,114989,1,Hatchback,3686,7,Mid-Range
+362,Maruti,Swift,VDI,2012,206123,Diesel,Manual,129111,2,Hatchback,3686,14,Budget
+363,Maruti,Alto 800,VXI,2014,160000,Petrol,Manual,28602,5,Hatchback,3686,12,Budget
+364,Maruti,SX4,VXI CNG,2013,160000,CNG,Manual,82841,2,Sedan,3686,13,Budget
+365,Maruti,Swift,VXI,2016,383000,Petrol,Manual,59668,2,Hatchback,3686,10,Mid-Range
+366,Maruti,Swift,VXI,2013,287000,Petrol,Manual,80899,2,Hatchback,3686,13,Budget
+367,Maruti,Alto 800,LXI,2013,142000,Petrol,Manual,66381,2,Hatchback,3686,13,Budget
+368,Maruti,Swift,VDI,2013,276000,Diesel,Manual,125837,2,Hatchback,3686,13,Budget
+369,Maruti,Swift,VXI,2014,338000,Petrol,Manual,94084,1,Hatchback,3686,12,Mid-Range
+370,Maruti,Grand Vitara,SIGMA SMART HYBRID,2024,903000,Petrol,Manual,19229,1,SUV,3686,2,Premium
+371,Maruti,Alto 800,LXI,2013,145000,Petrol,Manual,119111,1,Hatchback,3686,13,Budget
+372,Maruti,Swift,VXI,2015,352000,Petrol,Manual,122860,2,Hatchback,3686,11,Mid-Range
+373,Maruti,Wagon R 1.0,LXI CNG,2013,258000,CNG,Manual,109457,1,Hatchback,3686,13,Budget
+374,Maruti,IGNIS,ZETA 1.2,2018,387000,Petrol,Manual,51898,2,Hatchback,3686,8,Mid-Range
+375,Maruti,Swift Dzire,VXI,2015,371000,Petrol,Manual,96545,2,Sedan,3686,11,Mid-Range
+376,Maruti,Alto 800,VXI O,2017,180000,Petrol,Manual,51679,5,Hatchback,3686,9,Budget
+377,Maruti,Swift,VXi,2024,626000,Petrol,Manual,9990,1,Hatchback,3686,2,Mid-Range
+378,Maruti,Alto,LXI,2021,295000,Petrol,Manual,215365,1,Hatchback,3686,5,Budget
+379,Maruti,Alto K10,VXI,2015,170000,Petrol,Manual,116344,1,Hatchback,3686,11,Budget
+380,Maruti,Alto 800,LXI,2016,193000,Petrol,Manual,105197,2,Hatchback,3686,10,Budget
+381,Maruti,Swift,ZDI,2015,371000,Diesel,Manual,200476,5,Hatchback,3686,11,Mid-Range
+382,Maruti,Dzire,VXI,2017,390000,Petrol,Manual,127247,2,Sedan,3686,9,Mid-Range
+383,Maruti,Ciaz,ZXI,2015,353000,Petrol,Manual,134166,2,Sedan,3686,11,Mid-Range
+384,Maruti,Swift,VDI,2013,303000,Diesel,Manual,157347,2,Hatchback,3686,13,Mid-Range
+385,Maruti,Alto 800,LXI,2012,125000,Petrol,Manual,104755,2,Hatchback,3686,14,Budget
+386,Maruti,Celerio,VXI (O),2016,250000,Petrol,Manual,66610,1,Hatchback,3686,10,Budget
+387,Maruti,Alto 800,LXI,2018,225000,Petrol,Manual,78563,4,Hatchback,3686,8,Budget
+388,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2019,500000,Petrol,Manual,50654,2,Sedan,3686,7,Mid-Range
+389,Maruti,Ritz,VDI,2013,213000,Diesel,Manual,267040,2,Hatchback,3686,13,Budget
+390,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2020,468000,Petrol,Manual,37882,2,Sedan,3686,6,Mid-Range
+391,Maruti,Celerio,TOUR H2,2019,236000,Petrol,Manual,85283,2,Hatchback,3686,7,Budget
+392,Maruti,Ritz,VDI,2012,172000,Diesel,Manual,99343,1,Hatchback,3686,14,Budget
+393,Maruti,Swift,LXI,2012,217000,Petrol,Manual,132816,1,Hatchback,3686,14,Budget
+394,Maruti,Wagon R 1.0,VXI,2013,228000,Petrol,Manual,69178,2,Hatchback,3686,13,Budget
+395,Maruti,Ritz,VXI,2012,211000,Petrol,Manual,86961,2,Hatchback,3686,14,Budget
+396,Maruti,S PRESSO,LXI (O) CNG,2022,276000,CNG,Manual,175302,2,Hatchback,3686,4,Budget
+397,Maruti,Ritz,LDI,2016,170000,Diesel,Manual,96000,2,Hatchback,3686,10,Budget
+398,Maruti,Wagon R 1.0,VXI,2013,235000,Petrol,Manual,39819,1,Hatchback,3686,13,Budget
+399,Maruti,Swift Dzire,TOUR DIESEL,2016,294000,Diesel,Manual,177460,1,Sedan,3686,10,Budget
+400,Maruti,JIMNY,ALPHA ALL GRIP PRO MT DUAL TONE,2023,1046000,Petrol,Manual,20853,1,SUV,3686,3,Premium
+401,Maruti,Swift Dzire,VXI,2014,313000,Petrol,Manual,110207,7,Sedan,3686,12,Mid-Range
+402,Maruti,Alto 800,LXI,2017,219000,Petrol,Manual,26672,2,Hatchback,3686,9,Budget
+403,Maruti,Ertiga,VXI AT SHVS,2022,949000,Petrol,Automatic,47809,1,SUV,3686,4,Premium
+404,Maruti,Swift,VDI,2013,250000,Diesel,Manual,120003,2,Hatchback,3686,13,Budget
+405,Maruti,Alto 800,LXI,2013,133000,Petrol,Manual,92002,1,Hatchback,3686,13,Budget
+406,Maruti,Ritz,VXI,2014,200000,Petrol,Manual,79844,3,Hatchback,3686,12,Budget
+407,Maruti,Wagon R,LXI MINOR,2009,96000,Petrol,Manual,146284,6,Hatchback,3686,17,Budget
+408,Maruti,Vitara Brezza,VXI,2020,575000,Petrol,Manual,131804,2,SUV,3686,6,Mid-Range
+409,Maruti,Swift,VDI,2012,239000,Diesel,Manual,116000,1,Hatchback,3686,14,Budget
+410,Maruti,Swift,VDI,2011,156000,Diesel,Manual,183660,2,Hatchback,3686,15,Budget
+411,Maruti,Alto K10,LXI (O),2016,195000,Petrol,Manual,95603,1,Hatchback,3686,10,Budget
+412,Maruti,Alto K10,VXI,2018,229000,Petrol,Manual,66847,2,Hatchback,3686,8,Budget
+413,Maruti,Alto,LXI,2011,110000,Petrol,Manual,48118,1,Hatchback,3686,15,Budget
+414,Maruti,Celerio,ZDI (O),2015,166000,Diesel,Manual,117132,2,Hatchback,3686,11,Budget
+415,Maruti,XL6,ALPHA MT,2020,899000,Petrol,Manual,35277,1,SUV,3686,6,Premium
+416,Maruti,Swift Dzire,ZXI,2011,268000,Petrol,Manual,87436,2,Sedan,3686,15,Budget
+417,Maruti,Alto K10,LXI,2011,142000,Petrol,Manual,117772,2,Hatchback,3686,15,Budget
+418,Maruti,Swift,VDI,2011,171000,Diesel,Manual,74432,2,Hatchback,3686,15,Budget
+419,Maruti,Wagon R Stingray,VXI,2013,269000,Petrol,Manual,67437,1,Hatchback,3686,13,Budget
+420,Maruti,Baleno,DELTA PETROL 1.2,2021,549000,Petrol,Manual,60639,2,Hatchback,3686,5,Mid-Range
+421,Maruti,Swift,VDI,2015,395000,Diesel,Manual,128103,1,Hatchback,3686,11,Mid-Range
+422,Maruti,Swift Dzire,TOUR DIESEL,2017,335000,Diesel,Manual,91559,2,Sedan,3686,9,Mid-Range
+423,Maruti,Swift,ZXI,2015,400000,Petrol,Manual,150000,2,Hatchback,3686,11,Mid-Range
+424,Maruti,S PRESSO,VXI+,2022,404000,Petrol,Manual,37736,1,Hatchback,3686,4,Mid-Range
+425,Maruti,Swift,VXi,2025,678000,Petrol,Manual,5297,1,Hatchback,3686,1,Mid-Range
+426,Maruti,Swift,ZXI,2014,373000,Petrol,Manual,126570,2,Hatchback,3686,12,Mid-Range
+427,Maruti,Wagon R 1.0,LXI CNG,2011,144000,CNG,Manual,99154,1,Hatchback,3686,15,Budget
+428,Maruti,Ertiga,ZDI,2013,557000,Diesel,Manual,124152,1,SUV,3686,13,Mid-Range
+429,Maruti,Swift Dzire,LDI,2012,214000,Diesel,Manual,142153,2,Sedan,3686,14,Budget
+430,Maruti,Wagon R 1.0,VXI,2017,256000,Petrol,Manual,80827,2,Hatchback,3686,9,Budget
+431,Maruti,Swift,VXI,2011,177000,Petrol,Manual,120296,2,Hatchback,3686,15,Budget
+432,Maruti,Swift Dzire,VXI,2013,269000,Petrol,Manual,13142,2,Sedan,3686,13,Budget
+433,Maruti,Swift Dzire,VXI,2014,406000,Petrol,Manual,30856,2,Sedan,3686,12,Mid-Range
+434,Maruti,Swift,VDI,2012,258000,Diesel,Manual,141833,2,Hatchback,3686,14,Budget
+435,Maruti,Celerio,ZXI AMT,2016,326000,Petrol,Automatic,153380,1,Hatchback,3686,10,Mid-Range
+436,Maruti,Alto,LXI,2011,129000,Petrol,Manual,21670,1,Hatchback,3686,15,Budget
+437,Maruti,Swift,VXI AMT,2022,532000,Petrol,Automatic,55230,2,Hatchback,3686,4,Mid-Range
+438,Maruti,Wagon R 1.0,VXI,2012,200000,Petrol,Manual,81330,2,Hatchback,3686,14,Budget
+439,Maruti,Alto K10,VXI,2018,295000,Petrol,Manual,23533,2,Hatchback,3686,8,Budget
+440,Maruti,Swift,VDI,2013,287000,Diesel,Manual,163932,2,Hatchback,3686,13,Budget
+441,Maruti,Swift Dzire,ZDI,2012,281000,Diesel,Manual,249634,3,Sedan,3686,14,Budget
+442,Maruti,Dzire,VXI,2018,398000,Petrol,Manual,151214,2,Sedan,3686,8,Mid-Range
+443,Maruti,Swift,ZXI,2015,385000,Petrol,Manual,62065,2,Hatchback,3686,11,Mid-Range
+444,Maruti,Swift Dzire,VXI,2013,298000,Petrol,Manual,140424,2,Sedan,3686,13,Budget
+445,Maruti,Alto K10,VXI,2017,232000,Petrol,Manual,81152,2,Hatchback,3686,9,Budget
+446,Maruti,Wagon R 1.0,VXI,2011,150000,Petrol,Manual,55988,1,Hatchback,3686,15,Budget
+447,Maruti,Alto,LXI,2010,85000,Petrol,Manual,63173,3,Hatchback,3686,16,Budget
+448,Maruti,S Cross,ZETA 1.3,2017,550000,Diesel,Manual,139941,2,SUV,3686,9,Mid-Range
+449,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2018,593000,Petrol,Manual,46371,1,Sedan,3686,8,Mid-Range
+450,Maruti,Swift Dzire,VDI,2014,260000,Diesel,Manual,89707,1,Sedan,3686,12,Budget
+451,Maruti,Swift,VDI,2015,350000,Diesel,Manual,196357,2,Hatchback,3686,11,Mid-Range
+452,Maruti,Wagon R 1.0,VXI,2018,265000,Petrol,Manual,120913,2,Hatchback,3686,8,Budget
+453,Maruti,S Cross,ZETA 1.5,2022,745000,Petrol,Manual,44912,1,SUV,3686,4,Premium
+454,Maruti,Swift,VXI AMT,2018,419000,Petrol,Automatic,75311,3,Hatchback,3686,8,Mid-Range
+455,Maruti,Ritz,VXI,2011,192000,Petrol,Manual,75165,2,Hatchback,3686,15,Budget
+456,Maruti,Swift Dzire,VDI,2015,495000,Diesel,Manual,145274,1,Sedan,3686,11,Mid-Range
+457,Maruti,Ertiga,VXI CNG,2022,810000,CNG,Manual,191716,1,SUV,3686,4,Premium
+458,Maruti,Alto K10,VXI,2013,135000,Petrol,Manual,78923,3,Hatchback,3686,13,Budget
+459,Maruti,Eeco,5 STR WITH A/C+HTR CNG,2011,165000,CNG,Manual,132453,1,SUV,3686,15,Budget
+460,Maruti,Ertiga,ZDI,2013,350000,Diesel,Manual,143687,1,SUV,3686,13,Mid-Range
+461,Maruti,Celerio,VXI AMT,2018,326000,Petrol,Automatic,65667,2,Hatchback,3686,8,Mid-Range
+462,Maruti,Dzire,VDI,2017,511000,Diesel,Manual,91355,1,Sedan,3686,9,Mid-Range
+463,Maruti,Baleno,DELTA PETROL 1.2,2017,440000,Petrol,Manual,21243,1,Hatchback,3686,9,Mid-Range
+464,Maruti,Swift,VDI,2011,178000,Diesel,Manual,148032,2,Hatchback,3686,15,Budget
+465,Maruti,Ertiga,VXI SHVS,2018,861000,Petrol,Manual,96042,2,SUV,3686,8,Premium
+466,Maruti,Swift Dzire,VXI,2014,338000,Petrol,Manual,100819,2,Sedan,3686,12,Mid-Range
+467,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,2018,637000,Petrol,Automatic,52720,1,Sedan,3686,8,Mid-Range
+468,Maruti,Swift,ZXi Plus Dual Tone,2024,741000,Petrol,Manual,29633,1,Hatchback,3686,2,Premium
+469,Maruti,Swift,VXI AMT,2021,522000,Petrol,Automatic,96345,2,Hatchback,3686,5,Mid-Range
+470,Maruti,S PRESSO,VXI CNG,2021,340000,CNG,Manual,110178,2,Hatchback,3686,5,Mid-Range
+471,Maruti,Swift Dzire,VDI,2014,373000,Diesel,Manual,163029,2,Sedan,3686,12,Mid-Range
+472,Maruti,Wagon R 1.0,VXI,2013,214000,Petrol,Manual,109855,2,Hatchback,3686,13,Budget
+473,Maruti,Wagon R 1.0,LXI CNG,2015,260000,Petrol,Manual,84178,2,Hatchback,3686,11,Budget
+474,Maruti,Swift,VXI,2014,328000,Petrol,Manual,63754,2,Hatchback,3686,12,Mid-Range
+475,Maruti,Swift,VXI AMT,2018,451000,Petrol,Automatic,94894,2,Hatchback,3686,8,Mid-Range
+476,Maruti,Ritz,VXI,2014,227000,Petrol,Manual,147744,1,Hatchback,3686,12,Budget
+477,Maruti,Celerio,ZXI AMT,2017,340000,Petrol,Automatic,102633,1,Hatchback,3686,9,Mid-Range
+478,Maruti,Swift,VDI,2012,301000,Diesel,Manual,104777,1,Hatchback,3686,14,Mid-Range
+479,Maruti,Swift,VDI (O),2016,480000,Diesel,Manual,96351,1,Hatchback,3686,10,Mid-Range
+480,Maruti,Swift Dzire,VDI,2016,378000,Diesel,Manual,118103,1,Sedan,3686,10,Mid-Range
+481,Maruti,Ertiga,VXI CNG,2021,912000,CNG,Manual,66640,1,SUV,3686,5,Premium
+482,Maruti,Wagon R 1.0,VXI,2017,279000,Petrol,Manual,77268,2,Hatchback,3686,9,Budget
+483,Maruti,S Cross,ALPHA 1.5,2022,814000,Petrol,Manual,34172,1,SUV,3686,4,Premium
+484,Maruti,Swift,VXI,2013,304000,Petrol,Manual,74365,2,Hatchback,3686,13,Mid-Range
+485,Maruti,Eeco,7 STR,2020,450000,Petrol,Manual,26369,1,SUV,3686,6,Mid-Range
+486,Maruti,Swift Dzire,VDI,2016,420000,Diesel,Manual,117007,3,Sedan,3686,10,Mid-Range
+487,Maruti,A Star,VXI (ABS) AT,2013,186000,Petrol,Automatic,76606,2,Hatchback,3686,13,Budget
+488,Maruti,Alto 800,LXI,2016,187000,Petrol,Manual,79701,6,Hatchback,3686,10,Budget
+489,Maruti,Swift,VDI,2015,328000,Diesel,Manual,109439,3,Hatchback,3686,11,Mid-Range
+490,Maruti,Ertiga,VXI SHVS,2021,825000,Petrol,Manual,63596,1,SUV,3686,5,Premium
+491,Maruti,SX4,ZXI,2011,165000,Petrol,Manual,73156,2,Sedan,3686,15,Budget
+492,Maruti,Swift,VDI,2011,150000,Diesel,Manual,168699,3,Hatchback,3686,15,Budget
+493,Maruti,Ciaz,ALPHA 1.4 PETROL,2018,572000,Petrol,Manual,68163,1,Sedan,3686,8,Mid-Range
+494,Maruti,Dzire,ZDI PLUS AMT,2018,548000,Diesel,Automatic,167309,1,Sedan,3686,8,Mid-Range
+495,Maruti,Swift Dzire,VXI,2015,358000,Petrol,Manual,57066,2,Sedan,3686,11,Mid-Range
+496,Maruti,Swift,VDI,2012,256000,Diesel,Manual,147633,1,Hatchback,3686,14,Budget
+497,Maruti,Ritz,LDI,2011,145000,Diesel,Manual,86255,2,Hatchback,3686,15,Budget
+498,Maruti,Ertiga,ZDI + SHVS,2018,768000,Diesel,Manual,74483,2,SUV,3686,8,Premium
+499,Maruti,Swift Dzire,VDI,2014,367000,Diesel,Manual,188154,2,Sedan,3686,12,Mid-Range
+500,Maruti,Celerio,VXI AMT,2016,343000,Petrol,Automatic,30162,1,Hatchback,3686,10,Mid-Range
+501,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2018,540000,Petrol,Manual,117616,2,Sedan,3686,8,Mid-Range
+502,Maruti,Ertiga,ZDI + SHVS,2018,800000,Diesel,Manual,106246,1,SUV,3686,8,Premium
+503,Maruti,Swift,VXI AMT,2018,425000,Petrol,Automatic,113896,1,Hatchback,3686,8,Mid-Range
+504,Maruti,Swift Dzire,VDI,2014,428000,Diesel,Manual,142197,2,Sedan,3686,12,Mid-Range
+505,Maruti,Swift,VXI,2017,413000,Petrol,Manual,173572,1,Hatchback,3686,9,Mid-Range
+506,Maruti,Swift Dzire,VDI,2012,283000,Diesel,Manual,95633,2,Sedan,3686,14,Budget
+507,Maruti,Celerio,ZXI,2015,250000,Petrol,Manual,90342,1,Hatchback,3686,11,Budget
+508,Maruti,Baleno,DELTA PETROL 1.2,2017,402000,Petrol,Manual,57789,3,Hatchback,3686,9,Mid-Range
+509,Maruti,Swift Dzire,VDI,2011,196000,Diesel,Manual,286311,4,Sedan,3686,15,Budget
+510,Maruti,Alto K10,LXI,2023,337000,Petrol,Manual,60830,1,Hatchback,3686,3,Mid-Range
+511,Maruti,Alto K10,VXI (O) AMT,2017,250000,Petrol,Automatic,92586,2,Hatchback,3686,9,Budget
+512,Maruti,Ertiga,ZDI,2015,622000,Diesel,Manual,95238,2,SUV,3686,11,Mid-Range
+513,Maruti,Dzire,ZXI PLUS AMT,2017,458000,Petrol,Automatic,53010,1,Sedan,3686,9,Mid-Range
+514,Maruti,Dzire,VDI,2019,578000,Diesel,Manual,130281,2,Sedan,3686,7,Mid-Range
+515,Maruti,Wagon R 1.0,VXI,2011,176000,Petrol,Manual,128538,2,Hatchback,3686,15,Budget
+516,Maruti,Dzire,ZDI AMT,2018,589000,Diesel,Automatic,96286,2,Sedan,3686,8,Mid-Range
+517,Maruti,Swift,VXI,2021,513000,Petrol,Manual,53732,1,Hatchback,3686,5,Mid-Range
+518,Maruti,Baleno,DELTA PETROL 1.2,2018,453000,Petrol,Manual,124106,2,Hatchback,3686,8,Mid-Range
+519,Maruti,Alto,LXI,2011,104000,Petrol,Manual,143847,3,Hatchback,3686,15,Budget
+520,Maruti,Swift,VDI,2015,375000,Diesel,Manual,74473,2,Hatchback,3686,11,Mid-Range
+521,Maruti,SX4,VDI,2012,217000,Diesel,Manual,130274,1,Sedan,3686,14,Budget
+522,Maruti,Alto K10,LXI,2018,204000,Petrol,Manual,87861,3,Hatchback,3686,8,Budget
+523,Maruti,Swift Dzire,VDI,2013,333000,Diesel,Manual,133194,2,Sedan,3686,13,Mid-Range
+524,Maruti,Swift,VDI,2011,163000,Diesel,Manual,110252,2,Hatchback,3686,15,Budget
+525,Maruti,Alto,LXI,2011,111000,Petrol,Manual,62737,2,Hatchback,3686,15,Budget
+526,Maruti,Swift,VXI,2015,315000,Petrol,Manual,106423,3,Hatchback,3686,11,Mid-Range
+527,Maruti,Baleno,DELTA PETROL 1.2,2016,410000,Petrol,Manual,79336,1,Hatchback,3686,10,Mid-Range
+528,Maruti,Wagon R 1.0,VXI,2012,178000,Petrol,Manual,71575,3,Hatchback,3686,14,Budget
+529,Maruti,Alto,LXI,2011,170000,Petrol,Manual,88527,1,Hatchback,3686,15,Budget
+530,Maruti,Ertiga,ZDI+ 1.5,2019,1044000,Diesel,Manual,88185,2,SUV,3686,7,Premium
+531,Maruti,Celerio,VXI,2016,296000,Petrol,Manual,80673,1,Hatchback,3686,10,Budget
+532,Maruti,Vitara Brezza,ZXI,2021,698000,Petrol,Manual,63271,1,SUV,3686,5,Mid-Range
+533,Maruti,Wagon R 1.0,LXI CNG,2012,182000,CNG,Manual,75207,2,Hatchback,3686,14,Budget
+534,Maruti,Baleno,ZETA CVT PETROL 1.2,2020,594000,Petrol,Automatic,51326,1,Hatchback,3686,6,Mid-Range
+535,Maruti,Dzire,VDI,2018,601000,Diesel,Manual,113834,2,Sedan,3686,8,Mid-Range
+536,Maruti,S Cross,ZETA 1.3,2018,580000,Diesel,Manual,172333,2,SUV,3686,8,Mid-Range
+537,Maruti,XL6,ALPHA MT,2022,862000,Petrol,Manual,79084,1,SUV,3686,4,Premium
+538,Maruti,Swift,VDI AMT,2019,444000,Diesel,Automatic,133370,2,Hatchback,3686,7,Mid-Range
+539,Maruti,Celerio X,VXI,2018,319000,Petrol,Manual,78134,2,Hatchback,3686,8,Mid-Range
+540,Maruti,Swift,VXI,2015,310000,Petrol,Manual,111371,2,Hatchback,3686,11,Mid-Range
+541,Maruti,Celerio,TOUR H2,2019,241000,Petrol,Manual,96859,2,Hatchback,3686,7,Budget
+542,Maruti,Celerio,VXI (O),2016,310000,Petrol,Manual,186614,1,Hatchback,3686,10,Mid-Range
+543,Maruti,Wagon R 1.0,VXI,2014,304000,Petrol,Manual,68005,1,Hatchback,3686,12,Mid-Range
+544,Maruti,Wagon R 1.0,LXI CNG,2012,157000,CNG,Manual,148433,2,Hatchback,3686,14,Budget
+545,Maruti,Ertiga,VDI,2013,366000,Diesel,Manual,162536,1,SUV,3686,13,Mid-Range
+546,Maruti,Vitara Brezza,VXI,2020,600000,Petrol,Manual,97038,1,SUV,3686,6,Mid-Range
+547,Maruti,Alto,LXI,2019,267000,Petrol,Manual,30622,1,Hatchback,3686,7,Budget
+548,Maruti,New Wagon-R,VXI 1.2,2021,429000,Petrol,Manual,120000,1,Hatchback,3686,5,Mid-Range
+549,Maruti,IGNIS,DELTA 1.2,2022,460000,Petrol,Manual,19728,2,Hatchback,3686,4,Mid-Range
+550,Maruti,S Cross,ZETA 1.3,2017,511000,Diesel,Manual,108783,1,SUV,3686,9,Mid-Range
+551,Maruti,Wagon R 1.0,LXI CNG,2012,170000,CNG,Manual,135164,1,Hatchback,3686,14,Budget
+552,Maruti,Swift Dzire,VDI,2011,199000,Diesel,Manual,134235,2,Sedan,3686,15,Budget
+553,Maruti,Wagon R 1.0,VXI,2012,170000,Petrol,Manual,84182,2,Hatchback,3686,14,Budget
+554,Maruti,Vitara Brezza,ZDI,2017,580000,Diesel,Manual,165552,2,SUV,3686,9,Mid-Range
+555,Maruti,Swift Dzire,ZXI,2015,400000,Petrol,Manual,96047,2,Sedan,3686,11,Mid-Range
+556,Maruti,Celerio,ZXI,2016,300000,Petrol,Manual,74821,1,Hatchback,3686,10,Budget
+557,Maruti,Swift,VXI,2023,560000,Petrol,Manual,103621,2,Hatchback,3686,3,Mid-Range
+558,Maruti,SX4,ZXI AT LEATHER,2011,199000,Petrol,Automatic,114081,2,Sedan,3686,15,Budget
+559,Maruti,Swift,VXI,2011,165000,Petrol,Manual,102184,4,Hatchback,3686,15,Budget
+560,Maruti,Swift,ZXI PLUS AMT,2020,581000,Petrol,Automatic,76549,1,Hatchback,3686,6,Mid-Range
+561,Maruti,Vitara Brezza,ZDI,2018,709000,Diesel,Manual,168522,1,SUV,3686,8,Premium
+562,Maruti,Baleno,DELTA DIESEL 1.3,2019,499000,Diesel,Manual,107067,1,Hatchback,3686,7,Mid-Range
+563,Maruti,Alto,VXI PLUS,2021,327000,Petrol,Manual,31714,1,Hatchback,3686,5,Mid-Range
+564,Maruti,Ciaz,VXI+,2017,430000,Petrol,Manual,95848,1,Sedan,3686,9,Mid-Range
+565,Maruti,XL6,ZETA MT,2020,749000,Petrol,Manual,40798,1,SUV,3686,6,Premium
+566,Maruti,Wagon R 1.0,LXI CNG,2011,142000,CNG,Manual,120279,1,Hatchback,3686,15,Budget
+567,Maruti,Wagon R 1.0,LXI CNG,2011,143000,CNG,Manual,120277,1,Hatchback,3686,15,Budget
+568,Maruti,S PRESSO,VXI+,2021,367000,Petrol,Manual,20169,1,Hatchback,3686,5,Mid-Range
+569,Maruti,Alto K10,VXI,2022,380000,Petrol,Manual,33971,1,Hatchback,3686,4,Mid-Range
+570,Maruti,Vitara Brezza,ZDI,2017,596000,Diesel,Manual,164105,3,SUV,3686,9,Mid-Range
+571,Maruti,Grand Vitara,SIGMA SMART HYBRID,2024,921000,Petrol,Manual,38160,1,SUV,3686,2,Premium
+572,Maruti,Swift Dzire,TOUR S (O),2020,362000,Petrol,Manual,135530,2,Sedan,3686,6,Mid-Range
+573,Maruti,Swift,VXI,2014,340000,Petrol,Manual,65105,1,Hatchback,3686,12,Mid-Range
+574,Maruti,Alto,LXI,2012,162000,Petrol,Manual,47570,2,Hatchback,3686,14,Budget
+575,Maruti,Celerio,ZXI AMT,2017,350000,Petrol,Automatic,83948,2,Hatchback,3686,9,Mid-Range
+576,Maruti,Alto K10,VXI,2012,120000,Petrol,Manual,117451,2,Hatchback,3686,14,Budget
+577,Maruti,Celerio,VXI AMT (O),2017,457000,Petrol,Automatic,46240,1,Hatchback,3686,9,Mid-Range
+578,Maruti,Celerio,ZXI AMT,2017,302000,Petrol,Automatic,40567,2,Hatchback,3686,9,Mid-Range
+579,Maruti,Baleno,DELTA PETROL 1.2,2025,667000,Petrol,Manual,23813,1,Hatchback,3686,1,Mid-Range
+580,Maruti,Baleno,ZETA CVT PETROL 1.2,2019,530000,Petrol,Automatic,111420,1,Hatchback,3686,7,Mid-Range
+581,Maruti,Dzire,VXI AMT,2021,556000,Petrol,Automatic,60128,1,Sedan,3686,5,Mid-Range
+582,Maruti,Vitara Brezza,ZDI PLUS,2017,628000,Diesel,Manual,147588,1,SUV,3686,9,Mid-Range
+583,Maruti,Ertiga,VDI,2013,439000,Diesel,Manual,139810,1,SUV,3686,13,Mid-Range
+584,Maruti,Alto,LXI O,2020,318000,Petrol,Manual,41741,1,Hatchback,3686,6,Mid-Range
+585,Maruti,Baleno,DELTA PETROL 1.2,2018,490000,Petrol,Manual,72673,1,Hatchback,3686,8,Mid-Range
+586,Maruti,Alto 800,LXI,2018,230000,Petrol,Manual,68236,1,Hatchback,3686,8,Budget
+587,Maruti,Wagon R 1.0,VXI AMT,2017,326000,Petrol,Automatic,61437,2,Hatchback,3686,9,Mid-Range
+588,Maruti,Alto K10,LXI,2011,117000,Petrol,Manual,120000,1,Hatchback,3686,15,Budget
+589,Maruti,Alto,VXI,2021,323000,Petrol,Manual,26089,2,Hatchback,3686,5,Mid-Range
+590,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,2022,784000,Petrol,Manual,18800,1,Sedan,3686,4,Premium
+591,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,2021,792000,Petrol,Automatic,36575,1,Sedan,3686,5,Premium
+592,Maruti,Baleno,ALPHA 1.2 AGS,2024,825000,Petrol,Automatic,13293,1,Hatchback,3686,2,Premium
+593,Maruti,Vitara Brezza,ZDI,2018,680000,Diesel,Manual,159297,1,SUV,3686,8,Mid-Range
+594,Maruti,Swift Dzire,ZDI,2013,361000,Diesel,Manual,75670,1,Sedan,3686,13,Mid-Range
+595,Maruti,Swift,VXi (O) AMT,2024,743000,Petrol,Automatic,33447,1,Hatchback,3686,2,Premium
+596,Maruti,Ertiga,ZDI,2015,653000,Diesel,Manual,113564,1,SUV,3686,11,Mid-Range
+597,Maruti,Swift Dzire,VDI,2015,350000,Diesel,Manual,111028,2,Sedan,3686,11,Mid-Range
+598,Maruti,Baleno,DELTA PETROL 1.2,2017,470000,Petrol,Manual,53694,1,Hatchback,3686,9,Mid-Range
+599,Maruti,Baleno,DELTA PETROL 1.2,2017,448000,Petrol,Manual,106605,1,Hatchback,3686,9,Mid-Range
+600,Maruti,Swift,LXI,2012,249000,Petrol,Manual,85476,1,Hatchback,3686,14,Budget
+601,Maruti,Dzire,ZXi Plus,2025,892000,Petrol,Manual,1695,1,Sedan,3686,1,Premium
+602,Maruti,Wagon R 1.0,VXI,2018,360000,Petrol,Manual,40916,2,Hatchback,3686,8,Mid-Range
+603,Maruti,Vitara Brezza,LDI,2016,539000,Diesel,Manual,101368,2,SUV,3686,10,Mid-Range
+604,Maruti,Swift,VXI,2011,252000,Petrol,Manual,61459,2,Hatchback,3686,15,Budget
+605,Maruti,BREZZA,ZXI SMART HYBRID ,2025,1046000,Petrol,Manual,12519,1,SUV,3686,1,Premium
+606,Maruti,Baleno,ZETA CVT PETROL 1.2,2021,598000,Petrol,Automatic,43123,2,Hatchback,3686,5,Mid-Range
+607,Maruti,Ertiga,ZDI + SHVS,2015,556000,Diesel,Manual,106124,3,SUV,3686,11,Mid-Range
+608,Maruti,Wagon R 1.0,LXI,2012,237000,Petrol,Manual,96733,1,Hatchback,3686,14,Budget
+609,Maruti,Wagon R 1.0,VXI AMT,2016,320000,Petrol,Automatic,67939,2,Hatchback,3686,10,Mid-Range
+610,Maruti,Baleno,DELTA PETROL 1.2,2019,493000,Petrol,Manual,42465,2,Hatchback,3686,7,Mid-Range
+611,Maruti,Ertiga,ZDI,2013,418000,Diesel,Manual,125607,3,SUV,3686,13,Mid-Range
+612,Maruti,Celerio,ZXI,2023,445000,Petrol,Manual,33673,1,Hatchback,3686,3,Mid-Range
+613,Maruti,S PRESSO,VXI+,2022,371000,Petrol,Manual,31415,2,Hatchback,3686,4,Mid-Range
+614,Maruti,S PRESSO,VXI+,2022,381000,Petrol,Manual,60579,1,Hatchback,3686,4,Mid-Range
+615,Maruti,S Cross,ZETA 1.3,2018,600000,Diesel,Manual,172004,2,SUV,3686,8,Mid-Range
+616,Maruti,Ciaz,ZXI,2016,478000,Petrol,Manual,154481,1,Sedan,3686,10,Mid-Range
+617,Maruti,Wagon R 1.0,VXI,2016,272000,Petrol,Manual,72025,5,Hatchback,3686,10,Budget
+618,Maruti,Baleno,ZETA PETROL 1.2,2021,587000,Petrol,Manual,62348,1,Hatchback,3686,5,Mid-Range
+619,Maruti,Vitara Brezza,ZDI PLUS DUAL TONE,2018,826000,Diesel,Manual,104047,1,SUV,3686,8,Premium
+620,Maruti,Baleno,DELTA DIESEL 1.3,2017,508000,Diesel,Manual,74286,1,Hatchback,3686,9,Mid-Range
+621,Maruti,Baleno,ALPHA DIESEL 1.3,2016,478000,Diesel,Manual,127149,2,Hatchback,3686,10,Mid-Range
+622,Maruti,New Wagon-R,ZXI 1.2,2022,495000,Petrol,Manual,17466,1,Hatchback,3686,4,Mid-Range
+623,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2022,746000,Petrol,Manual,45407,1,Sedan,3686,4,Premium
+624,Maruti,S PRESSO,VXI PLUS AMT,2019,360000,Petrol,Automatic,38009,1,Hatchback,3686,7,Mid-Range
+625,Maruti,Swift,VXI,2021,541000,Petrol,Manual,70768,1,Hatchback,3686,5,Mid-Range
+626,Maruti,XL6,ALPHA AT,2021,1000000,Petrol,Automatic,44334,1,SUV,3686,5,Premium
+627,Maruti,Vitara Brezza,ZXI AT SHVS,2020,685000,Petrol,Automatic,68433,2,SUV,3686,6,Mid-Range
+628,Maruti,XL6,ALPHA MT,2021,955000,Petrol,Manual,41522,2,SUV,3686,5,Premium
+629,Maruti,Ertiga,ZXI,2014,400000,Petrol,Manual,122589,2,SUV,3686,12,Mid-Range
+630,Maruti,Swift,ZDI PLUS,2018,599000,Diesel,Manual,99013,1,Hatchback,3686,8,Mid-Range
+631,Maruti,Swift Dzire,ZXI,2015,495000,Petrol,Manual,54704,1,Sedan,3686,11,Mid-Range
+632,Maruti,Swift,VXI,2023,573000,Petrol,Manual,61339,2,Hatchback,3686,3,Mid-Range
+633,Maruti,Baleno,ALPHA PETROL 1.2,2019,543000,Petrol,Manual,78841,1,Hatchback,3686,7,Mid-Range
+634,Maruti,Swift,VXI,2018,430000,Petrol,Manual,90388,1,Hatchback,3686,8,Mid-Range
+635,Maruti,Vitara Brezza,VDI,2017,626000,Diesel,Manual,87252,2,SUV,3686,9,Mid-Range
+636,Maruti,Ertiga,VXI SHVS,2021,782000,CNG,Manual,91708,4,SUV,3686,5,Premium
+637,Maruti,Wagon R 1.0,VXI AMT,2017,334000,Petrol,Automatic,75481,2,Hatchback,3686,9,Mid-Range
+638,Maruti,Eeco,5 STR WITH A/C+HTR,2017,304000,Petrol,Manual,49959,3,SUV,3686,9,Mid-Range
+639,Maruti,Swift,VXi,2025,699000,Petrol,Manual,643,1,Hatchback,3686,1,Mid-Range
+640,Maruti,Eeco,5 STR AC,2024,514000,Petrol,Manual,15207,1,SUV,3686,2,Mid-Range
+641,Maruti,Baleno,ZETA PETROL 1.2,2017,452000,Petrol,Manual,79617,1,Hatchback,3686,9,Mid-Range
+642,Maruti,Swift,ZDI AMT,2018,498000,Diesel,Automatic,103858,2,Hatchback,3686,8,Mid-Range
+643,Maruti,Vitara Brezza,VDI,2018,665000,Diesel,Manual,86846,2,SUV,3686,8,Mid-Range
+644,Maruti,Swift,VXI,2011,310000,Petrol,Manual,98913,2,Hatchback,3686,15,Mid-Range
+645,Maruti,Baleno,ALPHA CVT PETROL 1.2,2020,660000,Petrol,Automatic,40917,1,Hatchback,3686,6,Mid-Range
+646,Maruti,New Wagon-R,ZXI 1.2,2022,472000,Petrol,Manual,62354,1,Hatchback,3686,4,Mid-Range
+647,Maruti,Baleno,ZETA PETROL 1.2,2021,518000,Petrol,Manual,116004,2,Hatchback,3686,5,Mid-Range
+648,Maruti,New Wagon-R,VXI (O) 1.0,2021,392000,Petrol,Manual,59314,1,Hatchback,3686,5,Mid-Range
+649,Maruti,New Wagon-R,LXI CNG (O) 1.0,2021,496000,CNG,Manual,20000,1,Hatchback,3686,5,Mid-Range
+650,Maruti,Celerio,ZXI AMT (O),2017,365000,Petrol,Automatic,64147,1,Hatchback,3686,9,Mid-Range
+651,Maruti,Celerio,ZXI AMT,2023,575000,Petrol,Automatic,13965,2,Hatchback,3686,3,Mid-Range
+652,Maruti,New Wagon-R,ZXI 1.2,2019,419000,Petrol,Manual,24997,1,Hatchback,3686,7,Mid-Range
+653,Maruti,Baleno,DELTA PETROL 1.2,2018,576000,Petrol,Manual,38495,1,Hatchback,3686,8,Mid-Range
+654,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,2022,700000,Petrol,Manual,54388,1,Sedan,3686,4,Mid-Range
+655,Maruti,Baleno,ALPHA PETROL 1.2,2016,450000,Petrol,Manual,95000,2,Hatchback,3686,10,Mid-Range
+656,Maruti,S PRESSO,VXI+,2022,406000,Petrol,Manual,31173,2,Hatchback,3686,4,Mid-Range
+657,Maruti,BREZZA,ZXI SMART HYBRID ,2023,1086000,Petrol,Manual,32702,1,SUV,3686,3,Premium
+658,Maruti,S Cross,ZETA 1.5,2021,690000,Petrol,Manual,71084,1,SUV,3686,5,Mid-Range
+659,Maruti,Ertiga,VDI SHVS,2016,529000,Diesel,Manual,131160,2,SUV,3686,10,Mid-Range
+660,Maruti,Ertiga,ZDI SHVS,2016,633000,Diesel,Manual,208487,1,SUV,3686,10,Mid-Range
+661,Maruti,Baleno,ZETA PETROL 1.2,2021,536000,Petrol,Manual,96676,2,Hatchback,3686,5,Mid-Range
+662,Maruti,Baleno,DELTA DIESEL 1.3,2016,489000,Diesel,Manual,72882,1,Hatchback,3686,10,Mid-Range
+663,Maruti,Baleno,ALPHA PETROL 1.2,2018,519000,Petrol,Manual,52320,1,Hatchback,3686,8,Mid-Range
+664,Maruti,Ertiga,ZDI,2014,458000,Diesel,Manual,112873,2,SUV,3686,12,Mid-Range
+665,Maruti,S Cross,ZETA 1.3,2016,508000,Diesel,Manual,123551,1,SUV,3686,10,Mid-Range
+666,Maruti,Ertiga,ZXI+,2016,600000,Petrol,Manual,54728,1,SUV,3686,10,Mid-Range
+667,Maruti,XL6,ZETA MT,2023,1000000,Petrol,Manual,26498,2,SUV,3686,3,Premium
+668,Maruti,Swift Dzire,ZDI,2013,429000,Diesel,Manual,61257,1,Sedan,3686,13,Mid-Range
+669,Maruti,BREZZA,VXI SMART HYBRID,2023,850000,Petrol,Manual,107938,2,SUV,3686,3,Premium
+670,Maruti,Celerio,ZXI PLUS,2022,554000,Petrol,Manual,11240,1,Hatchback,3686,4,Mid-Range
+671,Maruti,Swift,VXI,2013,297000,Petrol,Manual,115316,2,Hatchback,3686,13,Budget
+672,Maruti,Ertiga,VDI,2015,541000,Diesel,Manual,97666,2,SUV,3686,11,Mid-Range
+673,Maruti,Baleno,DELTA PETROL 1.2,2016,421000,Petrol,Manual,128879,1,Hatchback,3686,10,Mid-Range
+674,Maruti,Baleno,DELTA PETROL 1.2,2021,476000,Petrol,Manual,129411,1,Hatchback,3686,5,Mid-Range
+675,Maruti,Vitara Brezza,ZDI,2019,792000,Diesel,Manual,64833,2,SUV,3686,7,Premium
+676,Maruti,New Wagon-R,VXI 1.0,2021,400000,Petrol,Manual,67600,2,Hatchback,3686,5,Mid-Range
+677,Maruti,Dzire,ZDI PLUS AMT,2017,637000,Diesel,Automatic,76000,2,Sedan,3686,9,Mid-Range
+678,Maruti,Baleno,ZETA PETROL 1.2,2021,597000,Petrol,Manual,69693,1,Hatchback,3686,5,Mid-Range
+679,Maruti,New Wagon-R,VXI 1.0,2023,519000,Petrol,Manual,4472,1,Hatchback,3686,3,Mid-Range
+680,Maruti,Vitara Brezza,LDI (O),2016,526000,Diesel,Manual,74390,1,SUV,3686,10,Mid-Range
+681,Maruti,Celerio,ZXI PLUS,2022,531000,Petrol,Manual,27288,1,Hatchback,3686,4,Mid-Range
+682,Maruti,Vitara Brezza,ZDI AMT,2019,900000,Diesel,Automatic,74421,2,SUV,3686,7,Premium
+683,Maruti,Vitara Brezza,ZDI,2019,674000,Diesel,Manual,108518,1,SUV,3686,7,Mid-Range
+684,Maruti,BREZZA,ZXI + SMART HYBRID,2022,1211000,Petrol,Manual,73731,1,SUV,3686,4,Premium
+685,Maruti,Grand Vitara,DELTA SMART HYBRID,2023,1026000,Petrol,Manual,63000,1,SUV,3686,3,Premium
+686,Maruti,Vitara Brezza,ZDI,2016,550000,Diesel,Manual,244699,1,SUV,3686,10,Mid-Range
+687,Maruti,Vitara Brezza,ZDI,2016,717000,Diesel,Manual,140200,1,SUV,3686,10,Premium
+688,Maruti,Ciaz,ZETA 1.5 SHVS MT PETROL,2022,670000,Petrol,Manual,80485,1,Sedan,3686,4,Mid-Range
+689,Maruti,S Cross,ZETA 1.3,2017,662000,Diesel,Manual,202405,1,SUV,3686,9,Mid-Range
+690,Maruti,Baleno,ZETA PETROL 1.2,2021,580000,Petrol,Manual,92904,2,Hatchback,3686,5,Mid-Range
+691,Maruti,Alto K10,VXI PLUS,2022,397000,Petrol,Manual,59918,2,Hatchback,3686,4,Mid-Range
+692,Maruti,Ertiga,ZDI,2012,426000,Diesel,Manual,158455,3,SUV,3686,14,Mid-Range
+693,Maruti,Dzire,VXI,2021,636000,Petrol,Manual,16108,1,Sedan,3686,5,Mid-Range
+694,Maruti,BREZZA,ZXI + SMART HYBRID DUAL TONE,2023,1027000,Petrol,Manual,60433,1,SUV,3686,3,Premium
+695,Maruti,Swift,ZDI AMT,2018,560000,Diesel,Automatic,101723,1,Hatchback,3686,8,Mid-Range
+696,Maruti,Vitara Brezza,ZXI PLUS AT SHVS,2022,1047000,Petrol,Automatic,42322,1,SUV,3686,4,Premium
+697,Maruti,Dzire,ZDI AMT,2017,702000,Diesel,Automatic,83587,1,Sedan,3686,9,Premium
+698,Maruti,Eeco,5 STR WITH A/C+HTR,2019,314000,Petrol,Manual,106059,2,SUV,3686,7,Mid-Range
+699,Maruti,Baleno,ALPHA DIESEL 1.3,2015,411000,Diesel,Manual,255720,1,Hatchback,3686,11,Mid-Range
+700,Maruti,XL6,ALPHA AT,2020,922000,Petrol,Automatic,50941,1,SUV,3686,6,Premium
+701,Maruti,Dzire,ZDI AMT,2017,750000,Diesel,Automatic,67404,1,Sedan,3686,9,Premium
+702,Maruti,BREZZA,ZXI + SMART HYBRID DUAL TONE,2022,1110000,Petrol,Manual,15613,1,SUV,3686,4,Premium
+703,Maruti,S Cross,ZETA 1.3,2019,650000,Diesel,Manual,157440,1,SUV,3686,7,Mid-Range
+704,Maruti,Vitara Brezza,ZXI,2020,695000,Petrol,Manual,81473,1,SUV,3686,6,Mid-Range
+705,Maruti,XL6,ZETA AT,2020,862000,Petrol,Automatic,76383,1,SUV,3686,6,Premium
+706,Maruti,BREZZA,VXI S-CNG,2023,931000,CNG,Manual,72855,1,SUV,3686,3,Premium
+707,Maruti,Alto,VXI,2021,359000,Petrol,Manual,27708,1,Hatchback,3686,5,Mid-Range
+708,Maruti,Vitara Brezza,VXI,2020,789000,Petrol,Manual,63949,1,SUV,3686,6,Premium
+709,Maruti,Alto,VXI PLUS,2025,431000,Petrol,Manual,4863,1,Hatchback,3686,1,Mid-Range
+710,Maruti,Dzire,ZXI Plus AMT,2022,808000,Petrol,Automatic,92649,1,Sedan,3686,4,Premium
+711,Maruti,XL6,ALPHA AT,2020,897000,Petrol,Automatic,122203,1,SUV,3686,6,Premium
+712,Maruti,S Cross,DELTA 1.3,2019,795000,Diesel,Manual,163863,1,SUV,3686,7,Premium
+713,Maruti,S Cross,ZETA 1.3,2019,683000,Diesel,Manual,130866,1,SUV,3686,7,Mid-Range
+714,Maruti,S Cross,ALPHA 1.3,2017,647000,Diesel,Manual,87667,1,SUV,3686,9,Mid-Range
+715,Maruti,OMNI E,STD,2017,219000,CNG,Manual,59466,3,SUV,3686,9,Budget
+716,Maruti,Swift Dzire,LDI,2013,297000,Diesel,Manual,121437,1,Sedan,3686,13,Budget
+717,Maruti,Swift,VXI,2013,389000,Petrol,Manual,63824,2,Hatchback,3686,13,Mid-Range
+718,Maruti,Alto 800,LXI O,2017,238000,Petrol,Manual,62959,2,Hatchback,3686,9,Budget
+719,Maruti,Ritz,LDI,2011,193000,Diesel,Manual,122581,1,Hatchback,3686,15,Budget
+720,Maruti,Swift Dzire,VDI,2011,274000,Diesel,Manual,105627,1,Sedan,3686,15,Budget
+721,Maruti,BREZZA,LXI,2024,858000,Petrol,Manual,16194,1,SUV,3686,2,Premium
+722,Maruti,Baleno,ZETA PETROL 1.2,2018,527000,Petrol,Manual,34009,1,Hatchback,3686,8,Mid-Range
+723,Maruti,Wagon R Duo,DUO LX LPG,2008,151000,Petrol,Manual,89026,2,Hatchback,3686,18,Budget
+724,Maruti,Vitara Brezza,ZDI PLUS,2017,720000,Diesel,Manual,81777,2,SUV,3686,9,Premium
+725,Maruti,Swift Dzire,VDI,2011,215000,Diesel,Manual,1081000,2,Sedan,3686,15,Budget
+726,Maruti,Swift,VXI,2018,407919,Petrol,Manual,119894,1,Hatchback,3686,8,Mid-Range
+727,Maruti,Baleno,ALPHA CVT PETROL 1.2,2018,437000,Petrol,Automatic,40456,3,Hatchback,3686,8,Mid-Range
+728,Maruti,Celerio,ZXI (O),2021,362000,Petrol,Manual,47283,1,Hatchback,3686,5,Mid-Range
+729,Maruti,Wagon R 1.0,VXI,2015,237500,Petrol,Manual,36133,1,Hatchback,3686,11,Budget
+730,Maruti,Wagon R 1.0,LXI,2015,210000,Petrol,Manual,78860,1,Hatchback,3686,11,Budget
+731,Maruti,Eeco,5 STR WITH A/C+HTR,2020,405273,Petrol,Manual,63172,2,SUV,3686,6,Mid-Range
+732,Maruti,Dzire,ZXI AMT,2017,523280,Petrol,Automatic,22254,1,Sedan,3686,9,Mid-Range
+733,Maruti,Wagon R 1.0,VXI,2015,263000,Petrol,Manual,48478,1,Hatchback,3686,11,Budget
+734,Maruti,New Wagon-R,VXI CNG 1.0,2023,470000,CNG,Manual,41552,1,Hatchback,3686,3,Mid-Range
+735,Maruti,Alto,LXI CNG,2021,328000,CNG,Manual,82569,2,Hatchback,3686,5,Mid-Range
+736,Hyundai,Elite i20,ASTA 1.2,2016,486315,Petrol,Manual,7619,1,Hatchback,3686,10,Mid-Range
+737,Hyundai,Elite i20,ASTA 1.2,2016,481016,Petrol,Manual,63325,1,Hatchback,3686,10,Mid-Range
+738,Hyundai,i10,ERA 1.1,2013,157000,Petrol,Manual,66007,2,Hatchback,3686,13,Budget
+739,Hyundai,NEW SANTRO,ASTA MT,2018,340000,Petrol,Manual,46056,1,Hatchback,3686,8,Mid-Range
+740,Hyundai,Elite i20,ASTA 1.4 CRDI,2017,432000,Diesel,Manual,68622,2,Hatchback,3686,9,Mid-Range
+741,Hyundai,Creta,SX PLUS AT 1.6 DIESEL,2015,725000,Diesel,Automatic,135334,2,SUV,3686,11,Premium
+742,Hyundai,i20,MAGNA 1.2,2014,298602,Petrol,Manual,40677,2,Hatchback,3686,12,Budget
+743,Hyundai,Creta,SX 1.6 PETROL,2019,800000,Petrol,Manual,84646,1,SUV,3686,7,Premium
+744,Hyundai,VENUE,S 1.2,2020,571000,Petrol,Manual,72978,1,SUV,3686,6,Mid-Range
+745,Hyundai,NEW I20,MAGNA 1.2 MT,2021,506865,Petrol,Manual,74472,1,Hatchback,3686,5,Mid-Range
+746,Hyundai,NEW I20,SPORTZ 1.2 AT,2021,548000,Petrol,Automatic,90600,1,Hatchback,3686,5,Mid-Range
+747,Hyundai,Elite i20,SPORTZ PLUS 1.2,2020,558500,Petrol,Manual,36392,1,Hatchback,3686,6,Mid-Range
+748,Hyundai,Elite i20,ASTA 1.4 CRDI,2015,390000,Diesel,Manual,92670,1,Hatchback,3686,11,Mid-Range
+749,Hyundai,Creta,S 1.5 PETROL,2021,864523,Petrol,Manual,55869,1,SUV,3686,5,Premium
+750,Hyundai,i10,SPORTZ 1.2 AT,2012,185000,Petrol,Automatic,119089,1,Hatchback,3686,14,Budget
+751,Hyundai,VENUE,SX 1.0 (O) TURBO IMT,2021,668000,Petrol,Manual,60510,1,SUV,3686,5,Mid-Range
+752,Hyundai,Elite i20,SPORTZ 1.2,2015,368000,Petrol,Manual,66605,1,Hatchback,3686,11,Mid-Range
+753,Hyundai,NEW I20,ASTA 1.0 GDI TURBO DCT,2021,662000,Petrol,Automatic,52147,1,Hatchback,3686,5,Mid-Range
+754,Hyundai,Santro Xing,GLS,2013,210652,Petrol,Manual,64426,1,Hatchback,3686,13,Budget
+755,Hyundai,NEW I20,SPORTZ 1.5 MT,2022,666000,Diesel,Manual,76841,2,Hatchback,3686,4,Mid-Range
+756,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2018,368000,Petrol,Manual,65864,2,Hatchback,3686,8,Mid-Range
+757,Hyundai,Grand i10,SPORTZ AT 1.2 KAPPA VTVT,2018,418000,Petrol,Automatic,46735,2,Hatchback,3686,8,Mid-Range
+758,Hyundai,Xcent,BASE 1.2,2014,290000,Petrol,Manual,14427,1,Sedan,3686,12,Budget
+759,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2014,254000,Petrol,Manual,96484,2,Hatchback,3686,12,Budget
+760,Hyundai,Elite i20,ASTA 1.4 CRDI,2015,510895,Diesel,Manual,37505,1,Hatchback,3686,11,Mid-Range
+761,Hyundai,Verna,1.6 VTVT SX,2017,539000,Petrol,Manual,60315,2,Sedan,3686,9,Mid-Range
+762,Hyundai,Eon,D-LITE+,2016,195785,Petrol,Manual,81190,3,Hatchback,3686,10,Budget
+763,Hyundai,NEW SANTRO,ASTA MT,2018,352326,Petrol,Manual,41252,1,Hatchback,3686,8,Mid-Range
+764,Hyundai,Verna,FLUIDIC 1.6 CRDI SX,2014,372000,Diesel,Manual,113867,1,Sedan,3686,12,Mid-Range
+765,Hyundai,i10,SPORTZ 1.2,2012,172000,Petrol,Manual,57099,2,Hatchback,3686,14,Budget
+766,Hyundai,i10,MAGNA 1.2,2013,183000,Petrol,Manual,66847,2,Hatchback,3686,13,Budget
+767,Hyundai,i20 Active,1.2 SX,2016,486949,Petrol,Manual,35115,1,Hatchback,3686,10,Mid-Range
+768,Hyundai,Creta,SX PLUS AT 1.6 DIESEL,2016,678500,Diesel,Automatic,107788,1,SUV,3686,10,Mid-Range
+769,Hyundai,Elite i20,SPORTZ PLUS  1.2 CVT,2019,589000,Petrol,Automatic,30804,1,Hatchback,3686,7,Mid-Range
+770,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2014,295000,Petrol,Manual,35544,1,Hatchback,3686,12,Budget
+771,Hyundai,NEW I20,Sportz (O) 1.2 IVT,2025,867742,Petrol,Automatic,2915,1,Hatchback,3686,1,Premium
+772,Hyundai,Elite i20,ASTA 1.2 (O),2019,579000,Petrol,Manual,48469,1,Hatchback,3686,7,Mid-Range
+773,Hyundai,Eon,ERA +,2015,176000,Petrol,Manual,85616,2,Hatchback,3686,11,Budget
+774,Hyundai,i10,SPORTZ 1.1,2015,239000,Petrol,Manual,50025,1,Hatchback,3686,11,Budget
+775,Hyundai,Creta,SX PLUS 1.6 PETROL,2017,689000,Petrol,Manual,80223,1,SUV,3686,9,Mid-Range
+776,Hyundai,Verna,FLUIDIC 1.6 CRDI S(O) 4S,2015,454000,Diesel,Manual,88309,3,Sedan,3686,11,Mid-Range
+777,Hyundai,i10,SPORTZ 1.2,2013,197000,Petrol,Manual,71188,1,Hatchback,3686,13,Budget
+778,Hyundai,i20,ASTA 1.4 CRDI,2013,245000,Diesel,Manual,141813,2,Hatchback,3686,13,Budget
+779,Hyundai,Creta,SX (O) 1.4 TURBO DCT,2021,1202500,Petrol,Automatic,47983,1,SUV,3686,5,Premium
+780,Hyundai,Elite i20,SPORTZ 1.4 CRDI,2018,513500,Diesel,Manual,96003,1,Hatchback,3686,8,Mid-Range
+781,Hyundai,Xcent,S 1.1 CRDI (O),2015,290000,Diesel,Manual,98047,2,Sedan,3686,11,Budget
+782,Hyundai,NEW I20,Sportz 1.2 IVT,2023,698500,Petrol,Automatic,33469,1,Hatchback,3686,3,Mid-Range
+783,Hyundai,Grand i10,SPORTZ U2 1.2 CRDI,2017,310000,Diesel,Manual,122586,2,Hatchback,3686,9,Mid-Range
+784,Hyundai,i10,SPORTZ 1.2,2013,268627,Petrol,Manual,5732,1,Hatchback,3686,13,Budget
+785,Hyundai,Verna,FLUIDIC 1.6 CRDI SX,2014,377258,Diesel,Manual,144946,2,Sedan,3686,12,Mid-Range
+786,Hyundai,Verna,FLUIDIC 4S 1.6 VTVT SX,2016,499000,Petrol,Manual,78149,1,Sedan,3686,10,Mid-Range
+787,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2016,330000,Petrol,Manual,65267,2,Hatchback,3686,10,Mid-Range
+788,Hyundai,Eon,MAGNA +,2016,232472,Petrol,Manual,16635,1,Hatchback,3686,10,Budget
+789,Hyundai,Grand i10,SPORTZ 1.1 CRDI,2015,319785,Diesel,Manual,96372,1,Hatchback,3686,11,Mid-Range
+790,Hyundai,Xcent,S (O) 1.2,2014,291745,Petrol,Manual,89348,2,Sedan,3686,12,Budget
+791,Hyundai,Creta,SX PLUS AT 1.6 PETROL,2018,744000,Petrol,Automatic,83106,1,SUV,3686,8,Premium
+792,Hyundai,i10,SPORTZ 1.1,2015,241000,Petrol,Manual,84290,1,Hatchback,3686,11,Budget
+793,Hyundai,i10,ERA 1.1,2013,215000,Petrol,Manual,54947,1,Hatchback,3686,13,Budget
+794,Hyundai,Creta,SX IVT 1.5 PETROL,2020,993000,Petrol,Automatic,99463,1,SUV,3686,6,Premium
+795,Hyundai,Creta,SX PLUS AT 1.6 PETROL,2016,617000,Petrol,Automatic,98203,2,SUV,3686,10,Mid-Range
+796,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2014,292500,Petrol,Manual,99190,2,Hatchback,3686,12,Budget
+797,Hyundai,NEW I20,Asta (O) 1.0 Turbo DCT Dual Tone,2022,849000,Petrol,Automatic,44462,1,Hatchback,3686,4,Premium
+798,Hyundai,Creta,SX 1.5 DIESEL,2021,1230000,Diesel,Manual,68523,1,SUV,3686,5,Premium
+799,Hyundai,Elite i20,ASTA (O) CVT,2019,640000,Petrol,Automatic,53050,1,Hatchback,3686,7,Mid-Range
+800,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2016,365000,Petrol,Manual,80051,1,Hatchback,3686,10,Mid-Range
+801,Hyundai,Creta,S 1.4 DIESEL,2017,651000,Diesel,Manual,116727,1,SUV,3686,9,Mid-Range
+802,Hyundai,Creta,S PLUS KNIGHT 1.5 PETROL,2023,1299000,Petrol,Manual,23142,1,SUV,3686,3,Premium
+803,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2020,725000,Petrol,Automatic,76155,1,SUV,3686,6,Premium
+804,Hyundai,NEW I20,ASTA (O) 1.5 CRDI MT,2022,714000,Diesel,Manual,91918,1,Hatchback,3686,4,Premium
+805,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2019,391000,Petrol,Manual,76275,1,Hatchback,3686,7,Mid-Range
+806,Hyundai,ALCAZAR,1.5 SIGNATURE MT 6STR,2021,1173423,Diesel,Manual,139134,1,SUV,3686,5,Premium
+807,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2022,570000,Petrol,Manual,32791,1,Hatchback,3686,4,Mid-Range
+808,Hyundai,i10,SPORTZ 1.2 AT,2013,257000,Petrol,Automatic,21660,1,Hatchback,3686,13,Budget
+809,Hyundai,AURA,SX PLUS 1.2 AMT,2024,706000,Petrol,Automatic,13194,1,Sedan,3686,2,Premium
+810,Hyundai,Elite i20,ASTA 1.2,2017,483000,Petrol,Manual,64410,2,Hatchback,3686,9,Mid-Range
+811,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,2014,336000,Petrol,Automatic,74644,2,Hatchback,3686,12,Mid-Range
+812,Hyundai,NEW SANTRO,SPORTZ MT,2021,365000,Petrol,Manual,80580,2,Hatchback,3686,5,Mid-Range
+813,Hyundai,Creta,SX (O) 1.4 TURBO DCT,2020,1154500,Petrol,Automatic,49184,2,SUV,3686,6,Premium
+814,Hyundai,NEW I20,ASTA (O) 1.2 MT,2023,688000,Petrol,Manual,89158,1,Hatchback,3686,3,Mid-Range
+815,Hyundai,NEW SANTRO,SPORTZ MT,2020,385000,Petrol,Manual,60451,1,Hatchback,3686,6,Mid-Range
+817,Hyundai,Creta,SX PLUS 1.6 PETROL,2018,842617,Petrol,Manual,31773,1,SUV,3686,8,Premium
+818,Hyundai,i20 Active,1.2 SX,2017,508982,Petrol,Manual,91942,1,Hatchback,3686,9,Mid-Range
+819,Hyundai,VENUE,S (O) 1.0 TURBO IMT,2022,774680,Petrol,Manual,17062,1,SUV,3686,4,Premium
+820,Hyundai,NEW I20,Sportz 1.2 IVT,2023,729155,Petrol,Automatic,32945,1,Hatchback,3686,3,Premium
+821,Hyundai,i20,MAGNA 1.4 CRDI,2012,209000,Diesel,Manual,114403,2,Hatchback,3686,14,Budget
+822,Hyundai,i10,SPORTZ 1.2,2012,172000,Petrol,Manual,102949,3,Hatchback,3686,14,Budget
+823,Hyundai,i20,SPORTZ 1.2,2013,261000,Petrol,Manual,94406,2,Hatchback,3686,13,Budget
+824,Hyundai,Elite i20,SPORTZ 1.2,2017,450000,Petrol,Manual,120264,2,Hatchback,3686,9,Mid-Range
+825,Hyundai,i20 Active,1.2 S,2017,500000,Petrol,Manual,64456,2,Hatchback,3686,9,Mid-Range
+826,Hyundai,NEW I20,Asta 1.0 GDI Turbo IMT,2020,615000,Petrol,Manual,38885,1,Hatchback,3686,6,Mid-Range
+827,Hyundai,i20,ASTA 1.4 CRDI,2014,335000,Diesel,Manual,151637,1,Hatchback,3686,12,Mid-Range
+828,Hyundai,Creta,SX (O) 1.4 TURBO DCT,2020,1326000,Petrol,Automatic,79224,2,SUV,3686,6,Premium
+829,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,2016,410000,Petrol,Automatic,59849,1,Hatchback,3686,10,Mid-Range
+830,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,2015,377000,Petrol,Automatic,72303,1,Hatchback,3686,11,Mid-Range
+831,Hyundai,AURA,SX PLUS 1.2 AMT,2020,697000,Petrol,Automatic,26572,1,Sedan,3686,6,Mid-Range
+832,Hyundai,GRAND I10 NIOS,SPORTZ U2 AMT 1.2 CRDI,2021,632000,Diesel,Automatic,90614,2,Hatchback,3686,5,Mid-Range
+833,Hyundai,VENUE,S 1.2,2020,565000,Petrol,Manual,35826,3,SUV,3686,6,Mid-Range
+834,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2015,349000,Petrol,Manual,90733,2,Hatchback,3686,11,Mid-Range
+835,Hyundai,i10,SPORTZ 1.1,2015,210000,Petrol,Manual,61166,3,Hatchback,3686,11,Budget
+836,Hyundai,Xcent,S AT 1.2,2018,453000,Petrol,Automatic,50748,1,Sedan,3686,8,Mid-Range
+837,Hyundai,NEW I20,ASTA (O) 1.2 MT,2022,716000,Petrol,Manual,40862,2,Hatchback,3686,4,Premium
+838,Hyundai,Santro Xing,GL,2011,125000,Petrol,Manual,45972,1,Hatchback,3686,15,Budget
+839,Hyundai,i10,SPORTZ 1.2,2012,178000,Petrol,Manual,68101,2,Hatchback,3686,14,Budget
+840,Hyundai,Eon,MAGNA +,2015,209000,Petrol,Manual,49965,1,Hatchback,3686,11,Budget
+841,Hyundai,AURA,SX 1.2,2021,495000,Petrol,Manual,82220,1,Sedan,3686,5,Mid-Range
+842,Hyundai,Creta,S PLUS 1.4 DIESEL,2016,510344,Diesel,Manual,158757,1,SUV,3686,10,Mid-Range
+843,Hyundai,VENUE,SX 1.0 TURBO,2020,780000,Petrol,Manual,104042,2,SUV,3686,6,Premium
+844,Hyundai,Eon,MAGNA +,2013,133000,Petrol,Manual,105098,2,Hatchback,3686,13,Budget
+845,Hyundai,Verna,SX (O)1.5 VTVT,2021,1000000,Petrol,Manual,39407,1,Sedan,3686,5,Premium
+846,Hyundai,i10,MAGNA 1.2,2012,195000,Petrol,Manual,18305,2,Hatchback,3686,14,Budget
+847,Hyundai,Verna,FLUIDIC 1.6 VTVT SX,2013,203303,Petrol,Manual,123893,4,Sedan,3686,13,Budget
+848,Hyundai,VENUE,SX 1.0 (O) TURBO,2019,566000,Petrol,Manual,52658,1,SUV,3686,7,Mid-Range
+849,Hyundai,Verna,FLUIDIC 1.6 VTVT SX,2011,159000,Petrol,Manual,94615,3,Sedan,3686,15,Budget
+850,Hyundai,i10,MAGNA 1.1 LPG,2012,169000,Petrol,Manual,67370,1,Hatchback,3686,14,Budget
+851,Hyundai,i20,SPORTZ 1.4 CRDI,2012,164000,Diesel,Manual,147967,2,Hatchback,3686,14,Budget
+852,Hyundai,Elite i20,SPORTZ 1.2,2017,350000,Petrol,Manual,104924,1,Hatchback,3686,9,Mid-Range
+853,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2017,300000,Petrol,Manual,155955,2,Hatchback,3686,9,Budget
+854,Hyundai,VENUE,S 1.2,2020,595000,Petrol,Manual,39805,1,SUV,3686,6,Mid-Range
+855,Hyundai,i10,MAGNA 1.2,2012,165000,Petrol,Manual,69285,1,Hatchback,3686,14,Budget
+856,Hyundai,i20,ASTA 1.2,2013,230000,Petrol,Manual,85396,3,Hatchback,3686,13,Budget
+857,Hyundai,i20,ASTA (O) 1.2 WITH SUNROOF,2012,250000,Petrol,Manual,72785,1,Hatchback,3686,14,Budget
+858,Hyundai,Elite i20,ASTA 1.2 (O),2020,615000,Petrol,Manual,38442,1,Hatchback,3686,6,Mid-Range
+859,Hyundai,Xcent,S 1.2,2018,316000,Petrol,Manual,102161,1,Sedan,3686,8,Mid-Range
+860,Hyundai,Verna,SX (O) 1.5 MPI MT,2023,1140000,Petrol,Manual,25234,1,Sedan,3686,3,Premium
+861,Hyundai,Elite i20,SPORTZ 1.2,2015,366000,Petrol,Manual,89517,2,Hatchback,3686,11,Mid-Range
+862,Hyundai,Elite i20,SPORTZ 1.2,2017,484000,Petrol,Manual,12935,1,Hatchback,3686,9,Mid-Range
+863,Hyundai,Xcent,S 1.2,2015,273000,Petrol,Manual,140727,2,Sedan,3686,11,Budget
+864,Hyundai,Eon,MAGNA +,2013,217000,Petrol,Manual,53563,2,Hatchback,3686,13,Budget
+865,Hyundai,Eon,ERA +,2012,161000,Petrol,Manual,53105,1,Hatchback,3686,14,Budget
+866,Hyundai,i10,MAGNA 1.1,2012,246000,Petrol,Manual,79703,1,Hatchback,3686,14,Budget
+867,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2015,243000,Petrol,Manual,33977,1,Hatchback,3686,11,Budget
+868,Hyundai,i10,SPORTZ 1.1 LPG,2014,240000,Petrol,Manual,105362,2,Hatchback,3686,12,Budget
+869,Hyundai,GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,2020,514000,Petrol,Manual,23467,1,Hatchback,3686,6,Mid-Range
+870,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2019,421000,Petrol,Manual,59494,2,Hatchback,3686,7,Mid-Range
+871,Hyundai,Elite i20,SPORTZ PLUS 1.2,2019,586000,Petrol,Manual,41448,1,Hatchback,3686,7,Mid-Range
+872,Hyundai,Eon,ERA +,2012,89000,Petrol,Manual,56120,1,Hatchback,3686,14,Budget
+873,Hyundai,Eon,MAGNA +,2012,166000,Petrol,Manual,55349,1,Hatchback,3686,14,Budget
+874,Hyundai,Eon,D-LITE + LPG,2012,122000,Petrol,Manual,89970,2,Hatchback,3686,14,Budget
+875,Hyundai,i10,ERA 1.1,2012,119000,Petrol,Manual,34956,1,Hatchback,3686,14,Budget
+876,Hyundai,i20 Active,1.2 S,2015,448000,Petrol,Manual,43921,1,Hatchback,3686,11,Mid-Range
+877,Hyundai,i20,SPORTZ 1.2,2013,193911,Petrol,Manual,63306,3,Hatchback,3686,13,Budget
+878,Hyundai,Xcent,S 1.2,2014,260000,Petrol,Manual,114377,2,Sedan,3686,12,Budget
+879,Hyundai,i20,ASTA 1.2,2011,210000,Petrol,Manual,82118,2,Hatchback,3686,15,Budget
+880,Hyundai,Elite i20,ASTA 1.4 CRDI,2016,430000,Diesel,Manual,112406,1,Hatchback,3686,10,Mid-Range
+881,Hyundai,i10,SPORTZ 1.2,2011,200000,Petrol,Manual,94334,1,Hatchback,3686,15,Budget
+882,Hyundai,i10,SPORTZ 1.1,2014,250000,Petrol,Manual,161261,1,Hatchback,3686,12,Budget
+883,Hyundai,Eon,ERA +,2012,125000,Petrol,Manual,71159,2,Hatchback,3686,14,Budget
+884,Hyundai,i10,MAGNA 1.2,2012,181000,Petrol,Manual,99318,2,Hatchback,3686,14,Budget
+885,Hyundai,Eon,ERA + LPG,2014,162000,Petrol,Manual,106685,4,Hatchback,3686,12,Budget
+886,Hyundai,i10,SPORTZ 1.2,2013,243000,Petrol,Manual,86283,2,Hatchback,3686,13,Budget
+887,Hyundai,XCENT PRIME,T  VTVT CNG,2018,340000,CNG,Manual,103144,1,Sedan,3686,8,Mid-Range
+888,Hyundai,Elite i20,MAGNA 1.2,2017,430000,Petrol,Manual,57934,1,Hatchback,3686,9,Mid-Range
+889,Hyundai,i10,SPORTZ 1.1,2014,243000,Petrol,Manual,90705,2,Hatchback,3686,12,Budget
+890,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2014,331000,Petrol,Manual,83736,1,Hatchback,3686,12,Mid-Range
+891,Hyundai,i20,ASTA 1.4 CRDI,2011,171000,Diesel,Manual,151741,3,Hatchback,3686,15,Budget
+892,Hyundai,Elite i20,SPORTZ 1.2,2016,405000,Petrol,Manual,47947,1,Hatchback,3686,10,Mid-Range
+893,Hyundai,i10,MAGNA 1.2,2013,190000,Petrol,Manual,56149,2,Hatchback,3686,13,Budget
+894,Hyundai,i10,MAGNA 1.2,2011,128000,Petrol,Manual,63938,1,Hatchback,3686,15,Budget
+895,Hyundai,Verna,FLUIDIC 1.6 CRDI SX,2012,250000,Diesel,Manual,117219,1,Sedan,3686,14,Budget
+896,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2020,488000,Petrol,Manual,36606,1,Hatchback,3686,6,Mid-Range
+897,Hyundai,i20,SPORTZ 1.2,2012,213000,Petrol,Manual,112500,3,Hatchback,3686,14,Budget
+898,Hyundai,i20,MAGNA 1.4 CRDI,2011,142000,Diesel,Manual,125489,3,Hatchback,3686,15,Budget
+899,Hyundai,NEW SANTRO,MAGNA AMT,2019,348000,Petrol,Automatic,73179,3,Hatchback,3686,7,Mid-Range
+900,Hyundai,i10,SPORTZ 1.1 LPG,2013,180000,Petrol,Manual,148868,2,Hatchback,3686,13,Budget
+901,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2013,287000,Petrol,Manual,58622,1,Hatchback,3686,13,Budget
+902,Hyundai,Xcent,BASE 1.2,2014,280000,Petrol,Manual,76186,2,Sedan,3686,12,Budget
+903,Hyundai,Elite i20,ASTA 1.4 CRDI,2015,423000,Diesel,Manual,95334,1,Hatchback,3686,11,Mid-Range
+904,Hyundai,i10,SPORTZ 1.2,2014,238000,Petrol,Manual,86407,1,Hatchback,3686,12,Budget
+905,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2019,366000,Petrol,Manual,81927,2,Hatchback,3686,7,Mid-Range
+906,Hyundai,i20,SPORTZ 1.2,2011,194000,Petrol,Manual,102183,4,Hatchback,3686,15,Budget
+907,Hyundai,Grand i10,SPORTZ 1.1 CRDI,2016,278000,Diesel,Manual,157309,2,Hatchback,3686,10,Budget
+908,Hyundai,Verna,FLUIDIC 1.6 CRDI EX,2011,206000,Diesel,Manual,130140,2,Sedan,3686,15,Budget
+909,Hyundai,Verna,TRANSFORM 1.5 SX CRDI,2010,181000,Diesel,Manual,140801,2,Sedan,3686,16,Budget
+910,Hyundai,NEW I20,SPORTZ 1.2 AT,2020,580000,Petrol,Automatic,84255,1,Hatchback,3686,6,Mid-Range
+911,Hyundai,Grand i10,SPORTZ 1.1 CRDI,2016,259000,Diesel,Manual,144544,7,Hatchback,3686,10,Budget
+912,Hyundai,i20,ERA 1.2,2015,367000,Petrol,Manual,41650,1,Hatchback,3686,11,Mid-Range
+913,Hyundai,i20,ASTA 1.4 CRDI,2010,180000,Diesel,Manual,98728,2,Hatchback,3686,16,Budget
+914,Hyundai,Verna,FLUIDIC 1.6 VTVT SX,2014,340000,Petrol,Manual,83801,2,Sedan,3686,12,Mid-Range
+915,Hyundai,i10,SPORTZ 1.2,2011,156000,Petrol,Manual,63304,2,Hatchback,3686,15,Budget
+916,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2018,364000,Petrol,Manual,112596,1,Hatchback,3686,8,Mid-Range
+917,Hyundai,Creta,S PLUS 1.4 DIESEL,2016,590000,Diesel,Manual,169013,1,SUV,3686,10,Mid-Range
+918,Hyundai,Elite i20,SPORTZ PLUS 1.4 CRDI,2019,489000,Diesel,Manual,104149,2,Hatchback,3686,7,Mid-Range
+919,Hyundai,Eon,MAGNA +,2014,186000,Petrol,Manual,92300,1,Hatchback,3686,12,Budget
+920,Hyundai,i20,ASTA 1.4 CRDI,2013,217000,Diesel,Manual,264444,2,Hatchback,3686,13,Budget
+921,Hyundai,i20,ASTA 1.4 CRDI,2013,250000,Diesel,Manual,92907,2,Hatchback,3686,13,Budget
+922,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2020,491000,Petrol,Manual,25060,2,Hatchback,3686,6,Mid-Range
+923,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2021,769000,Petrol,Automatic,34141,2,SUV,3686,5,Premium
+924,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2015,360000,Petrol,Manual,131733,1,Hatchback,3686,11,Mid-Range
+925,Hyundai,NEW I20,SPORTZ 1.2 MT,2021,513000,Petrol,Manual,158987,1,Hatchback,3686,5,Mid-Range
+926,Hyundai,Grand i10,SPORTZ U2 1.2 CRDI,2018,402000,Diesel,Manual,73971,4,Hatchback,3686,8,Mid-Range
+927,Hyundai,Verna,FLUIDIC 1.6 CRDI EX,2012,289000,Diesel,Manual,99690,1,Sedan,3686,14,Budget
+928,Hyundai,i20,ASTA 1.4 CRDI,2011,213000,Diesel,Manual,170000,2,Hatchback,3686,15,Budget
+929,Hyundai,Elite i20,SPORTZ 1.2,2015,382000,Petrol,Manual,156080,3,Hatchback,3686,11,Mid-Range
+930,Hyundai,i10,SPORTZ 1.1,2015,234000,Petrol,Manual,126704,2,Hatchback,3686,11,Budget
+931,Hyundai,i10,SPORTZ 1.2,2013,212000,Petrol,Manual,64145,1,Hatchback,3686,13,Budget
+932,Hyundai,i20,ASTA 1.2,2011,200000,Petrol,Manual,189458,1,Hatchback,3686,15,Budget
+933,Hyundai,Elite i20,ASTA 1.2,2015,396000,Petrol,Manual,70166,2,Hatchback,3686,11,Mid-Range
+934,Hyundai,Eon,ERA +,2014,170000,Petrol,Manual,73562,1,Hatchback,3686,12,Budget
+935,Hyundai,Elite i20,SPORTZ PLUS 1.2,2020,569000,Petrol,Manual,75115,2,Hatchback,3686,6,Mid-Range
+936,Hyundai,GRAND I10 NIOS,MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,2022,491938,Petrol,Manual,26676,1,Hatchback,3686,4,Mid-Range
+937,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2020,495000,Petrol,Manual,69199,2,Hatchback,3686,6,Mid-Range
+938,Hyundai,NEW SANTRO,SPORTZ MT,2018,330000,Petrol,Manual,51083,1,Hatchback,3686,8,Mid-Range
+939,Hyundai,i10,SPORTZ 1.2,2011,171000,Petrol,Manual,97025,2,Hatchback,3686,15,Budget
+940,Hyundai,Verna,FLUIDIC 1.6 VTVT SX,2011,266000,Petrol,Manual,67527,3,Sedan,3686,15,Budget
+941,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2015,322000,Petrol,Manual,84049,2,Hatchback,3686,11,Mid-Range
+942,Hyundai,i10,SPORTZ 1.2,2011,188000,Petrol,Manual,85194,2,Hatchback,3686,15,Budget
+943,Hyundai,Creta,E 1.5 DIESEL,2020,974000,Diesel,Manual,67472,1,SUV,3686,6,Premium
+944,Hyundai,Santro Xing,GLS LPG,2012,163000,Petrol,Manual,116279,1,Hatchback,3686,14,Budget
+945,Hyundai,Elite i20,MAGNA PLUS 1.2,2020,479000,Petrol,Manual,117355,1,Hatchback,3686,6,Mid-Range
+946,Hyundai,Eon,MAGNA +,2017,200000,Petrol,Manual,95000,1,Hatchback,3686,9,Budget
+947,Hyundai,Tucson,2WD AT GL PETROL ,2017,866000,Petrol,Automatic,147081,2,SUV,3686,9,Premium
+948,Hyundai,Elite i20,ASTA (O) CVT,2019,625000,Petrol,Automatic,38924,1,Hatchback,3686,7,Mid-Range
+949,Hyundai,NEW I20,ASTA (O) 1.2 MT,2021,653000,Petrol,Manual,85891,1,Hatchback,3686,5,Mid-Range
+950,Hyundai,Grand i10,MAGNA 1.1 CRDI,2014,239000,Diesel,Manual,182080,2,Hatchback,3686,12,Budget
+951,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2022,540000,Petrol,Manual,39440,2,Hatchback,3686,4,Mid-Range
+952,Hyundai,NEW I20,ASTA (O) 1.2 MT,2023,732000,Petrol,Manual,24827,1,Hatchback,3686,3,Premium
+953,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2015,310000,Petrol,Manual,75567,2,Hatchback,3686,11,Mid-Range
+954,Hyundai,i10,SPORTZ 1.2,2011,156000,Petrol,Manual,105847,2,Hatchback,3686,15,Budget
+955,Hyundai,Elite i20,SPORTZ 1.2 (O),2015,379000,Petrol,Manual,126137,3,Hatchback,3686,11,Mid-Range
+956,Hyundai,Creta,E PLUS 1.4 DIESEL,2018,649000,Diesel,Manual,171217,1,SUV,3686,8,Mid-Range
+957,Hyundai,i10,SPORTZ 1.2 AT,2012,246000,Petrol,Automatic,36536,2,Hatchback,3686,14,Budget
+958,Hyundai,Verna,FLUIDIC 1.6 CRDI SX,2013,298000,Diesel,Manual,96675,3,Sedan,3686,13,Budget
+959,Hyundai,i20,ASTA 1.2,2014,301000,Petrol,Manual,119882,2,Hatchback,3686,12,Mid-Range
+960,Hyundai,i20,SPORTZ 1.2,2011,180000,Petrol,Manual,168198,2,Hatchback,3686,15,Budget
+961,Hyundai,GRAND I10 NIOS,MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,2022,500000,Petrol,Manual,36947,1,Hatchback,3686,4,Mid-Range
+962,Hyundai,EXTER,EX 1.2 MT,2024,504000,Petrol,Manual,56791,1,Hatchback,3686,2,Mid-Range
+963,Hyundai,Grand i10,ASTA 1.1 CRDI,2014,294000,Diesel,Manual,137134,2,Hatchback,3686,12,Budget
+964,Hyundai,i20 Active,1.2 S,2018,529000,Petrol,Manual,58903,1,Hatchback,3686,8,Mid-Range
+965,Hyundai,i10,SPORTZ 1.2,2013,241000,Petrol,Manual,49203,1,Hatchback,3686,13,Budget
+966,Hyundai,i20 Active,1.2 S,2017,592000,Petrol,Manual,35441,1,Hatchback,3686,9,Mid-Range
+967,Hyundai,NEW I20,ASTA (O) 1.2 AT,2022,777000,Petrol,Automatic,15156,1,Hatchback,3686,4,Premium
+968,Hyundai,i10,SPORTZ 1.2,2011,174000,Petrol,Manual,43412,2,Hatchback,3686,15,Budget
+969,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2018,390000,Petrol,Manual,67834,2,Hatchback,3686,8,Mid-Range
+970,Hyundai,Elite i20,ASTA 1.4 CRDI,2015,466938,Diesel,Manual,117211,2,Hatchback,3686,11,Mid-Range
+971,Hyundai,i10,SPORTZ 1.2,2011,165000,Petrol,Manual,97300,2,Hatchback,3686,15,Budget
+972,Hyundai,i10,SPORTZ 1.2,2011,160000,Petrol,Manual,139424,2,Hatchback,3686,15,Budget
+973,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2024,633000,Petrol,Manual,11064,1,Hatchback,3686,2,Mid-Range
+974,Hyundai,Creta,SX 1.6 DIESEL,2016,675000,Diesel,Manual,101754,1,SUV,3686,10,Mid-Range
+975,Hyundai,Grand i10,ASTA U2 1.2 CRDI,2017,354000,Diesel,Manual,106956,2,Hatchback,3686,9,Mid-Range
+976,Hyundai,Elite i20,ASTA 1.2,2016,546000,Petrol,Manual,52428,1,Hatchback,3686,10,Mid-Range
+977,Hyundai,Verna,SX 1.5 CRDI,2022,972000,Diesel,Manual,89673,2,Sedan,3686,4,Premium
+978,Hyundai,Grand i10,MAGNA U2 1.2 CRDI,2017,308000,Diesel,Manual,121063,1,Hatchback,3686,9,Mid-Range
+979,Hyundai,Creta,SX 1.5 DIESEL,2020,1205000,Diesel,Manual,92289,2,SUV,3686,6,Premium
+980,Hyundai,Elite i20,SPORTZ 1.2,2016,400000,Petrol,Manual,108568,1,Hatchback,3686,10,Mid-Range
+981,Hyundai,VENUE,S (O) 1.0 TURBO IMT,2022,872000,Petrol,Manual,16960,2,SUV,3686,4,Premium
+982,Hyundai,i20 Active,1.2 S,2015,384000,Petrol,Manual,98368,2,Hatchback,3686,11,Mid-Range
+983,Hyundai,NEW I20,ASTA (O) 1.2 MT,2023,740000,Petrol,Manual,33100,1,Hatchback,3686,3,Premium
+984,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2016,333000,Petrol,Manual,86277,2,Hatchback,3686,10,Mid-Range
+985,Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,2018,401000,Petrol,Automatic,34077,1,Hatchback,3686,8,Mid-Range
+986,Hyundai,Elite i20,ASTA 1.4 CRDI,2015,443000,Diesel,Manual,133257,2,Hatchback,3686,11,Mid-Range
+987,Hyundai,Creta,EX 1.5 DIESEL,2022,1054000,Diesel,Manual,46348,1,SUV,3686,4,Premium
+988,Hyundai,Verna,FLUIDIC 1.6 CRDI SX,2015,400000,Diesel,Manual,130166,3,Sedan,3686,11,Mid-Range
+989,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2016,355000,Petrol,Manual,99152,2,Hatchback,3686,10,Mid-Range
+990,Hyundai,Creta,SX PLUS 1.6 PETROL,2017,600000,Petrol,Manual,127115,2,SUV,3686,9,Mid-Range
+991,Hyundai,i20,ASTA 1.4 CRDI,2011,184000,Diesel,Manual,152095,2,Hatchback,3686,15,Budget
+992,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2019,432000,Petrol,Manual,56875,2,Hatchback,3686,7,Mid-Range
+993,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,2019,450000,Petrol,Automatic,77327,1,Hatchback,3686,7,Mid-Range
+994,Hyundai,Elite i20,ASTA 1.4 CRDI,2015,420000,Diesel,Manual,268000,2,Hatchback,3686,11,Mid-Range
+995,Hyundai,Elite i20,SPORTZ 1.2,2016,470000,Petrol,Manual,78010,1,Hatchback,3686,10,Mid-Range
+996,Hyundai,Creta,SX (O) 1.4 TURBO DCT,2020,1050000,Petrol,Automatic,139300,1,SUV,3686,6,Premium
+997,Hyundai,Verna,FLUIDIC 1.4 VTVT CX,2014,356000,Petrol,Manual,63000,1,Sedan,3686,12,Mid-Range
+998,Hyundai,AURA,SX 1.2,2020,532000,Petrol,Manual,54348,1,Sedan,3686,6,Mid-Range
+999,Hyundai,Creta,S PLUS 1.4 DIESEL,2016,708000,Diesel,Manual,369227,1,SUV,3686,10,Premium
+1000,Hyundai,VENUE,S+ 1.2,2022,718000,Petrol,Manual,20300,1,SUV,3686,4,Premium
+1001,Hyundai,Verna,1.6 CRDI SX,2019,794000,Diesel,Manual,97001,2,Sedan,3686,7,Premium
+1002,Hyundai,Verna,1.6 VTVT SX O,2019,782000,Petrol,Manual,105785,1,Sedan,3686,7,Premium
+1003,Hyundai,Creta,SX (O) 1.4 TURBO DCT,2020,1200000,Petrol,Automatic,156997,2,SUV,3686,6,Premium
+1004,Hyundai,Elite i20,SPORTZ 1.2,2015,380000,Petrol,Manual,43607,3,Hatchback,3686,11,Mid-Range
+1005,Hyundai,Creta,S 1.5 DIESEL,2020,1268000,Diesel,Manual,86742,1,SUV,3686,6,Premium
+1006,Hyundai,Creta,SX PLUS AT 1.6 DIESEL,2016,700000,Diesel,Automatic,142633,2,SUV,3686,10,Mid-Range
+1007,Hyundai,Verna,FLUIDIC 1.6 VTVT SX,2014,375000,Petrol,Manual,124442,2,Sedan,3686,12,Mid-Range
+1008,Hyundai,Creta,E PLUS 1.4 DIESEL,2018,705000,Diesel,Manual,102823,2,SUV,3686,8,Premium
+1009,Hyundai,Grand i10,ASTA 1.1 CRDI,2015,301000,Diesel,Manual,112605,1,Hatchback,3686,11,Mid-Range
+1010,Hyundai,i20,SPORTZ 1.2,2012,342000,Petrol,Manual,61916,1,Hatchback,3686,14,Mid-Range
+1011,Hyundai,Creta,SX PLUS 1.6 PETROL,2016,760000,Petrol,Manual,68806,1,SUV,3686,10,Premium
+1012,Hyundai,AURA,SX PLUS 1.2 AMT,2021,623000,Petrol,Automatic,27422,2,Sedan,3686,5,Mid-Range
+1013,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2014,348000,Petrol,Manual,44400,2,Hatchback,3686,12,Mid-Range
+1014,Hyundai,NEW I20,SPORTZ 1.2 MT,2021,545000,Petrol,Manual,102649,1,Hatchback,3686,5,Mid-Range
+1015,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2014,299999,Petrol,Manual,94191,1,Hatchback,3686,12,Budget
+1016,Hyundai,NEW SANTRO,SPORTZ CNG,2019,436000,CNG,Manual,31593,1,Hatchback,3686,7,Mid-Range
+1017,Hyundai,Creta,SX (O) 1.6 DIESEL,2017,935000,Diesel,Manual,95194,2,SUV,3686,9,Premium
+1018,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2015,298000,Petrol,Manual,117067,2,Hatchback,3686,11,Budget
+1019,Hyundai,Elite i20,ASTA 1.2 (O),2018,588000,Petrol,Manual,72573,1,Hatchback,3686,8,Mid-Range
+1020,Hyundai,Creta,SX 1.5 DIESEL,2020,1093000,Diesel,Manual,92624,3,SUV,3686,6,Premium
+1022,Hyundai,NEW SANTRO,ASTA MT,2019,320000,Petrol,Manual,88047,2,Hatchback,3686,7,Mid-Range
+1023,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2014,329000,Petrol,Manual,95596,2,Hatchback,3686,12,Mid-Range
+1024,Hyundai,NEW I20,ASTA (O) 1.5 CRDI MT,2021,755000,Diesel,Manual,68400,1,Hatchback,3686,5,Premium
+1025,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2016,359000,Petrol,Manual,63015,1,Hatchback,3686,10,Mid-Range
+1026,Hyundai,Creta,SX PLUS AT 1.6 DIESEL,2017,850000,Diesel,Automatic,104189,2,SUV,3686,9,Premium
+1027,Hyundai,Creta,E PLUS 1.6 PETROL,2017,719000,Petrol,Manual,90547,1,SUV,3686,9,Premium
+1028,Hyundai,Creta,S AT 1.6 DIESEL,2018,796000,Diesel,Automatic,65115,3,SUV,3686,8,Premium
+1029,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2021,504000,Petrol,Manual,65738,2,Hatchback,3686,5,Mid-Range
+1030,Hyundai,EXTER,SX 1.2 CNG MT,2024,750000,CNG,Manual,43977,1,Hatchback,3686,2,Premium
+1031,Hyundai,Creta,SX PLUS AT 1.6 PETROL,2017,882000,Petrol,Automatic,35414,1,SUV,3686,9,Premium
+1032,Hyundai,Grand i10,SPORTZ AT 1.2 KAPPA VTVT,2018,479000,Petrol,Automatic,49258,1,Hatchback,3686,8,Mid-Range
+1033,Hyundai,Creta,SX AT 1.6 DIESEL,2018,835000,Diesel,Automatic,105374,2,SUV,3686,8,Premium
+1034,Hyundai,Creta,SX (O) 1.6 DIESEL,2015,677000,Diesel,Manual,164352,2,SUV,3686,11,Mid-Range
+1035,Hyundai,Creta,SX EXECUTIVE 1.5 PETROL,2022,1050000,Petrol,Manual,65000,1,SUV,3686,4,Premium
+1036,Hyundai,Creta,SX (O) 1.6 DIESEL,2018,1003000,Diesel,Manual,55535,2,SUV,3686,8,Premium
+1037,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2020,520000,Petrol,Manual,24188,2,Hatchback,3686,6,Mid-Range
+1038,Hyundai,Elite i20,ASTA 1.2,2015,466000,Petrol,Manual,41974,1,Hatchback,3686,11,Mid-Range
+1039,Hyundai,Elite i20,SPORTZ 1.2,2016,457000,Petrol,Manual,71131,1,Hatchback,3686,10,Mid-Range
+1040,Hyundai,AURA,SX PLUS 1.2 AMT CRDI,2021,601000,Diesel,Automatic,106292,2,Sedan,3686,5,Mid-Range
+1041,Hyundai,NEW I20 N LINE,N6 1.0 TURBO GDI IMT,2021,746000,Petrol,Manual,42810,1,Hatchback,3686,5,Premium
+1042,Hyundai,Creta,S PLUS 1.4 DIESEL,2015,632000,Diesel,Manual,174171,1,SUV,3686,11,Mid-Range
+1043,Hyundai,GRAND I10 NIOS,MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,2022,526000,Petrol,Manual,39712,1,Hatchback,3686,4,Mid-Range
+1044,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2018,431000,Petrol,Manual,52001,1,Hatchback,3686,8,Mid-Range
+1045,Hyundai,NEW SANTRO,SPORTZ MT,2020,350000,Petrol,Manual,68546,1,Hatchback,3686,6,Mid-Range
+1046,Hyundai,VENUE,SX 1.0 TURBO,2020,650000,Petrol,Manual,87229,1,SUV,3686,6,Mid-Range
+1047,Hyundai,Creta,S 1.4 DIESEL,2018,732000,Diesel,Manual,110467,1,SUV,3686,8,Premium
+1048,Hyundai,NEW I20 N LINE,N8 1.0 TURBO GDI IMT DUAL TONE,2021,750000,Petrol,Manual,66026,1,Hatchback,3686,5,Premium
+1049,Hyundai,Elite i20,ASTA 1.2,2017,461000,Petrol,Manual,110297,1,Hatchback,3686,9,Mid-Range
+1051,Hyundai,Elite i20,ASTA 1.2 (O),2019,556000,Petrol,Manual,61045,2,Hatchback,3686,7,Mid-Range
+1052,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,2019,448000,Petrol,Manual,28606,1,Hatchback,3686,7,Mid-Range
+1053,Hyundai,NEW I20,ASTA 1.2 MT,2023,827000,Petrol,Manual,79082,2,Hatchback,3686,3,Premium
+1054,Hyundai,Elite i20,SPORTZ PLUS 1.2,2019,536000,Petrol,Manual,71648,1,Hatchback,3686,7,Mid-Range
+1056,Hyundai,Creta,S PLUS 1.4 DIESEL,2017,800000,Diesel,Manual,87375,1,SUV,3686,9,Premium
+1057,Hyundai,Elite i20,SPORTZ 1.4 CRDI,2016,480000,Diesel,Manual,88000,2,Hatchback,3686,10,Mid-Range
+1058,Hyundai,VENUE,SX 1.2 PETROL,2022,750000,Petrol,Manual,75517,1,SUV,3686,4,Premium
+1059,Hyundai,Creta,S 1.4 DIESEL,2016,578000,Diesel,Manual,206512,1,SUV,3686,10,Mid-Range
+1061,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,2015,332000,Petrol,Manual,141800,2,Hatchback,3686,11,Mid-Range
+1062,Hyundai,VENUE,SX 1.0 (O) TURBO,2019,800000,Petrol,Manual,99068,2,SUV,3686,7,Premium
+1063,Hyundai,Creta,SX 1.6 PETROL,2019,814000,Petrol,Manual,71096,1,SUV,3686,7,Premium
+1064,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,2015,360000,Petrol,Automatic,117794,1,Hatchback,3686,11,Mid-Range
+1065,Hyundai,NEW I20 N LINE,N8 1.0 TURBO GDI DCT,2021,845000,Petrol,Automatic,49284,1,Hatchback,3686,5,Premium
+1066,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,2019,430000,Petrol,Manual,37057,1,Hatchback,3686,7,Mid-Range
+1067,Hyundai,Creta,SX EXECUTIVE 1.5 DIESEL,2021,1203000,Diesel,Manual,84451,1,SUV,3686,5,Premium
+1068,Hyundai,VENUE,SX 1.5 CRDI,2021,999000,Diesel,Manual,44854,1,SUV,3686,5,Premium
+1069,Hyundai,Creta,SX 1.6 DIESEL,2018,887000,Diesel,Manual,90419,1,SUV,3686,8,Premium
+1070,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2020,850000,Petrol,Automatic,22039,1,SUV,3686,6,Premium
+1071,Hyundai,Verna,1.6 SX (O) CRDI MT,2017,850000,Diesel,Manual,60362,2,Sedan,3686,9,Premium
+1072,Hyundai,Creta,SX AT 1.6 PETROL,2018,999999,Petrol,Automatic,77454,1,SUV,3686,8,Premium
+1074,Hyundai,VENUE,SX 1.4 CRDI,2019,854000,Diesel,Manual,50642,1,SUV,3686,7,Premium
+1076,Hyundai,Creta,SX AT 1.6 PETROL,2018,1126000,Petrol,Automatic,118389,2,SUV,3686,8,Premium
+1077,Hyundai,Santa Fe,2 WD AT,2015,650000,Diesel,Automatic,100545,3,SUV,3686,11,Mid-Range
+1079,Hyundai,Creta,SX (O) 1.5 DIESEL,2022,1350000,Diesel,Manual,165243,1,SUV,3686,4,Premium
+1080,Hyundai,Creta,SX PLUS AT 1.6 PETROL,2017,720000,Petrol,Automatic,93061,2,SUV,3686,9,Premium
+1081,Hyundai,Creta,SX PLUS AT 1.6 PETROL,2018,900000,Petrol,Automatic,85757,1,SUV,3686,8,Premium
+1082,Hyundai,VENUE,SX 1.0 TURBO IMT,2021,722000,Petrol,Manual,52805,1,SUV,3686,5,Premium
+1083,Hyundai,Creta,SX PLUS AT 1.6 DIESEL,2017,844000,Diesel,Automatic,134370,2,SUV,3686,9,Premium
+1084,Hyundai,VENUE,SX 1.0 (O) TURBO,2019,845000,Petrol,Manual,46425,1,SUV,3686,7,Premium
+1085,Hyundai,Santa Fe,2 WD AT,2014,810000,Diesel,Automatic,101292,2,SUV,3686,12,Premium
+1086,Hyundai,VENUE,SX 1.5 (O) EXECUTIVE CRDI,2021,1000000,Diesel,Manual,42192,3,SUV,3686,5,Premium
+1087,Hyundai,Creta,SX AT 1.6 DIESEL,2019,953000,Diesel,Automatic,122852,1,SUV,3686,7,Premium
+1088,Hyundai,NEW I20,ASTA (O) 1.5 CRDI MT,2022,839000,Diesel,Manual,86362,2,Hatchback,3686,4,Premium
+1089,Hyundai,NEW I20 N LINE,N8 1.0 TURBO GDI IMT,2021,1003000,Petrol,Manual,22281,2,Hatchback,3686,5,Premium
+1090,Hyundai,VENUE,SX 1.0 TURBO IMT,2020,750000,Petrol,Manual,51254,1,SUV,3686,6,Premium
+1091,Hyundai,Creta,SX PLUS AT 1.6 DIESEL,2015,856000,Diesel,Automatic,78288,2,SUV,3686,11,Premium
+1092,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2020,893000,Petrol,Automatic,62544,1,SUV,3686,6,Premium
+1093,Hyundai,Creta,SX AT 1.6 DIESEL,2019,1114000,Diesel,Automatic,157280,1,SUV,3686,7,Premium
+1094,Hyundai,Creta,SX AT 1.6 PETROL,2018,1050000,Petrol,Automatic,26805,1,SUV,3686,8,Premium
+1098,Hyundai,Verna,FLUIDIC 1.6 VTVT EX,2011,303000,Petrol,Manual,42182,2,Sedan,3686,15,Mid-Range
+1099,Hyundai,Elite i20,ASTA (O) CVT,2019,601000,Petrol,Automatic,102124,1,Hatchback,3686,7,Mid-Range
+1100,Hyundai,i20,SPORTZ 1.2,2013,293000,Petrol,Manual,50313,1,Hatchback,3686,13,Budget
+1102,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,2022,498500,Petrol,Manual,39465,1,Hatchback,3686,4,Mid-Range
+1103,Hyundai,NEW I20,ASTA 1.2 MT,2022,722099,Petrol,Manual,22871,1,Hatchback,3686,4,Premium
+1104,Hyundai,VENUE,S 1.2,2019,571830,CNG,Manual,38173,1,SUV,3686,7,Mid-Range
+1105,Hyundai,Creta,S AT 1.6 DIESEL,2019,799000,Diesel,Automatic,53091,1,SUV,3686,7,Premium
+1106,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,2019,590000,Petrol,Automatic,104310,2,SUV,3686,7,Mid-Range
+1107,Hyundai,Elite i20,ASTA 1.2  CVT,2018,519000,Petrol,Automatic,50904,2,Hatchback,3686,8,Mid-Range
+1108,Hyundai,Grand i10,SPORTZ AT 1.2 KAPPA VTVT,2014,279000,Petrol,Automatic,89469,1,Hatchback,3686,12,Budget
+1109,Hyundai,Elite i20,ASTA 1.2,2016,456110,Petrol,Manual,41921,1,Hatchback,3686,10,Mid-Range
+1110,Hyundai,NEW I20 N LINE,N8 1.0 TURBO GDI IMT,2022,823000,Petrol,Manual,56053,1,Hatchback,3686,4,Premium
+1111,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,2021,627000,Petrol,Automatic,73516,1,Hatchback,3686,5,Mid-Range
+1112,Honda,City,1.5L I-VTEC S MT,2014,351216,Petrol,Manual,93675,1,Sedan,3686,12,Mid-Range
+1113,Honda,City,1.5L I-VTEC V MT,2019,680659,Petrol,Manual,43764,1,Sedan,3686,7,Mid-Range
+1114,Honda,Amaze,1.2L I-VTEC V,2018,473118,Petrol,Manual,83407,1,Sedan,3686,8,Mid-Range
+1115,Honda,Jazz,1.5L I-DTEC VX,2015,338000,Diesel,Manual,123085,1,Hatchback,3686,11,Mid-Range
+1116,Honda,Jazz,1.5L I-DTEC V,2015,337000,Diesel,Manual,145808,1,Hatchback,3686,11,Mid-Range
+1117,Honda,Amaze,1.2L I-VTEC VX,2019,481500,Petrol,Manual,78789,1,Sedan,3686,7,Mid-Range
+1118,Honda,City,1.5L I-VTEC SV,2015,381000,Petrol,Manual,110770,1,Sedan,3686,11,Mid-Range
+1119,Honda,Brio,S MT,2013,197000,Petrol,Manual,72099,2,Hatchback,3686,13,Budget
+1120,Honda,BR-V,1.5L I-VTEC VX,2018,580000,Petrol,Manual,69161,1,SUV,3686,8,Mid-Range
+1121,Honda,City,1.5L I-VTEC ZX CVT,2022,833000,Petrol,Automatic,96021,1,Sedan,3686,4,Premium
+1122,Honda,City,1.5L I-VTEC V MT,2018,579000,Petrol,Manual,107627,1,Sedan,3686,8,Mid-Range
+1123,Honda,City,1.5L I-VTEC S MT,2013,383000,Petrol,Manual,56866,1,Sedan,3686,13,Mid-Range
+1124,Honda,Amaze,1.2L I-VTEC E,2015,295000,Petrol,Manual,57026,1,Sedan,3686,11,Budget
+1125,Honda,City,1.5L I-VTEC SV CVT,2016,461000,Petrol,Automatic,88593,1,Sedan,3686,10,Mid-Range
+1126,Honda,City,1.5L I-VTEC VX CVT,2017,529000,Petrol,Automatic,136632,1,Sedan,3686,9,Mid-Range
+1127,Honda,City,1.5L I-VTEC ZX CVT,2022,962000,Petrol,Automatic,66454,1,Sedan,3686,4,Premium
+1128,Honda,Amaze,1.2L I-VTEC SX,2016,366000,Petrol,Manual,95867,1,Sedan,3686,10,Mid-Range
+1129,Honda,City,1.5L I-VTEC S MT,2012,282251,Petrol,Manual,102589,2,Sedan,3686,14,Budget
+1130,Honda,Amaze,1.2L I-VTEC S,2015,269500,Petrol,Manual,109560,2,Sedan,3686,11,Budget
+1131,Honda,City,1.5L I-VTEC S MT,2018,497113,Petrol,Manual,113187,1,Sedan,3686,8,Mid-Range
+1132,Honda,Amaze,1.2L I-VTEC S,2015,321000,Petrol,Manual,88931,1,Sedan,3686,11,Mid-Range
+1133,Honda,Amaze,1.5L I-DTEC VX,2018,509000,Diesel,Manual,121411,1,Sedan,3686,8,Mid-Range
+1134,Honda,Amaze,1.2L I-VTEC VX,2015,363000,Petrol,Manual,62735,2,Sedan,3686,11,Mid-Range
+1135,Honda,City,1.5L I-VTEC V MT,2018,571000,Petrol,Manual,94464,1,Sedan,3686,8,Mid-Range
+1136,Honda,City,1.5L I-VTEC V MT,2015,424500,Petrol,Manual,35151,1,Sedan,3686,11,Mid-Range
+1137,Honda,City,1.5L I-VTEC V MT,2014,476500,Petrol,Manual,91012,2,Sedan,3686,12,Mid-Range
+1138,Honda,Jazz,1.2L I-VTEC ZX,2020,625000,Petrol,Manual,66875,1,Hatchback,3686,6,Mid-Range
+1139,Honda,Amaze,1.2L I-VTEC VX CVT,2019,532000,Petrol,Automatic,46135,1,Sedan,3686,7,Mid-Range
+1140,Honda,City,1.5L I-VTEC V MT,2017,624000,Petrol,Manual,58364,1,Sedan,3686,9,Mid-Range
+1141,Honda,Amaze,1.2L I-VTEC VX CVT,2022,790000,Petrol,Automatic,8353,1,Sedan,3686,4,Premium
+1142,Honda,City,1.5L I-VTEC ZX,2021,1150000,Petrol,Manual,27721,1,Sedan,3686,5,Premium
+1143,Honda,Amaze,1.2L I-VTEC S,2022,534000,Petrol,Manual,53659,3,Sedan,3686,4,Mid-Range
+1144,Honda,Amaze,1.5L I-DTEC VX,2013,211000,Diesel,Manual,142547,5,Sedan,3686,13,Budget
+1145,Honda,Amaze,1.2L I-VTEC S,2018,339000,Petrol,Manual,79380,1,Sedan,3686,8,Mid-Range
+1146,Honda,Amaze,1.5L I-DTEC S,2014,342000,Diesel,Manual,114925,2,Sedan,3686,12,Mid-Range
+1147,Honda,City,1.5L I-DTEC VX,2014,285000,Diesel,Manual,124862,2,Sedan,3686,12,Budget
+1148,Honda,Civic,1.8L I-VTEC V MT,2010,336000,Petrol,Manual,93163,2,Sedan,3686,16,Mid-Range
+1149,Honda,Jazz,1.2L I-VTEC SV,2016,309000,Petrol,Manual,85547,2,Hatchback,3686,10,Mid-Range
+1150,Honda,Brio,S MT,2013,215000,Petrol,Manual,65727,2,Hatchback,3686,13,Budget
+1151,Honda,Amaze,1.5L I-DTEC VX,2013,212000,Diesel,Manual,328970,3,Sedan,3686,13,Budget
+1152,Honda,Mobilio,1.5L I-DTEC S,2015,290000,Diesel,Manual,120063,2,SUV,3686,11,Budget
+1153,Honda,City,1.5L I-VTEC V MT,2016,405000,Petrol,Manual,127364,1,Sedan,3686,10,Mid-Range
+1154,Honda,WR-V,1.5L I-DTEC VX MT,2018,546000,Diesel,Manual,87686,5,SUV,3686,8,Mid-Range
+1155,Honda,Brio,S MT,2012,191000,Petrol,Manual,59680,1,Hatchback,3686,14,Budget
+1156,Honda,Civic,1.8L I-VTEC V AT,2011,144000,Petrol,Automatic,68900,4,Sedan,3686,15,Budget
+1157,Honda,Brio,S MT,2015,352000,Petrol,Manual,29049,1,Hatchback,3686,11,Mid-Range
+1158,Honda,Amaze,1.2L I-VTEC S OPT,2017,387000,Petrol,Manual,65255,1,Sedan,3686,9,Mid-Range
+1159,Honda,City,1.5L I-VTEC CORPORATE MT,2012,301000,Petrol,Manual,42015,1,Sedan,3686,14,Mid-Range
+1160,Honda,Brio,S MT,2012,175000,Petrol,Manual,52093,4,Hatchback,3686,14,Budget
+1161,Honda,Brio,VX MT,2013,180000,Petrol,Manual,91145,2,Hatchback,3686,13,Budget
+1162,Honda,BR-V,1.5L I- DTEC V,2017,564000,Diesel,Manual,121032,2,SUV,3686,9,Mid-Range
+1163,Honda,Jazz,1.2L I-VTEC VX,2016,367000,Petrol,Manual,65653,2,Hatchback,3686,10,Mid-Range
+1164,Honda,City,1.5L I-VTEC S MT,2014,307000,Petrol,Manual,93317,2,Sedan,3686,12,Mid-Range
+1165,Honda,City,1.5L I-VTEC S MT,2012,243000,Petrol,Manual,105188,2,Sedan,3686,14,Budget
+1166,Honda,Amaze,1.2L I-VTEC SX,2015,343000,Petrol,Manual,88676,2,Sedan,3686,11,Mid-Range
+1167,Honda,Mobilio,1.5L I-DTEC S,2015,412000,Diesel,Manual,87718,1,SUV,3686,11,Mid-Range
+1168,Honda,Brio,VX AT,2015,343000,Petrol,Automatic,50734,2,Hatchback,3686,11,Mid-Range
+1169,Honda,Amaze,1.5L I-DTEC S,2014,254000,Diesel,Manual,146211,2,Sedan,3686,12,Budget
+1170,Honda,City,1.5L I-VTEC E MT,2012,225000,Petrol,Manual,101851,2,Sedan,3686,14,Budget
+1171,Honda,WR-V,1.2L I-VTEC VX MT,2017,437000,Petrol,Manual,105513,1,SUV,3686,9,Mid-Range
+1172,Honda,Amaze,1.5L I-DTEC S,2014,253000,Diesel,Manual,205548,1,Sedan,3686,12,Budget
+1173,Honda,City,1.5L I-DTEC V,2016,420000,Diesel,Manual,87474,2,Sedan,3686,10,Mid-Range
+1174,Honda,Brio,EX MT,2013,199000,Petrol,Manual,152510,2,Hatchback,3686,13,Budget
+1175,Honda,City,1.5L I-DTEC VX,2014,418000,Diesel,Manual,185534,1,Sedan,3686,12,Mid-Range
+1176,Honda,City,1.5L I-VTEC V MT,2016,484000,Petrol,Manual,125815,1,Sedan,3686,10,Mid-Range
+1177,Honda,Jazz,1.2L I-VTEC V,2016,393000,Petrol,Manual,47963,1,Hatchback,3686,10,Mid-Range
+1178,Honda,Amaze,1.2L I-VTEC VX CVT,2020,601000,Petrol,Automatic,38938,2,Sedan,3686,6,Mid-Range
+1179,Honda,BR-V,1.5L I-VTEC V CVT,2016,695000,Petrol,Automatic,139506,1,SUV,3686,10,Mid-Range
+1180,Honda,City,1.5L I-VTEC VX,2015,460000,Petrol,Manual,94271,2,Sedan,3686,11,Mid-Range
+1181,Honda,City,1.5L I-VTEC SV CVT,2015,511000,Petrol,Automatic,9874,1,Sedan,3686,11,Mid-Range
+1182,Honda,WR-V,1.5L I-DTEC VX MT,2017,500000,Diesel,Manual,128815,1,SUV,3686,9,Mid-Range
+1183,Honda,WR-V,1.5L I-DTEC VX MT,2017,625000,Diesel,Manual,73598,1,SUV,3686,9,Mid-Range
+1184,Honda,WR-V,1.5L I-DTEC VX MT,2019,636000,Diesel,Manual,70008,1,SUV,3686,7,Mid-Range
+1185,Honda,WR-V,1.2L I-VTEC VX MT,2021,750000,Petrol,Manual,25374,1,SUV,3686,5,Premium
+1186,Honda,Amaze,1.2L I-VTEC S,2015,337000,Petrol,Manual,64788,2,Sedan,3686,11,Mid-Range
+1187,Honda,Jazz,1.2L I-VTEC V AT,2016,439000,Petrol,Automatic,67158,1,Hatchback,3686,10,Mid-Range
+1188,Honda,City,1.5L I-VTEC VX CVT,2017,560000,Petrol,Automatic,128407,2,Sedan,3686,9,Mid-Range
+1189,Honda,City,1.5L I-VTEC S MT,2014,366000,Petrol,Manual,59657,2,Sedan,3686,12,Mid-Range
+1190,Honda,Jazz,1.2L I-VTEC VX CVT,2018,450000,Petrol,Automatic,101129,2,Hatchback,3686,8,Mid-Range
+1191,Honda,City,1.5L I-VTEC V MT,2016,400000,Petrol,Manual,104906,1,Sedan,3686,10,Mid-Range
+1192,Honda,Civic,1.8L I-VTEC ZX CVT,2019,1140000,Petrol,Automatic,98080,1,Sedan,3686,7,Premium
+1193,Honda,Amaze,1.2L I-VTEC S,2013,312000,Petrol,Manual,55647,1,Sedan,3686,13,Mid-Range
+1194,Honda,City,1.5L I-VTEC SV,2014,433000,Petrol,Manual,114468,1,Sedan,3686,12,Mid-Range
+1195,Honda,Amaze,1.2L I-VTEC VX,2023,723000,Petrol,Manual,56156,1,Sedan,3686,3,Premium
+1196,Honda,Jazz,1.2L I-VTEC ZX CVT,2022,657000,Petrol,Automatic,51539,2,Hatchback,3686,4,Mid-Range
+1197,Honda,WR-V,1.5L I-DTEC VX MT,2018,505000,Diesel,Manual,107716,2,SUV,3686,8,Mid-Range
+1198,Honda,City,1.5L I-VTEC S MT,2011,258000,Petrol,Manual,105761,2,Sedan,3686,15,Budget
+1199,Honda,BR-V,1.5L I- DTEC S,2016,546000,Diesel,Manual,68064,2,SUV,3686,10,Mid-Range
+1200,Honda,Amaze,1.2L I-VTEC VX,2017,393000,Petrol,Manual,75837,2,Sedan,3686,9,Mid-Range
+1201,Honda,Brio,V MT,2013,310000,Petrol,Manual,101712,2,Hatchback,3686,13,Mid-Range
+1202,Honda,City,1.5L I-VTEC V MT,2016,467000,Petrol,Manual,80939,1,Sedan,3686,10,Mid-Range
+1203,Honda,City,1.5L I-VTEC V MT,2016,509000,Petrol,Manual,65617,1,Sedan,3686,10,Mid-Range
+1204,Honda,City,1.5L I-VTEC VX CVT,2017,601000,Petrol,Automatic,100449,1,Sedan,3686,9,Mid-Range
+1205,Honda,WR-V,1.2L I-VTEC VX MT,2020,677000,Petrol,Manual,136072,1,SUV,3686,6,Mid-Range
+1206,Honda,Amaze,1.2L I-VTEC VX CVT,2024,807000,Petrol,Automatic,10016,1,Sedan,3686,2,Premium
+1207,Honda,WR-V,1.5L I-DTEC VX MT,2017,606000,Diesel,Manual,82751,3,SUV,3686,9,Mid-Range
+1208,Honda,City,1.5L I-VTEC VX CVT,2016,534000,Petrol,Automatic,126873,2,Sedan,3686,10,Mid-Range
+1209,Honda,ELEVATE,VX MT,2023,1100000,Petrol,Manual,51686,1,SUV,3686,3,Premium
+1210,Honda,City,1.5L I-VTEC ZX CVT,2019,750000,Petrol,Automatic,120105,2,Sedan,3686,7,Premium
+1211,Honda,City,1.5L I-VTEC S MT,2013,320000,Petrol,Manual,130705,2,Sedan,3686,13,Mid-Range
+1212,Honda,City,1.5L I-VTEC S MT,2013,400000,Petrol,Manual,42309,1,Sedan,3686,13,Mid-Range
+1213,Honda,Amaze,1.2L I-VTEC VX CVT,2024,801000,Petrol,Automatic,8427,1,Sedan,3686,2,Premium
+1214,Honda,Amaze,1.2L I-VTEC VX CVT,2024,800000,Petrol,Automatic,11984,1,Sedan,3686,2,Premium
+1215,Honda,CRV,2.4L 4WD AVN AT,2015,680000,Petrol,Automatic,135734,1,SUV,3686,11,Mid-Range
+1216,Honda,WR-V,1.2L I-VTEC VX MT,2019,745000,Petrol,Manual,26000,2,SUV,3686,7,Premium
+1217,Honda,CRV,2.4L 4WD AVN AT,2017,1003000,Petrol,Automatic,113655,2,SUV,3686,9,Premium
+1219,Honda,Jazz,1.2L I-VTEC V,2017,310000,Petrol,Manual,100152,2,Hatchback,3686,9,Mid-Range
+1220,Honda,Amaze,1.2L I-VTEC S,2018,390000,Petrol,Manual,96602,1,Sedan,3686,8,Mid-Range
+1221,Honda,Amaze,1.2L I-VTEC S,2015,259500,Petrol,Manual,88470,1,Sedan,3686,11,Budget
+1222,Honda,City,1.5L I-VTEC VX,2016,446000,Petrol,Manual,102421,1,Sedan,3686,10,Mid-Range
+1223,Honda,City,1.5L I-VTEC V MT,2019,691110,Petrol,Manual,39647,1,Sedan,3686,7,Mid-Range
+1224,Honda,Amaze,1.5L I-DTEC V CVT,2019,646640,Diesel,Automatic,59647,1,Sedan,3686,7,Mid-Range
+1225,Mahindra,KUV 100 NXT,K8 P 6 STR,2018,373813,Petrol,Manual,32647,1,SUV,3686,8,Mid-Range
+1226,Mahindra,Thar,LX  P 4WD AT CONVERTIBLE,2021,1094581,Petrol,Automatic,25056,1,SUV,3686,5,Premium
+1227,Mahindra,Thar,LX PETROL HT 4WD AT,2021,964000,Petrol,Automatic,97638,1,SUV,3686,5,Premium
+1228,Mahindra,Thar,LX  P 4WD AT CONVERTIBLE,2021,998000,Petrol,Automatic,14200,1,SUV,3686,5,Premium
+1229,Mahindra,Thar,LX PETROL HT 4WD AT,2023,1196000,Petrol,Automatic,27309,1,SUV,3686,3,Premium
+1230,Mahindra,Thar,LX D AT 4WD HT,2021,1049000,Diesel,Automatic,103372,1,SUV,3686,5,Premium
+1231,Mahindra,TUV300,T8,2016,518000,Diesel,Manual,66677,1,SUV,3686,10,Mid-Range
+1232,Mahindra,XUV500,W7 AT,2020,976500,Diesel,Automatic,73840,2,SUV,3686,6,Premium
+1233,Mahindra,XUV500,W10,2016,799000,Diesel,Manual,105526,2,SUV,3686,10,Premium
+1235,Mahindra,Thar,LX PETROL HT 4WD AT,2021,1092500,Petrol,Automatic,35823,1,SUV,3686,5,Premium
+1236,Mahindra,BOLERO NEO,N 4,2021,670000,Diesel,Manual,40245,1,SUV,3686,5,Mid-Range
+1237,Mahindra,Thar,LX  P 4WD AT CONVERTIBLE,2021,1002500,Petrol,Automatic,40525,1,SUV,3686,5,Premium
+1238,Mahindra,TUV300,T10,2018,649000,Diesel,Manual,80124,1,SUV,3686,8,Mid-Range
+1239,Mahindra,XUV300,W6 1.5 DIESEL AMT,2021,714000,Diesel,Automatic,126069,1,SUV,3686,5,Premium
+1241,Mahindra,Kuv100,K8 6 STR,2016,286000,Petrol,Manual,24151,1,SUV,3686,10,Budget
+1242,Mahindra,XUV500,W4,2017,455000,Diesel,Manual,154104,2,SUV,3686,9,Mid-Range
+1243,Mahindra,XUV500,W10 AT,2016,800000,Diesel,Automatic,108186,3,SUV,3686,10,Premium
+1244,Mahindra,XUV500,W11 AT,2018,1218000,Diesel,Automatic,75989,1,SUV,3686,8,Premium
+1245,Mahindra,Bolero,POWER PLUS SLE,2016,288000,Diesel,Manual,226974,3,SUV,3686,10,Budget
+1246,Mahindra,XUV500,W6,2014,357000,Diesel,Manual,88954,2,SUV,3686,12,Mid-Range
+1247,Mahindra,XUV500,W8,2014,295000,Diesel,Manual,162090,2,SUV,3686,12,Budget
+1248,Mahindra,XUV500,W10,2016,904000,Diesel,Manual,47530,1,SUV,3686,10,Premium
+1249,Mahindra,XUV500,W8,2013,438000,Diesel,Manual,159504,1,SUV,3686,13,Mid-Range
+1250,Mahindra,XUV300,W8 (O) 1.5 DIESEL,2023,1035000,Diesel,Manual,39216,1,SUV,3686,3,Premium
+1251,Mahindra,Kuv100,K2 6 STR,2016,281000,Petrol,Manual,77500,1,SUV,3686,10,Budget
+1252,Mahindra,XUV300,W4 1.2 PETROL,2024,673000,Petrol,Manual,12902,2,SUV,3686,2,Mid-Range
+1253,Mahindra,XUV300,W4 1.2 PETROL,2020,450487,Petrol,Manual,56450,3,SUV,3686,6,Mid-Range
+1254,Mahindra,MARAZZO,M2 8 STR,2018,698000,Diesel,Manual,20936,1,SUV,3686,8,Mid-Range
+1255,Mahindra,MARAZZO,M6 8 STR,2019,650000,Diesel,Manual,97172,1,SUV,3686,7,Mid-Range
+1256,Mahindra,Bolero,POWER PLUS SLE,2018,371000,Diesel,Manual,139274,5,SUV,3686,8,Mid-Range
+1257,Mahindra,Scorpio,S10,2016,544000,Diesel,Manual,152660,2,SUV,3686,10,Mid-Range
+1258,Mahindra,KUV 100 NXT,K4+ D 6 STR,2019,375000,Diesel,Manual,75817,1,SUV,3686,7,Mid-Range
+1259,Mahindra,Bolero,ZLX BS IV,2013,276000,Diesel,Manual,129671,3,SUV,3686,13,Budget
+1261,Mahindra,Verito,D2 BS-III,2011,85000,Diesel,Manual,283416,1,Hatchback,3686,15,Budget
+1262,Mahindra,XUV500,W4,2014,396000,Diesel,Manual,141215,2,SUV,3686,12,Mid-Range
+1263,Mahindra,Bolero,ZLX BS IV,2012,243000,Diesel,Manual,119350,2,SUV,3686,14,Budget
+1264,Mahindra,Thar,LX D AT 4WD HT,2023,1400000,Diesel,Automatic,91803,1,SUV,3686,3,Premium
+1266,Mahindra,XUV500,W10,2017,725000,Diesel,Manual,196043,1,SUV,3686,9,Premium
+1267,Mahindra,XUV500,W4,2016,478000,Diesel,Manual,143599,2,SUV,3686,10,Mid-Range
+1268,Mahindra,Scorpio,LX,2014,451000,Diesel,Manual,12682,2,SUV,3686,12,Mid-Range
+1269,Mahindra,E VERITO,D2,2019,300000,Electric,Automatic,86554,2,Sedan,3686,7,Budget
+1271,Mahindra,Quanto,C4,2013,217000,Diesel,Manual,84364,1,SUV,3686,13,Budget
+1272,Mahindra,XUV500,W8,2014,484000,Diesel,Manual,99483,1,SUV,3686,12,Mid-Range
+1273,Mahindra,XUV500,W8,2012,321000,Diesel,Manual,109740,3,SUV,3686,14,Mid-Range
+1274,Mahindra,XUV500,W11 (O) AT,2019,955000,Diesel,Automatic,111639,1,SUV,3686,7,Premium
+1275,Mahindra,Thar,LX HARD TOP 4WD MT,2020,1064000,Diesel,Manual,72323,2,SUV,3686,6,Premium
+1277,Mahindra,XUV500,SPORTZ LTD,2014,589000,Diesel,Manual,71036,2,SUV,3686,12,Mid-Range
+1278,Mahindra,XUV500,W6,2015,565000,Diesel,Manual,154858,1,SUV,3686,11,Mid-Range
+1280,Mahindra,Bolero,ZLX BS IV,2014,315000,Diesel,Manual,107075,3,SUV,3686,12,Mid-Range
+1282,Mahindra,XUV500,W7,2020,1290000,Diesel,Manual,115088,2,SUV,3686,6,Premium
+1283,Mahindra,Thar,LX D 4WD AT CONVERTIBLE,2021,1371000,Diesel,Automatic,47201,1,SUV,3686,5,Premium
+1284,Mahindra,Thar,LX D 4WD AT CONVERTIBLE,2023,1250000,Diesel,Automatic,103368,1,SUV,3686,3,Premium
+1285,Mahindra,XUV500,W6,2015,667000,Diesel,Manual,93607,3,SUV,3686,11,Mid-Range
+1286,Mahindra,BOLERO NEO,N 10,2023,881000,Diesel,Manual,65156,1,SUV,3686,3,Premium
+1287,Mahindra,Quanto,C8,2014,273000,Diesel,Manual,87439,2,SUV,3686,12,Budget
+1288,Mahindra,XUV500,W11,2019,1044000,Diesel,Manual,119588,1,SUV,3686,7,Premium
+1290,Mahindra,XUV500,W10,2015,625000,Diesel,Manual,153580,2,SUV,3686,11,Mid-Range
+1293,Mahindra,MARAZZO,M2 8 STR,2018,600000,Diesel,Manual,181632,2,SUV,3686,8,Mid-Range
+1294,Mahindra,XUV500,W4,2016,500000,Diesel,Manual,199287,2,SUV,3686,10,Mid-Range
+1295,Mahindra,XUV500,W6 AT,2018,941000,Diesel,Automatic,98631,1,SUV,3686,8,Premium
+1296,Mahindra,XUV500,W11,2018,1223000,Diesel,Manual,100771,2,SUV,3686,8,Premium
+1297,Mahindra,XUV500,W7,2019,871000,Diesel,Manual,148186,2,SUV,3686,7,Premium
+1300,Mahindra,Thar,LX HARD TOP 4WD MT,2021,1201000,Diesel,Manual,62496,2,SUV,3686,5,Premium
+1301,Mahindra,Thar,LX HARD TOP 4WD MT,2021,1217000,Diesel,Manual,68951,2,SUV,3686,5,Premium
+1302,Mahindra,XUV500,W6,2012,304000,Diesel,Manual,142058,2,SUV,3686,14,Mid-Range
+1306,Mahindra,Thar,LX D HT 2WD MT,2024,1202000,Diesel,Manual,47338,1,SUV,3686,2,Premium
+1307,Mahindra,XUV300,W8(O) 1.2 PETROL DUAL TONE,2020,707000,Petrol,Manual,82903,1,SUV,3686,6,Premium
+1308,Mahindra,XUV700,AX 5 P MT 5 STR,2021,1250000,Petrol,Manual,140437,1,SUV,3686,5,Premium
+1309,Mahindra,XUV500,W11 AT,2019,1305000,Diesel,Automatic,84698,1,SUV,3686,7,Premium
+1310,Mahindra,XUV500,W8,2013,400000,Diesel,Manual,182123,2,SUV,3686,13,Mid-Range
+1311,Mahindra,XUV500,W10,2015,756000,Diesel,Manual,112843,2,SUV,3686,11,Premium
+1312,Mahindra,XUV300,W8 (O) 1.5 DIESEL AMT,2020,700000,Diesel,Automatic,153511,1,SUV,3686,6,Mid-Range
+1313,Mahindra,XUV500,W11 AT,2021,1342000,Diesel,Automatic,93475,2,SUV,3686,5,Premium
+1314,Mahindra,XUV300,W6 1.2 PETROL,2019,657000,Petrol,Manual,44962,1,SUV,3686,7,Mid-Range
+1315,Mahindra,Thar,LX  P 4WD AT CONVERTIBLE,2021,1031000,Petrol,Automatic,47442,2,SUV,3686,5,Premium
+1317,Mahindra,Bolero,ZLX BS IV,2015,456000,Diesel,Manual,112375,1,SUV,3686,11,Mid-Range
+1318,Mahindra,XUV300,W8 1.2 PETROL,2021,807117,Petrol,Manual,23865,1,SUV,3686,5,Premium
+1319,Mahindra,TUV300,T8,2019,717000,Diesel,Manual,128291,1,SUV,3686,7,Premium
+1320,Mahindra,XUV300,W8 (O) 1.5 DIESEL AMT,2020,801000,Diesel,Automatic,73812,2,SUV,3686,6,Premium
+1321,Mahindra,XUV300,W8 (O) 1.2 PETROL,2024,1005000,Petrol,Manual,32776,1,SUV,3686,2,Premium
+1322,Mahindra,XUV300,W6 1.5 Diesel,2020,643000,Diesel,Manual,211066,1,SUV,3686,6,Mid-Range
+1323,Mahindra,XUV300,W6 1.5 DIESEL AMT,2022,900000,Diesel,Automatic,41821,1,SUV,3686,4,Premium
+1324,Mahindra,XUV300,W8 (O) 1.5 DIESEL,2020,798000,Diesel,Manual,114836,3,SUV,3686,6,Premium
+1325,Mahindra,XUV300,W6 1.2 PETROL AMT,2023,914000,Petrol,Automatic,9377,1,SUV,3686,3,Premium
+1326,Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,2022,850000,Petrol,Automatic,37000,1,SUV,3686,4,Premium
+1327,Mahindra,XUV300,W8 (O) 1.2 PETROL AMT,2021,825000,Petrol,Automatic,55198,1,SUV,3686,5,Premium
+1328,Mahindra,BOLERO NEO,N 10 (O),2023,950000,Diesel,Manual,87400,1,SUV,3686,3,Premium
+1329,Mahindra,XUV300,W6 1.5 DIESEL AMT,2022,930000,Diesel,Automatic,51889,1,SUV,3686,4,Premium
+1330,Mahindra,Thar,LX PETROL HT 4WD AT,2021,1367000,Petrol,Automatic,46656,1,SUV,3686,5,Premium
+1331,Mahindra,Thar,LX PETROL HT 4WD AT,2022,1343000,Petrol,Automatic,60157,1,SUV,3686,4,Premium
+1332,Mahindra,Thar,LX HARD TOP 4WD MT,2021,1301000,Diesel,Manual,36785,1,SUV,3686,5,Premium
+1333,Mahindra,XUV500,W10,2015,760000,Diesel,Manual,95830,2,SUV,3686,11,Premium
+1334,Mahindra,BOLERO NEO,N 10,2022,785000,Diesel,Manual,26002,1,SUV,3686,4,Premium
+1335,KIA,SONET,HTX 1.0 IMT,2020,642870,Petrol,Manual,73266,1,SUV,3686,6,Mid-Range
+1336,KIA,SELTOS,HTK 1.5 PETROL,2020,713402,Petrol,Manual,36305,1,SUV,3686,6,Premium
+1337,KIA,SONET,HTK PLUS 1.2,2022,769000,Petrol,Manual,26983,1,SUV,3686,4,Premium
+1338,KIA,SELTOS,HTK PLUS 1.5 DIESEL,2019,820000,Diesel,Manual,83843,1,SUV,3686,7,Premium
+1339,KIA,SONET,HTE 1.2,2021,646265,Petrol,Manual,47915,1,SUV,3686,5,Mid-Range
+1340,KIA,SONET,GTX PLUS 1.0 IMT,2022,826000,Petrol,Manual,18318,1,SUV,3686,4,Premium
+1341,KIA,SONET,HTX ANNIVERSARY EDITION 1.5,2022,887000,Diesel,Manual,45352,1,SUV,3686,4,Premium
+1342,KIA,SELTOS,HTX PLUS 1.5 DIESEL,2019,951000,Diesel,Manual,107500,1,SUV,3686,7,Premium
+1343,KIA,SELTOS,HTX 1.5 PETROL,2021,918000,Petrol,Manual,75571,2,SUV,3686,5,Premium
+1344,KIA,SONET,HTX 1.5,2021,799000,Diesel,Manual,78210,1,SUV,3686,5,Premium
+1345,KIA,SELTOS,HTX PLUS 1.5 DIESEL,2020,1045000,Diesel,Manual,76870,1,SUV,3686,6,Premium
+1346,KIA,SELTOS,X LINE 1.5 DIESEL AT,2022,1372000,Diesel,Automatic,62222,1,SUV,3686,4,Premium
+1347,KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2020,1090000,Diesel,Automatic,116719,1,SUV,3686,6,Premium
+1348,KIA,SONET,HTX 1.5,2021,795000,Diesel,Manual,75117,1,SUV,3686,5,Premium
+1349,KIA,SONET,HTX 1.0 DCT,2022,899000,Petrol,Automatic,48602,1,SUV,3686,4,Premium
+1350,KIA,SONET,X LINE 1.5 AT,2023,1160000,Diesel,Automatic,45992,1,SUV,3686,3,Premium
+1351,KIA,SONET,HTX PLUS 1.5 DIESEL IMT,2024,1139000,Diesel,Manual,30735,1,SUV,3686,2,Premium
+1352,KIA,SONET,X LINE 1.5 AT,2022,1110000,Diesel,Automatic,63992,1,SUV,3686,4,Premium
+1353,KIA,CARENS,PRESTIGE 1.5 PETROL 7 STR,2023,910000,Petrol,Manual,117139,1,SUV,3686,3,Premium
+1354,KIA,SONET,HTK 1.2,2021,622000,Petrol,Manual,45859,1,SUV,3686,5,Mid-Range
+1355,KIA,SONET,HTX 1.5,2021,988000,Diesel,Manual,60935,1,SUV,3686,5,Premium
+1356,KIA,SELTOS, HTX 1.5 PETROL MT,2023,1258000,Petrol,Manual,41656,1,SUV,3686,3,Premium
+1357,KIA,SONET,HTK (O) 1.2 Petrol MT,2024,752000,Petrol,Manual,13078,1,SUV,3686,2,Premium
+1358,KIA,SELTOS,HTK PLUS 1.5 DIESEL,2020,1278000,Diesel,Manual,124000,1,SUV,3686,6,Premium
+1359,KIA,SELTOS,HTK 1.5 PETROL,2019,758000,Petrol,Manual,81604,2,SUV,3686,7,Premium
+1360,KIA,SONET,HTX 1.0 IMT,2021,650000,Petrol,Manual,74681,1,SUV,3686,5,Mid-Range
+1361,KIA,SELTOS,HTX 1.5 PETROL,2020,800000,Petrol,Manual,30420,2,SUV,3686,6,Premium
+1362,KIA,SONET,HTK PLUS 1.5,2022,750000,Diesel,Manual,55884,1,SUV,3686,4,Premium
+1363,KIA,SELTOS,HTK 1.5 PETROL,2022,908000,Petrol,Manual,49167,1,SUV,3686,4,Premium
+1364,KIA,SONET,HTK (O) 1.2 Petrol MT,2024,834000,Petrol,Manual,28500,1,SUV,3686,2,Premium
+1365,KIA,SELTOS, HTX IVT G,2022,1173000,Petrol,Automatic,44068,1,SUV,3686,4,Premium
+1366,KIA,SONET,HTX 1.0 IMT,2021,755000,Petrol,Manual,42395,1,SUV,3686,5,Premium
+1367,KIA,SELTOS,HTK PLUS AT 1.5 DIESEL,2020,1042000,Diesel,Automatic,157857,2,SUV,3686,6,Premium
+1368,KIA,SONET,HTK PLUS 1.0 IMT,2023,820000,Petrol,Manual,15852,1,SUV,3686,3,Premium
+1369,KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,2020,1093000,Petrol,Automatic,49279,1,SUV,3686,6,Premium
+1370,KIA,SONET,GTX PLUS 1.5 AT,2021,1105000,Diesel,Automatic,31978,1,SUV,3686,5,Premium
+1371,KIA,SELTOS,HTK PLUS 1.5 DIESEL,2020,845000,Diesel,Manual,116483,1,SUV,3686,6,Premium
+1372,KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2020,1105000,Diesel,Automatic,156039,1,SUV,3686,6,Premium
+1374,KIA,SELTOS,HTX PLUS 1.5 DIESEL,2019,1150000,Diesel,Manual,163051,1,SUV,3686,7,Premium
+1375,KIA,SONET,HTX 1.0 TURBO PETROL IMT,2024,1047000,Petrol,Manual,7738,1,SUV,3686,2,Premium
+1376,KIA,SELTOS,HTK PLUS AT 1.5 DIESEL,2021,1058000,Diesel,Automatic,199612,1,SUV,3686,5,Premium
+1377,KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2020,1149000,Diesel,Automatic,83607,2,SUV,3686,6,Premium
+1378,KIA,SONET,HTK PLUS 1.2,2022,722000,Petrol,Manual,72930,1,SUV,3686,4,Premium
+1379,KIA,SELTOS,HTK PLUS AT 1.5 DIESEL,2019,850000,Diesel,Automatic,188549,1,SUV,3686,7,Premium
+1380,KIA,SONET,GTX PLUS 1.5,2021,1042000,Diesel,Manual,162397,1,SUV,3686,5,Premium
+1381,KIA,SONET,HTK PLUS 1.5,2020,739000,Diesel,Manual,129918,1,SUV,3686,6,Premium
+1382,KIA,SONET,GTX PLUS 1.5,2020,780000,Diesel,Manual,159622,1,SUV,3686,6,Premium
+1383,KIA,SONET,HTK PLUS 1.0 IMT,2022,882000,Petrol,Manual,31785,1,SUV,3686,4,Premium
+1384,KIA,SELTOS,HTK PLUS 1.5,2020,1014000,Petrol,Manual,55725,1,SUV,3686,6,Premium
+1385,KIA,SELTOS,HTK PLUS 1.5 DIESEL,2022,1050000,Diesel,Manual,92336,1,SUV,3686,4,Premium
+1386,KIA,SONET,HTK 1.2,2023,799000,Petrol,Manual,61778,1,SUV,3686,3,Premium
+1388,KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2021,1250000,Diesel,Automatic,81011,2,SUV,3686,5,Premium
+1389,KIA,SONET,HTK PLUS 1.0 IMT,2023,850000,Petrol,Manual,20410,2,SUV,3686,3,Premium
+1391,KIA,SELTOS,HTX PLUS AT1.5 DIESEL,2019,1155000,Diesel,Automatic,128263,2,SUV,3686,7,Premium
+1392,KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2020,1250000,Diesel,Automatic,68652,2,SUV,3686,6,Premium
+1393,KIA,SONET,HTX 1.5,2020,1003000,Diesel,Manual,70296,1,SUV,3686,6,Premium
+1394,KIA,SONET,GTX PLUS 1.5,2022,1093000,Diesel,Manual,31738,1,SUV,3686,4,Premium
+1397,KIA,SELTOS,GTX PLUS AT 1.5 DIESEL,2020,1050000,Diesel,Automatic,180447,1,SUV,3686,6,Premium
+1398,KIA,SELTOS,HTK PLUS 1.5,2023,1137000,Petrol,Manual,73338,1,SUV,3686,3,Premium
+1399,KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,2019,958000,Petrol,Automatic,131231,1,SUV,3686,7,Premium
+1400,KIA,SELTOS,HTK PLUS 1.5 IMT,2022,1000000,Petrol,Manual,55159,1,SUV,3686,4,Premium
+1401,KIA,SELTOS,HTX 1.5 DIESEL,2022,1100000,Diesel,Manual,150750,1,SUV,3686,4,Premium
+1402,KIA,SELTOS,GTX PLUS 1.5 DIESEL AT,2022,1372000,Diesel,Automatic,93931,1,SUV,3686,4,Premium
+1403,KIA,SELTOS,HTX 1.5 PETROL,2021,1100000,Petrol,Manual,58353,1,SUV,3686,5,Premium
+1406,KIA,SELTOS,HTE 1.5 PETROL,2021,815000,Petrol,Manual,18242,2,SUV,3686,5,Premium
+1407,KIA,SELTOS,HTX PLUS 1.5 DIESEL,2019,984000,Diesel,Manual,85632,1,SUV,3686,7,Premium
+1408,Toyota,URBAN CRUISER,HIGH GRADE MT,2020,642562,Petrol,Manual,44175,2,SUV,3686,6,Mid-Range
+1409,Toyota,Etios,CROSS 1.4 VD,2014,353500,Diesel,Manual,80902,1,Sedan,3686,12,Mid-Range
+1410,Toyota,Etios,GD,2015,361265,Diesel,Manual,86134,1,Sedan,3686,11,Mid-Range
+1411,Toyota,URBAN CRUISER,PREMIUM GRADE AT,2020,611000,Petrol,Automatic,145623,1,SUV,3686,6,Mid-Range
+1412,Toyota,Innova,2.5 VX 7 STR,2015,929000,Diesel,Manual,94748,1,SUV,3686,11,Premium
+1413,Toyota,Glanza,V CVT,2021,592000,Petrol,Automatic,93678,1,Hatchback,3686,5,Mid-Range
+1414,Toyota,Innova,2.5 GX 8 STR,2015,724000,Diesel,Manual,257785,4,SUV,3686,11,Premium
+1415,Toyota,Urban Cruiser Taisor,S Plus 1.2 Petrol AMT,2024,780000,Petrol,Automatic,29804,1,SUV,3686,2,Premium
+1416,Toyota,Innova,2.5 G2 7STR,2012,376000,Diesel,Manual,185894,3,SUV,3686,14,Mid-Range
+1417,Toyota,Etios,G,2011,186000,Petrol,Manual,80216,9,Sedan,3686,15,Budget
+1418,Toyota,Etios,GD,2015,315000,Diesel,Manual,163970,2,Sedan,3686,11,Mid-Range
+1419,Toyota,Etios,GD,2015,260000,Diesel,Manual,353809,2,Sedan,3686,11,Budget
+1420,Toyota,Etios,G,2011,227000,Petrol,Manual,76973,1,Sedan,3686,15,Budget
+1421,Toyota,URBAN CRUISER,HIGH GRADE MT,2021,921000,Petrol,Manual,84540,2,SUV,3686,5,Premium
+1422,Toyota,Camry,HYBRID,2017,1191000,Hybrid,Automatic,68198,2,Sedan,3686,9,Premium
+1423,Toyota,Etios Liva,GD,2013,257000,Diesel,Manual,1,2,Hatchback,3686,13,Budget
+1425,Toyota,Etios,GD,2015,310000,Diesel,Manual,228504,2,Sedan,3686,11,Mid-Range
+1426,Toyota,Etios,G,2011,178000,Petrol,Manual,77799,2,Sedan,3686,15,Budget
+1428,Toyota,Corolla Altis,J DIESEL,2012,249000,Diesel,Manual,87237,2,Sedan,3686,14,Budget
+1429,Toyota,Etios,VX-D,2015,321000,Diesel,Manual,246836,1,Sedan,3686,11,Mid-Range
+1430,Toyota,Etios,GD,2016,325000,Diesel,Manual,87882,2,Sedan,3686,10,Mid-Range
+1432,Toyota,URBAN CRUISER,MID GRADE MT,2021,550000,Petrol,Manual,116911,2,SUV,3686,5,Mid-Range
+1433,Toyota,Innova Crysta,2.4 GX 8 STR,2017,1365000,Diesel,Manual,138916,2,SUV,3686,9,Premium
+1434,Toyota,Etios,GD,2017,350000,Diesel,Manual,83619,2,Sedan,3686,9,Mid-Range
+1435,Toyota,Etios Liva,G,2014,299000,Petrol,Manual,56580,2,Hatchback,3686,12,Budget
+1436,Toyota,Etios,GD EXCLUSIVE,2014,281000,Diesel,Manual,157320,1,Sedan,3686,12,Budget
+1437,Toyota,Innova Crysta,2.8 GX AT 8 STR,2018,1321000,Diesel,Automatic,190379,2,SUV,3686,8,Premium
+1438,Toyota,Etios,GD,2015,250000,Diesel,Manual,296657,2,Sedan,3686,11,Budget
+1439,Toyota,Innova,VX 2.5 7 STR,2012,568000,Diesel,Manual,250000,2,SUV,3686,14,Mid-Range
+1440,Toyota,URBAN CRUISER,HIGH GRADE MT,2022,755000,Petrol,Manual,56553,1,SUV,3686,4,Premium
+1444,Toyota,Innova,2.5 GX 8 STR,2012,480000,Diesel,Manual,217721,1,SUV,3686,14,Mid-Range
+1445,Toyota,Innova,2.5 VX 8 STR,2012,525000,Diesel,Manual,180725,2,SUV,3686,14,Mid-Range
+1448,Toyota,Fortuner,3.0 4X2 MT,2014,1400000,Diesel,Manual,299774,2,SUV,3686,12,Premium
+1450,Toyota,Innova,2.5 VX 7 STR,2013,800000,Diesel,Manual,175381,1,SUV,3686,13,Premium
+1451,Toyota,Corolla Altis,G DIESEL,2011,331000,Diesel,Manual,284313,3,Sedan,3686,15,Mid-Range
+1452,Toyota,Corolla Altis,G DIESEL,2011,333000,Diesel,Manual,283234,2,Sedan,3686,15,Mid-Range
+1453,Toyota,Fortuner,3.0 4X2 MT,2013,1050000,Diesel,Manual,138726,2,SUV,3686,13,Premium
+1455,Toyota,Innova,2.5 GX 8 STR,2013,609000,Diesel,Manual,250762,2,SUV,3686,13,Mid-Range
+1456,Toyota,Fortuner,3.0 4X2 AT,2015,1150000,Diesel,Automatic,136834,2,SUV,3686,11,Premium
+1457,Toyota,Innova,2.5 ZX 7 STR,2014,704000,Diesel,Manual,312500,2,SUV,3686,12,Premium
+1460,Toyota,Etios,GD,2018,448000,Diesel,Manual,94358,1,Sedan,3686,8,Mid-Range
+1461,Toyota,URBAN CRUISER HYRYDER,G HYBRID,2022,1354839,Hybrid,Automatic,49186,1,SUV,3686,4,Premium
+1462,Volkswagen,Vento,HIGHLINE 1.6 MPI,2016,475430,Petrol,Manual,80398,1,Sedan,3686,10,Mid-Range
+1463,Volkswagen,Polo,COMFORTLINE 1.2L,2016,360000,Petrol,Manual,70511,2,Hatchback,3686,10,Mid-Range
+1464,Volkswagen,Polo,HIGHLINE PLUS 1.0 16 ALLOY,2018,407607,Petrol,Manual,89020,2,Hatchback,3686,8,Mid-Range
+1465,Volkswagen,Polo,HIGHLINE1.5L,2018,569000,Diesel,Manual,94430,1,Hatchback,3686,8,Mid-Range
+1466,Volkswagen,VIRTUS,COMFORTLINE TSI 1.0 MT,2022,809000,Petrol,Manual,46685,1,Sedan,3686,4,Premium
+1467,Volkswagen,Ameo,TRENDLINE 1.5L,2018,348000,Diesel,Manual,117433,1,Sedan,3686,8,Mid-Range
+1468,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,2013,292903,Petrol,Manual,89229,1,Hatchback,3686,13,Budget
+1469,Volkswagen,Polo,HIGHLINE1.2L,2017,444000,Petrol,Manual,72534,2,Hatchback,3686,9,Mid-Range
+1470,Volkswagen,Ameo,HIGHLINE1.2L,2016,369500,Petrol,Manual,78203,1,Sedan,3686,10,Mid-Range
+1471,Volkswagen,Vento,HIGHLINE DIESEL 1.6,2013,354000,Diesel,Manual,89616,1,Sedan,3686,13,Mid-Range
+1472,Volkswagen,Polo,HIGHLINE PLUS 1.2(16 ALLOY,2018,530000,Petrol,Manual,60603,1,Hatchback,3686,8,Mid-Range
+1473,Volkswagen,Polo,HIGHLINE1.5L,2015,344000,Diesel,Manual,143843,1,Hatchback,3686,11,Mid-Range
+1474,Volkswagen,Ameo,HIGHLINE1.2L,2016,365000,Petrol,Manual,96313,1,Sedan,3686,10,Mid-Range
+1475,Volkswagen,TIGUAN,HIGHLINE TDI AT,2019,1306000,Diesel,Automatic,53264,1,SUV,3686,7,Premium
+1476,Volkswagen,Vento,HIGHLINE PLUS 1.0L TSI,2020,640000,Petrol,Manual,75820,1,Sedan,3686,6,Mid-Range
+1477,Volkswagen,TIGUAN,HIGHLINE TDI AT,2019,1376000,Diesel,Automatic,111433,1,SUV,3686,7,Premium
+1478,Volkswagen,TAIGUN, GT PLUS 1.5 TSI MT,2021,975500,Petrol,Manual,69630,1,SUV,3686,5,Premium
+1479,Volkswagen,Polo,TRENDLINE 1.2L DIESEL,2013,158000,Diesel,Manual,82888,2,Hatchback,3686,13,Budget
+1480,Volkswagen,Vento,HIGHLINE 1.5 AT,2016,495000,Diesel,Automatic,136252,2,Sedan,3686,10,Mid-Range
+1482,Volkswagen,Polo,COMFORTLINE 1.2L,2012,148000,Diesel,Manual,126071,5,Hatchback,3686,14,Budget
+1483,Volkswagen,Polo,HIGHLINE1.2L,2017,522000,Petrol,Manual,32615,1,Hatchback,3686,9,Mid-Range
+1484,Volkswagen,Polo,HIGHLINE PLUS 1.5 16 ALLOY,2018,455000,Diesel,Manual,66438,5,Hatchback,3686,8,Mid-Range
+1485,Volkswagen,Polo,HIGHLINE1.5L,2015,300000,Diesel,Manual,151336,2,Hatchback,3686,11,Budget
+1486,Volkswagen,Polo,TRENDLINE 1.0L,2019,450000,Petrol,Manual,90142,2,Hatchback,3686,7,Mid-Range
+1487,Volkswagen,Polo,GT TSI AT,2014,354000,Petrol,Automatic,67365,3,Hatchback,3686,12,Mid-Range
+1488,Volkswagen,Vento,HIGHLINE 1.6 MPI,2014,300000,Petrol,Manual,68204,2,Sedan,3686,12,Budget
+1489,Volkswagen,Vento,HIGHLINE 1.0L TSI,2020,674000,Petrol,Manual,36131,2,Sedan,3686,6,Mid-Range
+1490,Volkswagen,Vento,HIGHLINE PETROL AT,2013,253000,Petrol,Automatic,67859,3,Sedan,3686,13,Budget
+1491,Volkswagen,Polo,COMFORTLINE 1.2L,2012,143000,Diesel,Manual,104779,2,Hatchback,3686,14,Budget
+1492,Volkswagen,Polo,COMFORTLINE 1.2L,2013,225000,Diesel,Manual,123287,1,Hatchback,3686,13,Budget
+1493,Volkswagen,TAIGUN,HIGHLINE 1.0 TSI MT,2024,1051000,Petrol,Manual,8827,1,SUV,3686,2,Premium
+1494,Volkswagen,VIRTUS,TOPLINE TSI 1.0 MT,2023,1141000,Petrol,Manual,41843,1,Sedan,3686,3,Premium
+1495,Volkswagen,VIRTUS,HIGHLINE TSI 1.0 AT,2024,1211000,Petrol,Automatic,18000,1,Sedan,3686,2,Premium
+1496,Volkswagen,Vento,HIGHLINE DIESEL 1.6,2012,190000,Diesel,Manual,154714,3,Sedan,3686,14,Budget
+1498,Volkswagen,Vento,HIGHLINE DIESEL 1.6,2013,268000,Diesel,Manual,164971,3,Sedan,3686,13,Budget
+1499,Volkswagen,Vento,HIGHLINE DIESEL 1.6,2011,214000,Diesel,Manual,117635,2,Sedan,3686,15,Budget
+1500,Volkswagen,Polo,HIGHLINE DIESEL,2013,237000,Diesel,Manual,123324,2,Hatchback,3686,13,Budget
+1501,Volkswagen,Polo,HIGHLINE1.2L,2014,337000,Petrol,Manual,86264,3,Hatchback,3686,12,Mid-Range
+1502,Volkswagen,Passat,HIGHLINE DSG,2011,630000,Diesel,Automatic,87855,2,Sedan,3686,15,Mid-Range
+1503,Volkswagen,Polo,COMFORTLINE 1.0L MPI,2019,427000,Petrol,Manual,83565,2,Hatchback,3686,7,Mid-Range
+1504,Volkswagen,VIRTUS,TOPLINE TSI 1.0 AT,2024,1328000,Petrol,Automatic,20180,1,Sedan,3686,2,Premium
+1505,Volkswagen,Jetta,COMFORTLINE TDI,2012,386000,Diesel,Manual,160650,2,Sedan,3686,14,Mid-Range
+1506,Volkswagen,Polo,TRENDLINE 1.0L,2020,462000,Petrol,Manual,88394,2,Hatchback,3686,6,Mid-Range
+1507,Volkswagen,Polo,HIGHLINE1.2L,2014,327000,Petrol,Manual,122132,1,Hatchback,3686,12,Mid-Range
+1508,Volkswagen,Polo,HIGHLINE1.2L,2017,464000,Petrol,Manual,78605,1,Hatchback,3686,9,Mid-Range
+1509,Volkswagen,Polo,COMFORTLINE 1.0L MPI,2021,717000,Petrol,Manual,29248,1,Hatchback,3686,5,Premium
+1510,Volkswagen,TAIGUN,TOPLINE 1.0 TSI AT,2022,1156000,Petrol,Automatic,40739,1,SUV,3686,4,Premium
+1511,Volkswagen,Polo,HIGHLINE1.2L,2017,420000,Petrol,Manual,126054,2,Hatchback,3686,9,Mid-Range
+1512,Volkswagen,Polo,HIGHLINE1.2L,2016,378000,Petrol,Manual,166193,1,Hatchback,3686,10,Mid-Range
+1513,Volkswagen,T-ROC,1.5 TSI AT,2020,1154000,Petrol,Automatic,90783,1,SUV,3686,6,Premium
+1514,Volkswagen,TAIGUN,GT PLUS 1.5 TSI DSG,2023,1375000,Petrol,Automatic,41466,1,SUV,3686,3,Premium
+1515,Volkswagen,TAIGUN, GT PLUS 1.5 TSI MT,2023,1300000,Petrol,Manual,23804,1,SUV,3686,3,Premium
+1516,Volkswagen,TAIGUN,TOPLINE 1.0 TSI MT,2022,1085000,Petrol,Manual,61604,1,SUV,3686,4,Premium
+1517,Volkswagen,Ameo,HIGHLINE1.2L,2016,468000,Petrol,Manual,75174,1,Sedan,3686,10,Mid-Range
+1518,Volkswagen,Polo,HIGHLINE DIESEL,2013,263000,Diesel,Manual,141816,1,Hatchback,3686,13,Budget
+1519,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,2013,247957,Petrol,Manual,113844,2,Hatchback,3686,13,Budget
+1520,Volkswagen,Polo,HIGHLINE PLUS 1.0 16 ALLOY,2019,587320,Petrol,Manual,36726,1,Hatchback,3686,7,Mid-Range
+1521,Volkswagen,Polo,HIGHLINE PLUS 1.0L TSI,2021,675000,Petrol,Manual,79999,1,Hatchback,3686,5,Mid-Range
+1522,Ford,Ecosport,TITANIUM 1.5L DIESEL,2013,297175,Diesel,Manual,106168,2,SUV,3686,13,Budget
+1523,Ford,Figo Aspire,TREND 1.2 PETROL,2016,254000,Petrol,Manual,92966,1,Sedan,3686,10,Budget
+1524,Ford,Ecosport,TITANIUM 1.5L DIESEL,2016,519000,Diesel,Manual,44988,1,SUV,3686,10,Mid-Range
+1525,Ford,Ecosport,TITANIUM 1.5L DIESEL,2020,699000,Diesel,Manual,76741,1,SUV,3686,6,Mid-Range
+1526,Ford,Ecosport,TITANIUM 1.5L PETROL,2018,501000,Petrol,Manual,86654,2,SUV,3686,8,Mid-Range
+1527,Ford,Ecosport,TITANIUM 1.5L DIESEL,2019,669539,Diesel,Manual,58737,2,SUV,3686,7,Mid-Range
+1528,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,2020,715000,Petrol,Automatic,66064,1,SUV,3686,6,Premium
+1529,Ford,Ecosport,TITANIUM 1.5L PETROL AT,2016,435500,Petrol,Automatic,84105,1,SUV,3686,10,Mid-Range
+1530,Ford,Ecosport,AMBIENTE 1.5L DIESEL,2014,315000,Diesel,Manual,106811,2,SUV,3686,12,Mid-Range
+1531,Ford,FREESTYLE,TITANIUM 1.2 PETROL,2020,453000,Petrol,Manual,58367,1,SUV,3686,6,Mid-Range
+1532,Ford,New Figo,TITANIUM PLUS 1.2 PETROL AT,2021,540000,Petrol,Automatic,39712,2,Hatchback,3686,5,Mid-Range
+1533,Ford,Ecosport,TITANIUM 1.5L PETROL,2016,478000,Petrol,Manual,60669,2,SUV,3686,10,Mid-Range
+1534,Ford,Ecosport,TITANIUM 1.5L DIESEL,2014,417904,Diesel,Manual,102576,1,SUV,3686,12,Mid-Range
+1535,Ford,FREESTYLE,TITANIUM PLUS 1.5 DIESEL,2021,525000,Diesel,Manual,96602,1,SUV,3686,5,Mid-Range
+1536,Ford,Ecosport,TITANIUM 1.5 SPORTS(SUNROOF) PETROL,2020,745000,Petrol,Manual,74914,1,SUV,3686,6,Premium
+1537,Ford,Ecosport,TITANIUM 1.5L PETROL,2017,500000,Petrol,Manual,78659,1,SUV,3686,9,Mid-Range
+1538,Ford,New Figo,TITANIUM1.5 DIESEL,2017,321000,Diesel,Manual,136488,1,Hatchback,3686,9,Mid-Range
+1539,Ford,Ecosport,AMBIENTE 1.5L PETROL,2014,242000,Petrol,Manual,71138,3,SUV,3686,12,Budget
+1540,Ford,Figo Aspire,TREND 1.2 PETROL,2015,269000,Petrol,Manual,43478,2,Sedan,3686,11,Budget
+1541,Ford,Figo,ZXI 1.2 PETROL,2011,89000,Petrol,Manual,58746,1,Hatchback,3686,15,Budget
+1542,Ford,Figo,EXI 1.4 DIESEL,2012,103000,Diesel,Manual,115659,2,Hatchback,3686,14,Budget
+1543,Ford,Ecosport,TITANIUM 1.0L ECOBOOST,2014,301000,Petrol,Manual,98447,2,SUV,3686,12,Mid-Range
+1544,Ford,Figo,EXI 1.4 DIESEL,2012,111000,Diesel,Manual,87870,6,Hatchback,3686,14,Budget
+1545,Ford,Figo Aspire,TREND 1.5 DIESEL,2015,260000,Diesel,Manual,157628,1,Sedan,3686,11,Budget
+1546,Ford,FREESTYLE,TITANIUM 1.2 PETROL,2018,472000,Petrol,Manual,61197,2,SUV,3686,8,Mid-Range
+1547,Ford,Figo,ZXI 1.2 PETROL,2013,200000,Petrol,Manual,38981,1,Hatchback,3686,13,Budget
+1548,Ford,Figo,TITANIUM 1.4 DIESEL,2012,120000,Diesel,Manual,121237,2,Hatchback,3686,14,Budget
+1549,Ford,Ecosport,TITANIUM 1.5L DIESEL,2014,304000,Diesel,Manual,101520,5,SUV,3686,12,Mid-Range
+1550,Ford,Figo,TITANIUM 1.4 DIESEL,2012,124000,Diesel,Manual,183570,1,Hatchback,3686,14,Budget
+1551,Ford,Figo,TITANIUM 1.4 DIESEL,2012,149000,Diesel,Manual,104062,1,Hatchback,3686,14,Budget
+1552,Ford,Figo,ZXI 1.4 DIESEL,2012,114000,Diesel,Manual,101976,2,Hatchback,3686,14,Budget
+1553,Ford,Ecosport,TITANIUM 1.5L DIESEL,2021,847000,Diesel,Manual,66563,1,SUV,3686,5,Premium
+1554,Ford,Fiesta Classic,CLXI 1.4 DIESEL,2011,142000,Diesel,Manual,204458,5,Sedan,3686,15,Budget
+1555,Ford,Figo,ZXI 1.4 DIESEL,2012,134000,Diesel,Manual,94150,2,Hatchback,3686,14,Budget
+1556,Ford,Ecosport,TREND 1.5L DIESEL,2013,274000,Diesel,Manual,132225,2,SUV,3686,13,Budget
+1557,Ford,Figo Aspire,AMBIENTE 1.5 DIESEL,2016,274000,Diesel,Manual,121808,2,Sedan,3686,10,Budget
+1558,Ford,Fiesta,STYLE PETROL AT,2012,196000,Petrol,Automatic,70382,2,Sedan,3686,14,Budget
+1559,Ford,Fiesta,SXI 1.6 PETROL,2011,116012,Petrol,Manual,161829,1,Sedan,3686,15,Budget
+1560,Ford,Figo,TITANIUM 1.4 DIESEL,2011,109000,Diesel,Manual,178003,2,Hatchback,3686,15,Budget
+1561,Ford,Ecosport,TITANIUM 1.5L DIESEL,2018,562000,Diesel,Manual,144972,2,SUV,3686,8,Mid-Range
+1562,Ford,Fiesta Classic,LXI 1.4 DIESEL,2012,202000,Diesel,Manual,95597,1,Sedan,3686,14,Budget
+1563,Ford,Classic,CLXI 1.4 DIESEL,2012,165000,Diesel,Manual,185163,2,Sedan,3686,14,Budget
+1564,Ford,Figo,ZXI 1.2 PETROL,2011,126000,Petrol,Manual,77034,2,Hatchback,3686,15,Budget
+1565,Ford,Ecosport,TITANIUM 1.5L PETROL,2014,420000,Petrol,Manual,86895,2,SUV,3686,12,Mid-Range
+1566,Ford,Ecosport,TITANIUM 1.5L DIESEL,2017,553000,Diesel,Manual,107689,1,SUV,3686,9,Mid-Range
+1567,Ford,Figo Aspire,TREND 1.5 DIESEL,2015,238000,Diesel,Manual,238833,1,Sedan,3686,11,Budget
+1568,Ford,Fiesta,AMBIENTE PETROL,2012,118000,Petrol,Manual,101620,4,Sedan,3686,14,Budget
+1569,Ford,Fiesta Classic,CLXI 1.6 PETROL,2011,163000,Petrol,Manual,185000,2,Sedan,3686,15,Budget
+1570,Ford,Ecosport,TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) DIESEL,2018,630000,Diesel,Manual,65746,2,SUV,3686,8,Mid-Range
+1571,Ford,Figo,ZXI 1.2 PETROL,2011,143000,Petrol,Manual,113673,1,Hatchback,3686,15,Budget
+1572,Ford,Fiesta,ZXI 1.4 DIESEL,2012,241000,Diesel,Manual,64250,2,Sedan,3686,14,Budget
+1573,Ford,Ecosport,TITANIUM 1.5L PETROL AT,2017,454000,Petrol,Automatic,125197,2,SUV,3686,9,Mid-Range
+1574,Ford,Ecosport,TITANIUM 1.5L THUNDER EDTION PETROL,2019,710000,Petrol,Manual,31624,1,SUV,3686,7,Premium
+1575,Ford,Ecosport,TITANIUM 1.5L PETROL AT,2020,580000,Petrol,Automatic,101714,1,SUV,3686,6,Mid-Range
+1576,Ford,Ecosport,TITANIUM 1.5L DIESEL,2016,480000,Diesel,Manual,72574,2,SUV,3686,10,Mid-Range
+1577,Ford,Ecosport,TITANIUM 1.5L PETROL,2019,638000,Petrol,Manual,47963,2,SUV,3686,7,Mid-Range
+1578,Ford,FREESTYLE,TITANIUM 1.2 PETROL,2019,468000,Petrol,Manual,88000,1,SUV,3686,7,Mid-Range
+1579,Ford,Ecosport,TITANIUM 1.5L DIESEL (OPT),2013,310000,Diesel,Manual,177944,2,SUV,3686,13,Mid-Range
+1580,Ford,Ecosport,TITANIUM 1.5L SPORTS(SUNROOF) DIESEL,2019,639000,Diesel,Manual,143298,2,SUV,3686,7,Mid-Range
+1581,Ford,Ecosport,TITANIUM + 1.5L DIESEL,2017,539000,Diesel,Manual,174412,2,SUV,3686,9,Mid-Range
+1583,Ford,Ecosport,TITANIUM 1.5L DIESEL,2013,358000,Diesel,Manual,90515,1,SUV,3686,13,Mid-Range
+1584,Ford,Ecosport,TITANIUM 1.5L PETROL AT,2015,484000,Petrol,Automatic,110131,3,SUV,3686,11,Mid-Range
+1585,Ford,Ecosport,TITANIUM 1.5L PETROL AT,2018,656000,Petrol,Automatic,68459,1,SUV,3686,8,Mid-Range
+1586,Ford,Ecosport,TITANIUM 1.5L DIESEL,2016,460000,Diesel,Manual,138875,1,SUV,3686,10,Mid-Range
+1587,Ford,Ecosport,TITANIUM 1.5L DIESEL,2019,650000,Diesel,Manual,54000,1,SUV,3686,7,Mid-Range
+1588,Ford,Ecosport,TITANIUM 1.5L DIESEL,2021,988000,Diesel,Manual,20740,1,SUV,3686,5,Premium
+1589,Ford,Ecosport,1.5 TREND TI VCT AT,2018,525000,Petrol,Automatic,93833,1,SUV,3686,8,Mid-Range
+1590,Ford,Ecosport,TITANIUM 1.5L SPORTS(SUNROOF) DIESEL,2021,1021000,Diesel,Manual,83227,1,SUV,3686,5,Premium
+1591,Ford,Ecosport,TITANIUM 1.5L DIESEL,2021,943000,Diesel,Manual,87140,1,SUV,3686,5,Premium
+1592,Ford,Ecosport,TITANIUM 1.5L DIESEL,2015,391000,Diesel,Manual,144091,2,SUV,3686,11,Mid-Range
+1593,Ford,Ecosport,TITANIUM 1.5L DIESEL,2013,339000,Diesel,Manual,130648,1,SUV,3686,13,Mid-Range
+1594,Ford,Ecosport,TITANIUM 1.5L DIESEL,2015,451000,Diesel,Manual,116222,1,SUV,3686,11,Mid-Range
+1595,Ford,Ecosport,TITANIUM 1.5L DIESEL,2020,630000,Diesel,Manual,100107,1,SUV,3686,6,Mid-Range
