@@ -1,0 +1,19 @@
+# Project Summary
+
+This project analyzes the used car market in Hyderabad using data collected
+through API-based web scraping.
+
+The goal of the project is to understand how factors such as vehicle age,
+kilometers driven, brand reputation, body type, and ownership history
+influence resale prices.
+
+The project includes:
+
+- Data collection through web scraping
+- Data cleaning and preprocessing
+- Feature engineering
+- Exploratory Data Analysis
+- Visualization of pricing trends
+
+The insights derived from this analysis can support buyers, sellers,
+and online marketplaces in understanding used car pricing behavior.
